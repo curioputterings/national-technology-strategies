@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>National Technology Strategies — Maturity Heatmap (46 entities × 8 domains)</title>
+<meta name="description" content="How 45 countries + the EU pursue 8 frontier-technology domains — an interactive maturity heatmap of national strategies for nuclear, AI, quantum, biotech, critical minerals, semiconductors, digital and autonomous systems.">
+<style>
+  :root{
+    --bg:#f7f8fa; --panel:#ffffff; --ink:#1f2933; --muted:#6b7785; --line:#e3e7ec;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1180px; margin:0 auto; padding:28px 20px 64px}
+  h1{font-size:22px; margin:0 0 4px; letter-spacing:-.01em}
+  .sub{color:var(--muted); margin:0 0 14px; font-size:13px}
+  .sub a{color:#2a9d8f}
+  .toplinks{display:flex; flex-wrap:wrap; gap:8px 16px; margin:0 0 18px; font-size:13px}
+  .toplinks a{color:#2a7d72; text-decoration:none; font-weight:600; border-bottom:1px solid transparent}
+  .toplinks a:hover{border-bottom-color:#2a7d72}
+  .legend{display:flex; flex-wrap:wrap; gap:14px; align-items:center; margin:0 0 18px; padding:12px 14px;
+    background:var(--panel); border:1px solid var(--line); border-radius:10px}
+  .legend .item{display:flex; align-items:center; gap:7px; font-size:12.5px; color:#3a4654}
+  .legend .sw{width:18px; height:18px; border-radius:4px; display:inline-flex; align-items:center; justify-content:center;
+    font-size:11px; font-weight:700}
+  .tablewrap{background:var(--panel); border:1px solid var(--line); border-radius:10px; overflow:auto; max-height:82vh}
+  table{border-collapse:separate; border-spacing:0; width:100%}
+  th,td{padding:0; text-align:center}
+  thead th{
+    position:sticky; top:0; z-index:3; background:var(--panel); color:var(--muted);
+    font-weight:600; font-size:11px; padding:10px 4px; border-bottom:1px solid var(--line);
+    white-space:nowrap;
+  }
+  thead th.corner{left:0; z-index:4; text-align:left; padding-left:14px; min-width:188px}
+  .region td{
+    position:sticky; left:0; z-index:1;
+    background:#eef1f4; color:#465161; font-weight:700; font-size:10.5px; letter-spacing:.08em;
+    text-transform:uppercase; text-align:left; padding:7px 14px; border-bottom:1px solid var(--line);
+  }
+  th.rowlab{
+    position:sticky; left:0; z-index:2; background:var(--panel); text-align:left;
+    font-weight:500; font-size:12.5px; padding:6px 10px 6px 14px; border-bottom:1px solid var(--line);
+    white-space:nowrap; min-width:188px;
+  }
+  th.rowlab a{color:var(--ink); text-decoration:none; border-bottom:1px dotted #b8c0c9}
+  th.rowlab a:hover{color:#2a9d8f; border-bottom-color:#2a9d8f}
+  td.cell{
+    border-bottom:1px solid rgba(255,255,255,.55); border-right:1px solid rgba(255,255,255,.55);
+    height:30px; font-size:11px; font-weight:700; cursor:default; min-width:62px;
+  }
+  td.cell:hover{outline:2px solid #1f2933; outline-offset:-2px; position:relative; z-index:1}
+  .tip{
+    position:fixed; pointer-events:none; z-index:50; background:#1f2933; color:#fff;
+    padding:8px 11px; border-radius:7px; font-size:12px; max-width:280px; box-shadow:0 6px 22px rgba(0,0,0,.22);
+    opacity:0; transition:opacity .08s; line-height:1.45;
+  }
+  .tip b{color:#7fe3d6}
+  .tip .pl{display:inline-block; margin-top:3px; font-weight:700}
+  .foot{margin-top:22px}
+  .foot h2{font-size:14px; margin:0 0 10px; color:#3a4654}
+  .dist{display:grid; grid-template-columns:130px 1fr 46px; gap:6px 12px; align-items:center; font-size:12px}
+  .dist .dl{color:#465161; font-weight:600}
+  .bar{display:flex; height:16px; border-radius:4px; overflow:hidden; background:#eceff1}
+  .bar span{display:block}
+  .dist .dn{color:var(--muted); text-align:right; font-variant-numeric:tabular-nums}
+  .note{color:var(--muted); font-size:11.5px; margin-top:18px; max-width:760px}
+  .support{
+    margin-top:30px; padding:22px 20px; background:var(--panel); border:1px solid var(--line);
+    border-radius:12px; display:flex; flex-wrap:wrap; align-items:center; gap:16px 26px; justify-content:space-between;
+  }
+  .support .blurb{font-size:13px; color:#3a4654; max-width:560px}
+  .support .blurb strong{color:var(--ink)}
+  .support .actions{display:flex; align-items:center; gap:18px; flex-wrap:wrap}
+  .bmc{display:inline-flex; align-items:center; gap:9px; background:#ffdd00; color:#0d0c0c; font-weight:800;
+    text-decoration:none; padding:11px 18px; border-radius:10px; font-size:14px; box-shadow:0 2px 8px rgba(0,0,0,.12)}
+  .bmc:hover{filter:brightness(.97)}
+  .bmc svg{width:20px; height:20px}
+  .contact{font-size:13px; color:var(--muted)}
+  .contact a{color:#2a7d72; font-weight:600; text-decoration:none}
+  .contact a:hover{text-decoration:underline}
+  .pagefoot{margin-top:26px; text-align:center; color:#9aa7b2; font-size:11.5px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>National Technology Strategies — Maturity Heatmap</h1>
+  <p class="sub">45 countries + the EU (46 entities) × 8 frontier-technology domains. Each cell = the entity's strategic <em>posture</em> in that domain. Hover a cell for detail; click an entity to open its full profile. Source: Gemini deep research, 2026.</p>
+  <div class="toplinks">
+    <a href="https://github.com/curioputterings/national-technology-strategies#readme">Methodology (README)</a>
+    <a href="https://github.com/curioputterings/national-technology-strategies/blob/main/INDEX.md">Full catalogue &amp; analysis</a>
+    <a href="https://github.com/curioputterings/national-technology-strategies">GitHub repository</a>
+  </div>
+
+  <div class="legend" id="legend"></div>
+
+  <div class="tablewrap">
+    <table id="grid"></table>
+  </div>
+
+  <div class="foot">
+    <h2>Distribution by domain — how broadly each technology is pursued</h2>
+    <div class="dist" id="dist"></div>
+  </div>
+
+  <p class="note">
+    <strong>How to read this:</strong> the posture scale (<em>banned/phased-out → absent → nascent → active → mature → frontier</em>) is an <em>editorial</em> reading of each national strategy's ambition, funding, and maturity — not a quantitative index. Nuclear's red cells mark deliberate prohibitions or phase-outs (a negative <em>choice</em>, not a capability gap), which is why that column reads as a fault line rather than a gradient. "Frontier" is reserved for genuine global leaders in a domain. Verify specifics against the cited official sources in each country profile before citation.
+  </p>
+
+  <div class="support">
+    <div class="blurb">
+      <strong>Like this?</strong> It's the output of deep research across 46 countries × 8 domains — 368 hand-checked policy analyses. If it's useful to you, a coffee keeps the lights on.
+    </div>
+    <div class="actions">
+      <a class="bmc" href="https://www.buymeacoffee.com/curioputterings" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path d="M4 8h13v6a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5V8z" stroke="#0d0c0c" stroke-width="1.8"/>
+          <path d="M17 9h2.2a2.3 2.3 0 0 1 0 4.6H17" stroke="#0d0c0c" stroke-width="1.8"/>
+          <path d="M7.5 3.4c-.5.7-.5 1.3 0 2M10.5 3.4c-.5.7-.5 1.3 0 2M13.5 3.4c-.5.7-.5 1.3 0 2" stroke="#0d0c0c" stroke-width="1.6" stroke-linecap="round"/>
+        </svg>
+        Buy me a coffee
+      </a>
+      <span class="contact">Contact: <a href="mailto:curioputterings@proton.me">curioputterings@proton.me</a></span>
+    </div>
+  </div>
+
+  <p class="pagefoot">Compiled with Gemini deep research (2026) · shared for research &amp; reference · postures are an editorial reading, not a measured index.</p>
+</div>
+
+<div class="tip" id="tip"></div>
+
+<script>
+const REPO_BASE = "https://github.com/curioputterings/national-technology-strategies/blob/main/";
+
+const DOMAINS = [
+  ["Nuc","Nuclear energy"],
+  ["AI","Artificial intelligence"],
+  ["Qnt","Quantum information science"],
+  ["Bio","Biomedical & biotechnology"],
+  ["Mat","Materials & critical minerals"],
+  ["Sem","Semiconductors"],
+  ["Dig","Digital infrastructure"],
+  ["Aut","Autonomous systems"]
+];
+
+// level -> {label, fill, ink, glyph}
+const LV = {
+  "-1":{l:"Banned / phased-out", c:"#c0392b", t:"#fff", g:"✕"},
+   "0":{l:"Absent",              c:"#eceff1", t:"#9aa7b2", g:"–"},
+   "1":{l:"Nascent",             c:"#d2ece7", t:"#1c6b60", g:"1"},
+   "2":{l:"Active",              c:"#83c9c1", t:"#0c3f39", g:"2"},
+   "3":{l:"Mature",              c:"#2a9d8f", t:"#ffffff", g:"3"},
+   "4":{l:"Frontier",            c:"#0b6b5f", t:"#ffffff", g:"4"}
+};
+const LEGEND_ORDER = ["-1","0","1","2","3","4"];
+
+// d = [Nuc, AI, Qnt, Bio, Mat, Sem, Dig, Aut]; -1 = banned/phased-out
+const DATA = [
+  {g:"North America", rows:[
+    {n:"United States",   f:"01-United-States.md", d:[4,4,4,4,3,4,4,4]},
+    {n:"Canada",          f:"10-Canada.md",        d:[2,4,3,3,3,2,2,2]},
+    {n:"Mexico",          f:"36-Mexico.md",        d:[2,3,1,2,3,2,3,1]},
+  ]},
+  {g:"East Asia", rows:[
+    {n:"China",           f:"02-China.md",         d:[4,4,4,4,4,4,4,4]},
+    {n:"Japan",           f:"03-Japan.md",         d:[3,3,3,3,3,4,3,3]},
+    {n:"South Korea",     f:"04-South-Korea.md",   d:[4,4,3,3,3,4,4,3]},
+    {n:"Taiwan",          f:"22-Taiwan.md",        d:[1,3,3,3,2,4,3,2]},
+  ]},
+  {g:"South & Central Asia", rows:[
+    {n:"India",           f:"06-India.md",         d:[3,3,3,3,2,3,4,2]},
+    {n:"Kazakhstan",      f:"45-Kazakhstan.md",    d:[2,3,1,2,3,1,3,1]},
+  ]},
+  {g:"ASEAN", rows:[
+    {n:"Singapore",       f:"05-Singapore.md",     d:[1,4,3,4,2,4,4,3]},
+    {n:"Malaysia",        f:"12-Malaysia.md",      d:[1,3,2,3,2,3,3,2]},
+    {n:"Indonesia",       f:"13-Indonesia.md",     d:[2,3,1,2,3,2,3,2]},
+    {n:"Thailand",        f:"14-Thailand.md",      d:[1,3,1,3,2,3,3,2]},
+    {n:"Vietnam",         f:"15-Vietnam.md",       d:[2,3,1,2,3,3,3,2]},
+    {n:"Philippines",     f:"16-Philippines.md",   d:[1,2,1,2,2,3,2,1]},
+    {n:"Brunei",          f:"37-Brunei.md",        d:[1,2,1,2,2,0,3,2]},
+    {n:"Cambodia",        f:"38-Cambodia.md",      d:[1,2,0,2,2,2,3,2]},
+    {n:"Laos",            f:"39-Laos.md",          d:[2,1,0,2,3,0,3,2]},
+    {n:"Myanmar",         f:"40-Myanmar.md",       d:[1,1,0,1,3,0,2,3]},
+  ]},
+  {g:"Oceania", rows:[
+    {n:"Australia",       f:"11-Australia.md",     d:[-1,2,3,3,3,1,2,3]},
+    {n:"New Zealand",     f:"46-New-Zealand.md",   d:[-1,2,2,3,2,1,3,3]},
+  ]},
+  {g:"Europe — Core & West", rows:[
+    {n:"Germany",         f:"07-Germany.md",       d:[-1,3,3,3,3,4,3,3]},
+    {n:"France",          f:"08-France.md",        d:[4,3,3,3,3,3,3,2]},
+    {n:"United Kingdom",  f:"09-United-Kingdom.md",d:[3,4,3,4,2,3,3,3]},
+    {n:"Netherlands",     f:"17-Netherlands.md",   d:[2,3,3,3,2,4,3,2]},
+    {n:"Italy",           f:"18-Italy.md",         d:[2,2,3,3,2,3,3,2]},
+    {n:"Spain",           f:"19-Spain.md",         d:[0,3,3,3,2,3,3,2]},
+    {n:"Ireland",         f:"33-Ireland.md",       d:[-1,3,3,3,2,3,3,2]},
+    {n:"Switzerland",     f:"24-Switzerland.md",   d:[2,2,3,4,2,3,3,3]},
+  ]},
+  {g:"Europe — Nordic & East", rows:[
+    {n:"Sweden",          f:"20-Sweden.md",        d:[3,2,3,3,3,2,3,3]},
+    {n:"Finland",         f:"30-Finland.md",       d:[3,3,3,3,3,2,4,3]},
+    {n:"Norway",          f:"32-Norway.md",        d:[1,3,1,3,3,2,4,4]},
+    {n:"Poland",          f:"31-Poland.md",        d:[2,2,2,2,2,1,2,3]},
+    {n:"Ukraine",         f:"43-Ukraine.md",       d:[3,2,1,2,3,2,4,4]},
+  ]},
+  {g:"EU — supranational", rows:[
+    {n:"European Union",  f:"21-European-Union.md",d:[2,4,4,3,3,3,4,3]},
+  ]},
+  {g:"Middle East & Türkiye", rows:[
+    {n:"Israel",          f:"23-Israel.md",        d:[0,4,3,4,2,4,3,3]},
+    {n:"United Arab Emirates", f:"25-UAE.md",      d:[3,4,2,3,2,3,4,3]},
+    {n:"Saudi Arabia",    f:"26-Saudi-Arabia.md",  d:[2,4,1,3,3,3,3,2]},
+    {n:"Qatar",           f:"42-Qatar.md",         d:[0,3,2,3,3,2,3,2]},
+    {n:"Oman",            f:"44-Oman.md",          d:[0,3,1,2,3,2,3,2]},
+    {n:"Türkiye",         f:"29-Turkey.md",        d:[3,3,2,3,2,2,2,4]},
+  ]},
+  {g:"Africa", rows:[
+    {n:"Egypt",           f:"34-Egypt.md",         d:[3,3,1,3,2,2,3,2]},
+    {n:"South Africa",    f:"28-South-Africa.md",  d:[2,2,2,3,3,1,2,2]},
+  ]},
+  {g:"Latin America", rows:[
+    {n:"Brazil",          f:"27-Brazil.md",        d:[2,3,2,3,3,2,3,2]},
+    {n:"Argentina",       f:"35-Argentina.md",     d:[2,2,2,3,3,1,3,2]},
+    {n:"Chile",           f:"41-Chile.md",         d:[1,3,2,2,3,0,3,2]},
+  ]},
+];
+
+// ---- legend ----
+const leg = document.getElementById("legend");
+leg.innerHTML = '<span class="item" style="font-weight:700;color:#1f2933">Posture:</span>' +
+  LEGEND_ORDER.map(k=>{
+    const v=LV[k];
+    return `<span class="item"><span class="sw" style="background:${v.c};color:${v.t}">${v.g}</span>${v.l}</span>`;
+  }).join("");
+
+// ---- grid ----
+const grid = document.getElementById("grid");
+let html = "<thead><tr><th class='corner'>Entity</th>";
+DOMAINS.forEach(d=> html += `<th title="${d[1]}">${d[0]}</th>`);
+html += "</tr></thead><tbody>";
+
+DATA.forEach(group=>{
+  html += `<tr class="region"><td colspan="${DOMAINS.length+1}">${group.g}</td></tr>`;
+  group.rows.forEach(row=>{
+    html += `<tr><th class="rowlab"><a href="${REPO_BASE+row.f}" target="_blank" rel="noopener">${row.n}</a></th>`;
+    row.d.forEach((lv,i)=>{
+      const v=LV[String(lv)];
+      html += `<td class="cell" style="background:${v.c};color:${v.t}" `+
+              `data-e="${row.n}" data-dom="${DOMAINS[i][1]}" data-pl="${v.l}">${v.g}</td>`;
+    });
+    html += "</tr>";
+  });
+});
+html += "</tbody>";
+grid.innerHTML = html;
+
+// ---- tooltip ----
+const tip = document.getElementById("tip");
+grid.addEventListener("mousemove", e=>{
+  const c = e.target.closest("td.cell");
+  if(!c){ tip.style.opacity=0; return; }
+  tip.innerHTML = `<b>${c.dataset.e}</b> &middot; ${c.dataset.dom}<br><span class="pl">${c.dataset.pl}</span>`;
+  tip.style.opacity=1;
+  let x=e.clientX+14, y=e.clientY+14;
+  if(x+290>window.innerWidth) x=e.clientX-290;
+  if(y+70>window.innerHeight) y=e.clientY-70;
+  tip.style.left=x+"px"; tip.style.top=y+"px";
+});
+grid.addEventListener("mouseleave", ()=> tip.style.opacity=0);
+
+// ---- distribution footer ----
+const dist = document.getElementById("dist");
+const order = ["4","3","2","1","0","-1"]; // frontier -> banned, left to right
+let distHtml = "";
+DOMAINS.forEach((dom,i)=>{
+  const counts={"-1":0,"0":0,"1":0,"2":0,"3":0,"4":0};
+  DATA.forEach(gr=>gr.rows.forEach(r=>counts[String(r.d[i])]++));
+  const total = Object.values(counts).reduce((a,b)=>a+b,0);
+  const segs = order.map(k=>{
+    const n=counts[k]; if(!n) return "";
+    const v=LV[k];
+    return `<span title="${v.l}: ${n}" style="width:${(n/total*100).toFixed(2)}%;background:${v.c}"></span>`;
+  }).join("");
+  const advanced = counts["3"]+counts["4"];
+  distHtml += `<div class="dl">${dom[1]}</div><div class="bar">${segs}</div><div class="dn">${advanced}/${total}</div>`;
+});
+dist.innerHTML = distHtml;
+</script>
+</body>
+</html>
