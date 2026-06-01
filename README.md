@@ -44,8 +44,15 @@ What reads as a tidy table is the output of a deliberately structured research p
 README.md          – this file (overview + methodology)
 INDEX.md           – full catalogue: country index, flagship matrices, cross-cutting observations
 index.html         – interactive maturity heatmap (the GitHub Pages site)
+LICENSE            – CC BY 4.0
 01-United-States.md … 46-New-Zealand.md   – the 46 per-entity profiles
 ```
+
+## License
+
+© 2026 curioputterings. The **summaries, the catalogue, and the visualisation** in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE) — you're free to share and adapt them, including commercially, as long as you give appropriate credit and link to this repository.
+
+Note: the license covers *this compilation and its original summaries/analysis*. The underlying official strategies, plans, and laws are the property of their respective governments and institutions; consult the cited source for their terms.
 
 ## Support
 
