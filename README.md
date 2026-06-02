@@ -54,6 +54,39 @@ LICENSE            – CC BY 4.0
 
 Note: the license covers *this compilation and its original summaries/analysis*. The underlying official strategies, plans, and laws are the property of their respective governments and institutions; consult the cited source for their terms.
 
+## How to cite / attribution
+
+CC BY 4.0 just asks for credit. If you use or adapt this work, please attribute it — copy whichever format fits:
+
+**Plain text**
+```
+"National Technology Strategies — 46 Entities × 8 Frontier Domains" by curioputterings,
+licensed under CC BY 4.0. Source: https://github.com/curioputterings/national-technology-strategies
+```
+
+**Markdown**
+```markdown
+["National Technology Strategies — 46 Entities × 8 Frontier Domains"](https://github.com/curioputterings/national-technology-strategies) by [curioputterings](https://github.com/curioputterings) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+```
+
+**HTML**
+```html
+<a href="https://github.com/curioputterings/national-technology-strategies">National Technology Strategies — 46 Entities × 8 Frontier Domains</a> by curioputterings is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+```
+
+**BibTeX**
+```bibtex
+@misc{curioputterings2026nattech,
+  title        = {National Technology Strategies across 8 Frontier Domains for 45 Countries and the EU},
+  author       = {{curioputterings}},
+  year         = {2026},
+  howpublished = {\url{https://github.com/curioputterings/national-technology-strategies}},
+  note         = {Licensed under CC BY 4.0}
+}
+```
+
+When adapting (rescoring, re-summarising, building on the data), please note that changes were made.
+
 ## Support
 
 If this is useful to you, you can support the work here:
