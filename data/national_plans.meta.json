@@ -1,0 +1,25 @@
+{
+  "generator": "tools/extract_plans.py",
+  "source_index_html": "index.html",
+  "n_entities": 46,
+  "n_rows": 368,
+  "domains": [
+    "Nuclear energy",
+    "Artificial intelligence",
+    "Quantum information science",
+    "Biomedical & biotechnology",
+    "Materials & critical minerals",
+    "Semiconductors",
+    "Digital infrastructure",
+    "Autonomous systems"
+  ],
+  "posture_scale": {
+    "-1": "banned/phased-out",
+    "0": "absent",
+    "1": "nascent",
+    "2": "active",
+    "3": "mature",
+    "4": "frontier"
+  },
+  "warnings": []
+}

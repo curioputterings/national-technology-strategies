@@ -1,0 +1,3590 @@
+{
+  "United States": {
+    "iso3": "USA",
+    "file": "01-United-States.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "EO 14302 \"Reinvigorating the Nuclear Industrial Base\" (+ EOs 14299/14300)",
+        "issuing_body": "White House",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "America's AI Action Plan (\"Winning the AI Race\")",
+        "issuing_body": "White House / OSTP",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "EO 14413 \"Ushering in the Next Frontier of Quantum Innovation\"",
+        "issuing_body": "White House",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Charting the Future of Biotechnology (NSCEB final report)",
+        "issuing_body": "Nat'l Security Comm. on Emerging Biotech",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Materials Genome Initiative Strategic Plan (+ 2026 Section 232 critical-minerals proclamation)",
+        "issuing_body": "NSTC",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "National Strategy on Microelectronics Research (+ 2026 Section 232 semiconductor proclamation)",
+        "issuing_body": "NSTC / OSTP",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "U.S. International Cyberspace and Digital Policy Strategy (+ 2025 data-center permitting EO)",
+        "issuing_body": "Dept. of State / White House",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "EO 14307 \"Unleashing American Drone Dominance\" (+ DoD drone-dominance memo)",
+        "issuing_body": "White House / DoD",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Canada": {
+    "iso3": "CAN",
+    "file": "10-Canada.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "SMR Action Plan",
+        "issuing_body": "NRCan",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI for All: Canada's National AI Strategy",
+        "issuing_body": "Min. of AI & Digital Innovation / ISED",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Quantum Strategy",
+        "issuing_body": "ISED",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Biomanufacturing and Life Sciences Strategy",
+        "issuing_body": "ISED / Health Canada",
+        "year": 2021,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Canadian Critical Minerals Strategy",
+        "issuing_body": "NRCan",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "FABrIC",
+        "issuing_body": "ISED / CMC Microsystems",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "High-Speed Access for All: Connectivity Strategy",
+        "issuing_body": "ISED",
+        "year": 2019,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Transport Canada's Drone Strategy to 2025",
+        "issuing_body": "Transport Canada",
+        "year": 2021,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Mexico": {
+    "iso3": "MEX",
+    "file": "36-Mexico.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Programa Sectorial de Energía (PROSENER) 2025–2030 + PRODESEN 2024–2038",
+        "issuing_body": "SENER / CFE / ININ / CNSNS",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Plan Nacional de IA (ATDT) + iniciativa Ley Federal de IA / Consejo Nacional de IA",
+        "issuing_body": "ATDT (exec) / Congreso",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Iniciativa Mexicana en Tecnología Cuántica (IMTC)",
+        "issuing_body": "DICU / Sociedad Mexicana de Física",
+        "year": 2023,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Programa Sectorial CHTI 2025–2030 + PRONACES-Salud",
+        "issuing_body": "SECIHTI (ex-CONAHCYT)",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Decreto de Creación de LitioMx",
+        "issuing_body": "Federal Executive / SENER",
+        "year": 2022,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Centro \"Kutsari\" + Programa Institucional InnovaBienestar 2026–2030",
+        "issuing_body": "SECIHTI / InnovaBienestar / Sonora",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Programa Sectorial de la ATDT 2025–2030 (Nube MX)",
+        "issuing_body": "ATDT / Presidencia",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "NOM-107-SCT3-2019 (drones)",
+        "issuing_body": "SCT / AFAC",
+        "year": 2019,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "China": {
+    "iso3": "CHN",
+    "file": "02-China.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "15th FYP for New Energy System Construction (新型能源体系建设\"十五五\"规划)",
+        "issuing_body": "NDRC + NEA",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Opinions on Deeply Implementing the \"AI Plus\" Action (关于深入实施\"人工智能+\"行动的意见)",
+        "issuing_body": "State Council",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "15th FYP Outline future-industry provisions + earlier 14th FYP quantum measures",
+        "issuing_body": "NPC / CPC / MOST",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "14th FYP for Bioeconomy Development (十四五生物经济发展规划)",
+        "issuing_body": "NDRC",
+        "year": 2022,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "14th FYP for Raw Materials Industry Development",
+        "issuing_body": "MIIT / MOST / MNR",
+        "year": 2021,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "State Council Notice on IC & Software High-Quality Development",
+        "issuing_body": "State Council",
+        "year": 2020,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "14th FYP for Digital Economy Development",
+        "issuing_body": "State Council",
+        "year": 2021,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "NEV Plan (2021–2035) + ICV Standards Guide (2023)",
+        "issuing_body": "State Council; MIIT/SAC",
+        "year": 2023,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Japan": {
+    "iso3": "JPN",
+    "file": "03-Japan.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Seventh Strategic Energy Plan",
+        "issuing_body": "METI / Cabinet",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI Promotion Act + AI Basic Plan (over Integrated Innovation Strategy 2025)",
+        "issuing_body": "Cabinet Office (AI Strategy HQ) / METI / MIC",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum Future Society Vision + Quantum Ecosystem Promotion Measures",
+        "issuing_body": "Cabinet Office",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Bioeconomy Strategy",
+        "issuing_body": "Cabinet Office",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Materials Innovation Strategy + Promotion Measures",
+        "issuing_body": "Cabinet Office",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Strategy for Semiconductors and the Digital Industry",
+        "issuing_body": "METI",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Priority Policy Program for Realizing a Digital Society",
+        "issuing_body": "Digital Agency",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Mobility DX Strategy + RoAD to the L4",
+        "issuing_body": "METI / MLIT",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "South Korea": {
+    "iso3": "KOR",
+    "file": "04-South-Korea.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "11th Basic Plan for Long-Term Electricity Supply & Demand (12th Plan in formulation)",
+        "issuing_body": "MCEE (formerly MOTIE)",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI Basic Act (in force) + MSIT 2026 Work Plan / 100T-won AI Highway",
+        "issuing_body": "MSIT / National AI Committee",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum Science & Technology Strategy + Promotion Act",
+        "issuing_body": "MSIT",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Advanced Bio Initiative",
+        "issuing_body": "Cross-ministerial",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Strategy for Securing Reliable Critical Minerals Supply",
+        "issuing_body": "MOTIE",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Semiconductor Mega Cluster Plan + K-Chips Act",
+        "issuing_body": "MOTIE / MSIT",
+        "year": 2024,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Strategy of Korea + K-Network 2030",
+        "issuing_body": "MSIT",
+        "year": 2023,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Advanced Robotics Strategy + Mobility Innovation Roadmap",
+        "issuing_body": "MOTIE / MOLIT",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Taiwan": {
+    "iso3": "TWN",
+    "file": "22-Taiwan.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Nuclear Reactor Facilities Regulation Act amendment (restart)",
+        "issuing_body": "Legislative Yuan / MOEA / NSC",
+        "year": 2025,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI New Ten Major Construction Plan + AI Basic Act",
+        "issuing_body": "Executive Yuan / NDC / NSTC / MODA",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Strategy for High-Speed Quantum Computing",
+        "issuing_body": "NSTC / Academia Sinica / TQPO",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Emerging Biomedical Industries Development & Internationalization Program",
+        "issuing_body": "MOEA / IDA (+ BIIP, Precision Health)",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "CbI materials focus + Critical Minerals / Rare Earth Pilot-Scale Production Plan",
+        "issuing_body": "NSTC / MOEA / ITRI",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Taiwan Chip-based Industrial Innovation Program (CbI)",
+        "issuing_body": "Executive Yuan / NSTC / MOEA",
+        "year": 2024,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Smart Nation Plan / DIGI+",
+        "issuing_body": "Executive Yuan / MODA",
+        "year": 2021,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Integrated UAV Industry Development Plan / Drone National Team",
+        "issuing_body": "MOEA / MND / Chiayi",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "India": {
+    "iso3": "IND",
+    "file": "06-India.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Nuclear Energy Mission + SHANTI Act 2025",
+        "issuing_body": "DAE",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "IndiaAI Mission + AI Governance Guidelines",
+        "issuing_body": "MeitY",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Quantum Mission (NQM)",
+        "issuing_body": "DST",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "BioE3 Policy",
+        "issuing_body": "DBT",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "National Critical Mineral Mission (NCMM)",
+        "issuing_body": "Ministry of Mines",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "India Semiconductor Mission (ISM 2.0)",
+        "issuing_body": "MeitY",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital India Programme + DPDP Rules 2025",
+        "issuing_body": "MeitY",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Draft National Strategy on Robotics + Drone PLI",
+        "issuing_body": "MeitY / MoCA",
+        "year": 2023,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Kazakhstan": {
+    "iso3": "KAZ",
+    "file": "45-Kazakhstan.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "2024 NPP Referendum + Rosatom/CNNC consortia + Nuclear Industry Development Strategy to 2050",
+        "issuing_body": "President / Atomic Energy Agency",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Concept for AI Development 2024–2029 + Law on AI (No. 230-VIII) + Digital Qazaqstan",
+        "issuing_body": "Ministry of AI & Digital Development / Parliament",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Kazakh-Singaporean Center for Quantum Technologies",
+        "issuing_body": "Min. Science & Higher Education / KazNU",
+        "year": 2026,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "QazBioPharm / National Center for Biotechnology programs",
+        "issuing_body": "Ministry of Healthcare / QazBioPharm",
+        "year": 1993,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Comprehensive Plan for Rare & Rare-Earth Metals 2024–2028 + US/EU critical-minerals deals",
+        "issuing_body": "Min. Industry & Construction / DBK",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "\"One Student, One Chip\" + Suto Kazakhstan plant",
+        "issuing_body": "Nazarbayev University / JV",
+        "year": 2024,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Kazakhstan + Digital Qazaqstan (to 2029) + Digital Code (No. 255-VIII)",
+        "issuing_body": "Ministry of AI & Digital Development / Parliament",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Rules for the Operation of UAVs",
+        "issuing_body": "Civil Aviation Committee (CAC)",
+        "year": null,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Singapore": {
+    "iso3": "SGP",
+    "file": "05-Singapore.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Energy 2050 Committee Report + nuclear capability framework",
+        "issuing_body": "EMA",
+        "year": 2024,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "NAIS 2.0 + Update to NAIS (2026) / National AI Council",
+        "issuing_body": "Smart Nation Group / MDDI / IMDA",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Quantum Strategy + RIE2030 Quantum Thematic Plan",
+        "issuing_body": "NRF / National Quantum Office",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "RIE2030 — Human Health & Potential domain",
+        "issuing_body": "NRF / MOH / A*STAR",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "RIE2030 — Manufacturing, Trade & Connectivity (Adv. Materials)",
+        "issuing_body": "NRF / A*STAR",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Semiconductor RIE Flagship (RIE2030) + Manufacturing 2030",
+        "issuing_body": "EDB / A*STAR / MTI",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Smart Nation 2.0 + Digital Connectivity Blueprint + Digital Infrastructure Act",
+        "issuing_body": "Smart Nation Group / IMDA / MDDI",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "National Robotics Programme + LTA AV Legislative Framework",
+        "issuing_body": "A*STAR / NRF / LTA / MOT",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Malaysia": {
+    "iso3": "MYS",
+    "file": "12-Malaysia.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "13th Malaysia Plan (RMK13) + NETR",
+        "issuing_body": "Ministry of Economy / PETRA / MyPOWER",
+        "year": 2025,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI Technology Action Plan 2026–2030 (succeeds AI-Rmap 2021–2025) + Sovereign AI Cloud",
+        "issuing_body": "National AI Office (Ministry of Digital)",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Quantum Policy 2026–2035",
+        "issuing_body": "MOSTI / MIMOS / MED4IRN",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Biotechnology Policy 2.0 (NBP 2.0) + National Biotechnology Ethics Guidelines",
+        "issuing_body": "MOSTI / Bioeconomy Corp",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "National Advanced Materials Roadmap 2021–2030 + REE raw-export ban / critical-minerals policy",
+        "issuing_body": "MOSTI / MIGHT / MITI",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "National Semiconductor Strategy (NSS)",
+        "issuing_body": "MITI",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Malaysia Digital Economy Blueprint (MyDIGITAL)",
+        "issuing_body": "EPU / Ministry of Economy",
+        "year": 2021,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "National Robotics Roadmap + MDTAP30 + Low-Altitude Economy (LAE) Roadmap",
+        "issuing_body": "MOSTI / MRANTI / MOT–CAAM",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Indonesia": {
+    "iso3": "IDN",
+    "file": "13-Indonesia.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "RUKN 2025–2060 + RUPTL 2025–2034; PP 40/2025 (KEN) + NEPIO/Satgas PLTN",
+        "issuing_body": "ESDM / PLN / DEN / PANRB",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "RPerpres Peta Jalan KA Nasional 2026–2029 + RPerpres Etika AI (draft; supersedes Stranas KA 2020–2045)",
+        "issuing_body": "Komdigi / BRIN / Bappenas",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum-Security Roadmap 2025–2030",
+        "issuing_body": "Unhan RI / BRIN / BSSN / TNI",
+        "year": 2025,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "BGSi Blueprint (Digital Health Transformation)",
+        "issuing_body": "Ministry of Health",
+        "year": 2022,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Hilirisasi Investasi Strategis Roadmap 2023–2040 + Badan Industri Mineral (Perpres 76/2025)",
+        "issuing_body": "Kementerian Investasi & Hilirisasi/BKPM + BIM",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Grand Strategy Industri Semikonduktor Nasional (ICDeC)",
+        "issuing_body": "Bappenas / Kemenperin / Kemdiktisaintek",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Visi Indonesia Digital 2045",
+        "issuing_body": "Komdigi (ex-Kominfo)",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Making Indonesia 4.0 + Aerospace/UAS Roadmap 2022–2045",
+        "issuing_body": "Kemenperin / Bappenas / Kemenhub",
+        "year": 2022,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Thailand": {
+    "iso3": "THA",
+    "file": "14-Thailand.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Power Development Plan 2024–2037 (PDP 2024)",
+        "issuing_body": "Ministry of Energy / EPPO / EGAT",
+        "year": 2024,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Strategy and Action Plan 2022–2027 + draft Thailand AI Act",
+        "issuing_body": "National AI Committee / MHESI / MDES / ETDA",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum Technology Roadmap 2020–2029 + \"Quantum-Ready 2030\" (PQC) roadmap",
+        "issuing_body": "MHESI / NXPO; NCSA",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "BCG Economy Model (Medical & Wellness)",
+        "issuing_body": "Cabinet / MoPH / BIOTEC",
+        "year": 2021,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "National Materials Tech Framework (within BCG)",
+        "issuing_body": "MTEC / NSTDA / NXPO",
+        "year": 2021,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "National Semiconductor and Advanced Electronics Strategy",
+        "issuing_body": "National Semiconductor Board / BOI",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Economy and Society Development Plan 2018–2037 (+ Digital Government Plan 2025–27, Digital Data Infrastructure Roadmap 2025–29)",
+        "issuing_body": "MDES / ONDE / DGA",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "30@30 EV Policy + National Robotics Development Plan",
+        "issuing_body": "EV Board / BOI / Ministry of Industry",
+        "year": 2021,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Vietnam": {
+    "iso3": "VNM",
+    "file": "15-Vietnam.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Amended PDP8 + Atomic Energy Law + Resolutions 174/189 (restart)",
+        "issuing_body": "PM / National Assembly",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Strategy (Decision 127) + Law on Artificial Intelligence (134/2025/QH15)",
+        "issuing_body": "PM / National Assembly",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum Technology Project + PEBR 2026–2035",
+        "issuing_body": "Politburo / MOST",
+        "year": 2026,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Resolution 36-NQ/TW on Biotechnology",
+        "issuing_body": "Politburo",
+        "year": 2023,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Mineral Master Plan to 2030 (Decision 866) + Geology & Minerals Law",
+        "issuing_body": "PM / National Assembly",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Rare Earths"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Semiconductor Strategy to 2030/2050 (Decision 1018) + HR Program (1017)",
+        "issuing_body": "Prime Minister",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Infrastructure Strategy (Decision 1132) + Law on Digital Technology Industry (71/2025/QH15)",
+        "issuing_body": "PM / National Assembly",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "UTM System (Decision 808) + Strategic Tech List (Decision 21/2026)",
+        "issuing_body": "PM / Ministry of Defence",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Philippines": {
+    "iso3": "PHL",
+    "file": "16-Philippines.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "RA 12305 (PhilATOM Act) + Executive Order 164 + PEP 2023–2050",
+        "issuing_body": "Office of the President / DOE / PhilATOM",
+        "year": 2025,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Strategy of the Philippines (NAIS-PH) + NAISR 2.0",
+        "issuing_body": "DOST / DTI / CAIR",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum Technology Roadmap",
+        "issuing_body": "DOST-PCIEERD",
+        "year": 2035,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Biotechnology Strategy (under PAGTANAW 2050)",
+        "issuing_body": "DOST / DA / NCBP",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Philippine Mineral Industry Roadmap + Advanced Materials R&D",
+        "issuing_body": "DENR-MGB / DOST-PCIEERD / DTI",
+        "year": 2023,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Semiconductor & Electronics Industry Roadmap (Tatak Pinoy / CREATE MORE)",
+        "issuing_body": "DTI / SEIPI",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "National Digital Connectivity Plan (NDCP) 2024–2028 + E-Governance Act (RA 12254)",
+        "issuing_body": "DICT",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Inclusive Innovation Industrial Strategy (i³S) + Industry 4.0 Pilot Factory",
+        "issuing_body": "DTI / DOST-PCIEERD / CAAP",
+        "year": 2022,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Brunei": {
+    "iso3": "BRN",
+    "file": "37-Brunei.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Radiation Protection Act (Ch. 228) + IAEA Milestones Approach",
+        "issuing_body": "SHENA / PMO Energy Dept",
+        "year": 2021,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Guide on AI Governance and Ethics + Data and AI Strategy (under DB2030)",
+        "issuing_body": "AITI / Digital Brunei Council",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Post-Quantum Cryptography Migration Framework (consultation)",
+        "issuing_body": "Cyber Security Brunei (CSB)",
+        "year": 2025,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "NBSAP + Biomedical Research & Ethics Unit (BREU)",
+        "issuing_body": "Forestry Dept / Ministry of Health",
+        "year": 2023,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Midstream & Downstream Regulatory Framework",
+        "issuing_body": "Petroleum Authority (PABD)",
+        "year": 2019,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": false,
+        "plan": "*Explicitly absent*",
+        "issuing_body": "—",
+        "year": null,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Brunei 2030 (DB2030) — succeeds DE2025",
+        "issuing_body": "Digital Brunei Council / MTIC / AITI",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Civil Aviation Order 2006 (drones); robotics absent",
+        "issuing_body": "Dept of Civil Aviation (DCA)",
+        "year": 2006,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Cambodia": {
+    "iso3": "KHM",
+    "file": "38-Cambodia.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "MoUs on Peaceful Use + Draft Nuclear Law",
+        "issuing_body": "MME / Dept of Nuclear Science & Technology",
+        "year": 2015,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Draft National AI Strategy 2025–2030 (public consultation)",
+        "issuing_body": "MPTC (with UNESCO, UN-ESCAP, MISTI)",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": false,
+        "plan": "*Explicitly absent*",
+        "issuing_body": "—",
+        "year": null,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Health Strategic Plan 2025–2034 (HSP4) + NAHSR",
+        "issuing_body": "Ministry of Health / NIPH",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Mineral Resources Policy 2018–2028 + US–Cambodia Reciprocal Trade Agreement (critical minerals)",
+        "issuing_body": "MME / Ministry of Commerce",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Automotive & Electronics Roadmap + EDA Roadmap",
+        "issuing_body": "CDC / MISTI",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Economy & Society Policy Framework 2021–2035",
+        "issuing_body": "SNEC / MPTC / Techo Startup Center",
+        "year": 2021,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "UAV Operation Directives & Guidelines",
+        "issuing_body": "State Secretariat of Civil Aviation (SSCA)",
+        "year": null,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Laos": {
+    "iso3": "LAO",
+    "file": "39-Laos.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Russia–Laos Intergovernmental Agreement on Peaceful Nuclear Energy (IGA) + 2025–26 Roadmap",
+        "issuing_body": "MOIC / MEM + Rosatom",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Strategy (launched) + LaoAI / G-Chat v2 deployment",
+        "issuing_body": "Ministry of Technology and Communications (MTC) + UNESCO",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": false,
+        "plan": "*Explicitly absent*",
+        "issuing_body": "—",
+        "year": null,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Decision No. 3730/MOH (biopharma, genes, stem cells)",
+        "issuing_body": "Ministry of Health",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "MOIC Five-Year Plan 2026–2030 (rare-earth management) + Law on Minerals 2017 + trial-mining decrees",
+        "issuing_body": "MOIC / Ministry of Energy and Mines (MEM)",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": false,
+        "plan": "*Nascent / absent*",
+        "issuing_body": "—",
+        "year": null,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "National Digital Transformation Plan 2026–2030 + Digital Economy Vision 2021–2040 + Law on Cybersecurity (gazetted 2026)",
+        "issuing_body": "MTC / National Digital Transformation Committee",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "UAV/Drone Regulations",
+        "issuing_body": "Dept of Civil Aviation (MPWT)",
+        "year": null,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Myanmar": {
+    "iso3": "MMR",
+    "file": "40-Myanmar.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Intergovernmental Agreement + Roadmap (Peaceful Use of Atomic Energy); SMR Construction Agreement",
+        "issuing_body": "MoST / Min. Electric Power + Rosatom",
+        "year": 2025,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Draft National AI Strategy & Policy 2025–2030",
+        "issuing_body": "Ministry of Science and Technology",
+        "year": 2025,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": false,
+        "plan": "*Explicitly absent*",
+        "issuing_body": "—",
+        "year": null,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "DMR Ethics/Clinical-Trial Guidelines (legacy)",
+        "issuing_body": "Dept of Medical Research, Ministry of Health",
+        "year": 2016,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "*De facto* KIA taxation/export directives",
+        "issuing_body": "Kachin Independence Army (KIA/KIO)",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Rare Earths"
+      },
+      "Semiconductors": {
+        "has_plan": false,
+        "plan": "*Explicitly absent*",
+        "issuing_body": "—",
+        "year": null,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Cybersecurity Law No. 1/2025 (in force 30 Jul 2025); Digital Economy Roadmap 2030",
+        "issuing_body": "SAC→SSPC / Ministry of Transport & Communications",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Advisory Circular DCA-AC-AIR-01(R1) (bypassed by war)",
+        "issuing_body": "Dept of Civil Aviation (MOTC)",
+        "year": 2019,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Australia": {
+    "iso3": "AUS",
+    "file": "11-Australia.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Legislative moratorium (EPBC Act 1999 + ARPANS Act 1998)",
+        "issuing_body": "Parliament / DCCEEW / ARPANSA",
+        "year": 1998,
+        "posture": -1,
+        "posture_label": "banned/phased-out",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Plan (supersedes 2024 Safe and Responsible AI Interim Response)",
+        "issuing_body": "DISR / National AI Centre",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Quantum Strategy",
+        "issuing_body": "DISR",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Health and Medical Research Strategy 2026–2036",
+        "issuing_body": "DoHAC / NHMRC",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Critical Minerals Strategy 2023–2030",
+        "issuing_body": "DISR",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "National Semiconductor Roadmap",
+        "issuing_body": "S3B / DISR",
+        "year": 2024,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Data and Digital Government Strategy",
+        "issuing_body": "Digital Transformation Agency",
+        "year": 2023,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "National Robotics Strategy (+ Aviation White Paper)",
+        "issuing_body": "DISR / Dept of Infrastructure",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "New Zealand": {
+    "iso3": "NZL",
+    "file": "46-New-Zealand.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Nuclear Free Zone, Disarmament & Arms Control Act 1987 (legal ban)",
+        "issuing_body": "Parliament / MFAT",
+        "year": 1987,
+        "posture": -1,
+        "posture_label": "banned/phased-out",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Strategy \"Investing with Confidence\"",
+        "issuing_body": "MBIE",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum Technologies Aotearoa + NZIAT discovery phase",
+        "issuing_body": "MBIE / NZIAT / Dodd-Walls Centre",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Gene Technology Bill 2024 (ends GMO moratorium)",
+        "issuing_body": "Parliament / EPA / MBIE",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "A Minerals Strategy for NZ to 2040 + Critical Minerals List",
+        "issuing_body": "MBIE / NZ Petroleum & Minerals",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "*Nascent / absent* (niche: Rakon photonics)",
+        "issuing_body": "private sector",
+        "year": null,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Strategy for Aotearoa + Space & Advanced Aviation Strategy",
+        "issuing_body": "MBIE / DIA / NZ Space Agency",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Civil Aviation Rules Part 101/102 + Transport Instruments",
+        "issuing_body": "Civil Aviation Authority",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Germany": {
+    "iso3": "DEU",
+    "file": "07-Germany.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Atomgesetz / phase-out (Atomausstieg)",
+        "issuing_body": "Bundesregierung / BMWK / BASE",
+        "year": 2023,
+        "posture": -1,
+        "posture_label": "banned/phased-out",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Hightech Agenda Deutschland (AI mission) + AI Action Plan (KI-Aktionsplan)",
+        "issuing_body": "BMFTR",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Hightech Agenda Deutschland (quantum mission) + Action Plan Quantum Technologies",
+        "issuing_body": "BMFTR (Federal Govt)",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Strategy for Gene- and Cell-Based Therapies (GCT) + Hightech Agenda (biotech mission)",
+        "issuing_body": "BMFTR / BIH",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Mat2Twin framework programme (+ Raw Materials / RESourceEU alignment)",
+        "issuing_body": "BMFTR / BMWK",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Microelectronics Strategy (Mikroelektronik-Strategie) + Hightech Agenda (chip mission)",
+        "issuing_body": "BMWK & BMFTR",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Föderale Modernisierungsagenda + Deutschland-Stack (Gigabit/Digital Strategy)",
+        "issuing_body": "BMDS",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Autonomous Driving Act + Teleoperated Driving Regulation (StVFernLV) + Robotics Research Action Plan",
+        "issuing_body": "BMV & BMFTR",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "France": {
+    "iso3": "FRA",
+    "file": "08-France.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Programme Nouveau Nucléaire (EPR2 + SMR); PPE 3 (2026–2035)",
+        "issuing_body": "Presidency / Min. Energy / SGPI / DINN",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Stratégie Nationale pour l'IA (SNIA), Phase 3 (post-Summit)",
+        "issuing_body": "DGE / SGPI",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Stratégie Nationale Quantique + PROQCIMA",
+        "issuing_body": "SGPI / DGE / CEA-CNRS-Inria",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Plan Innovation Santé 2030 (Biothérapies)",
+        "issuing_body": "Presidency / SGPI / Inserm-CEA",
+        "year": 2021,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "PEPR DIADEM + PEPR Recyclage; Plan résilience Terres rares & aimants",
+        "issuing_body": "CNRS / CEA / SGPI / Min. Économie",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Stratégie électronique / Nano 2030 → Semi-conducteurs 2035",
+        "issuing_body": "DGE",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Cloud Acceleration + Future Networks (5G/6G)",
+        "issuing_body": "DGE / DINUM / SGPI",
+        "year": 2021,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Stratégie Robotique et machines intelligentes",
+        "issuing_body": "SGPI / Min. Industry / CNRS",
+        "year": 2021,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "United Kingdom": {
+    "iso3": "GBR",
+    "file": "09-United-Kingdom.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Civil Nuclear: Roadmap to 2050 (+ Rolls-Royce SMR selection)",
+        "issuing_body": "DESNZ / GBE-Nuclear",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI Opportunities Action Plan (+ One Year On; Sovereign AI)",
+        "issuing_body": "DSIT",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Quantum Strategy (+ Missions)",
+        "issuing_body": "DSIT",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Life Sciences Sector Plan (+ National Vision for Engineering Biology)",
+        "issuing_body": "DBT / DHSC / DSIT / OLS",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "UK Critical Minerals Strategy: Vision 2035",
+        "issuing_body": "DBT / DSIT",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "National Semiconductor Strategy (+ £1.1B AI hardware/chip plan)",
+        "issuing_body": "DSIT",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital and Technologies Sector Plan (+ Wireless Infrastructure Strategy)",
+        "issuing_body": "DBT / DSIT",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Transport AI Action Plan + Automated Vehicles Act (self-driving passenger services)",
+        "issuing_body": "DfT / DSIT",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Netherlands": {
+    "iso3": "NLD",
+    "file": "17-Netherlands.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Borssele extension + NEO NL new-build (Oct 2025 progress letter)",
+        "issuing_body": "Ministry of Climate & Green Growth (KGG)",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AiNed Programme + Actieagenda AI en Data / National AI Factory",
+        "issuing_body": "EZ / NL AI Coalition",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum Delta NL (National Growth Fund)",
+        "issuing_body": "EZK / Quantum Delta NL",
+        "year": 2021,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Kabinetsvisie Biotechnologie 2025–2040 + Biotech Booster",
+        "issuing_body": "EZ / National Growth Fund / Top Sector LSH",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Nat. Exploration Programme Critical Raw Materials + NTS 2024",
+        "issuing_body": "EZ",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Project Beethoven → Nieuw industriebeleid met focus (ChipNL)",
+        "issuing_body": "EZ / OCW / regional",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Dutch Digitalisation Strategy 2.0",
+        "issuing_body": "Ministry of the Interior (BZK)",
+        "year": 2019,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Unmanned Aviation Action Plan 2023–2025 + Smart Mobility",
+        "issuing_body": "Ministry of Infrastructure (IenW)",
+        "year": 2023,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Italy": {
+    "iso3": "ITA",
+    "file": "18-Italy.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "PNNS Platform + Sustainable Nuclear delegation law (DDL \"Nucleare Sostenibile\", A.C. 2669)",
+        "issuing_body": "MASE / ENEA / RSE; Parliament",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Italian Strategy for AI 2024–2026 + National AI Law (L. 132/2025)",
+        "issuing_body": "AgID / Dept. for Digital Transformation; Parliament",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Italian Strategy for Quantum Technologies",
+        "issuing_body": "DTD / CITD (+ MUR, MIMIT, ACN, Defense)",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "PNRR RNA/Gene Therapy Center + Bioeconomy BIT II",
+        "issuing_body": "MUR / Presidency of the Council",
+        "year": 2022,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Critical Raw Materials Decree + Technical Table",
+        "issuing_body": "MIMIT / MASE",
+        "year": 2023,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "National Microelectronics Plan (Italian Chips Act)",
+        "issuing_body": "MIMIT / MUR",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Italia Digitale 2026",
+        "issuing_body": "Dept. for Digital Transformation",
+        "year": 2021,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "PNRR Extended Partnerships: MICS + FAIR",
+        "issuing_body": "MUR",
+        "year": 2022,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Spain": {
+    "iso3": "ESP",
+    "file": "19-Spain.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "PNIEC 2021–2030 (phase-out actively unwinding)",
+        "issuing_body": "MITECO",
+        "year": 2025,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI Strategy 2024 + draft AI Law (Anteproyecto de Ley de IA)",
+        "issuing_body": "Min. Digital Transformation / SEDIA / AESIA",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum Spain",
+        "issuing_body": "SEDIA / Barcelona Supercomputing Center",
+        "year": 2021,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Programa Estratégico Salud de Vanguardia 2025–2027 (succeeds PERTE Salud)",
+        "issuing_body": "MICIU / Ministry of Health",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "I Plan de Acción para la Gestión Sostenible de las Materias Primas Minerales 2026–2030",
+        "issuing_body": "MITECO",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "PERTE Chip",
+        "issuing_body": "Min. Digital Transformation / SETT",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "España Digital 2026 (cyber strategy revision underway)",
+        "issuing_body": "Min. Digital Transformation",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "PERTE VEC (rounds IV–V, electric/connected/autonomous)",
+        "issuing_body": "Ministry of Industry and Tourism",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Ireland": {
+    "iso3": "IRL",
+    "file": "33-Ireland.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Electricity Regulation Act 1999 (legal ban)",
+        "issuing_body": "Oireachtas / Dept of Environment, Climate & Comms",
+        "year": 1999,
+        "posture": -1,
+        "posture_label": "banned/phased-out",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National Digital and AI Strategy — \"Digital Ireland: Connecting our People, Securing our Future\" (supersedes \"AI – Here for Good\")",
+        "issuing_body": "Dept of the Taoiseach (whole-of-gov) / Dept of Enterprise, Tourism and Employment",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum 2030",
+        "issuing_body": "Dept of Further & Higher Education (DFHERIS)",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Impact 2030 (via Taighde Éireann)",
+        "issuing_body": "DFHERIS / Research Ireland",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "EU CRMA implementation + CIRCLE project",
+        "issuing_body": "Dept of Environment / EPA / GSI",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Silicon Island (National Semiconductor Strategy)",
+        "issuing_body": "Dept of Enterprise, Trade and Employment",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "National Digital and AI Strategy — \"Digital Ireland: Connecting our People, Securing our Future\" (replaces Harnessing Digital)",
+        "issuing_body": "Department of the Taoiseach",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "National Policy Framework for UAS (drones)",
+        "issuing_body": "Department of Transport",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Switzerland": {
+    "iso3": "CHE",
+    "file": "24-Switzerland.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Nuclear Energy Act amendment (lift new-build ban)",
+        "issuing_body": "Federal Council / DETEC / SFOE",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI Guidelines + Council of Europe AI Convention",
+        "issuing_body": "Federal Council / OFCOM / CNAI",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Swiss Quantum Initiative (SQI)",
+        "issuing_body": "SERI / Swiss Quantum Commission (SCNAT)",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Swiss Personalized Health Network (SPHN)",
+        "issuing_body": "SERI / FOPH / SAMS / SIB",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "ETH Board Strategic Plan 2025–28 + NCCR Muoniverse",
+        "issuing_body": "ETH Board / SNSF",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "SwissChips Initiative",
+        "issuing_body": "SERI / ETHZ / EPFL / CSEM",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Switzerland Strategy 2026",
+        "issuing_body": "Federal Council / Federal Chancellery",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Ordinance on Automated Driving + AVISTRAT-CH / SUSI",
+        "issuing_body": "FEDRO (roads) / FOCA (airspace)",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Sweden": {
+    "iso3": "SWE",
+    "file": "20-Sweden.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Roadmap for New Nuclear Power + State Financing Model & Permitting Reform",
+        "issuing_body": "Govt / Ministry of Climate & Enterprise",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Sweden's AI Strategy (Sveriges AI-strategi)",
+        "issuing_body": "Govt (Ministry of Finance)",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "WACQT + forthcoming National Quantum Strategy",
+        "issuing_body": "Wallenberg Foundation / Vetenskapsrådet",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Strategy for Life Science (updated)",
+        "issuing_body": "Govt (cross-ministerial Life Science Office)",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Minerals Strategy + KRRR mapping + EU CRMA Strategic Projects (LKAB)",
+        "issuing_body": "Ministry of Enterprise / SGU / EU Commission",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "National Semiconductor Strategy 2035",
+        "issuing_body": "Semiconductor Sweden (Vinnova, RISE, FMV)",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digitalisation Strategy 2025–2030",
+        "issuing_body": "Ministry of Finance",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Drive Sweden (CCAM) Strategic Innovation Program",
+        "issuing_body": "Drive Sweden / Vinnova",
+        "year": 2015,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Finland": {
+    "iso3": "FIN",
+    "file": "30-Finland.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Comprehensive Reform of the Nuclear Energy Act",
+        "issuing_body": "Ministry of Economic Affairs & Employment (TEM) / STUK",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI 4.0 Programme + AuroraAI",
+        "issuing_body": "TEM / Ministry of Finance",
+        "year": 2022,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Finnish Quantum Technology Strategy 2025–2035",
+        "issuing_body": "TEM / InstituteQ / VTT",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Health Sector Growth Strategy + National Genome Strategy",
+        "issuing_body": "STM / TEM / OKM",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "National Battery Strategy 2025 + National Minerals Strategy",
+        "issuing_body": "TEM",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "\"Chips from the North\" Semiconductor Strategy",
+        "issuing_body": "Technology Industries of Finland + Business Finland/VTT",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Finland's Digital Compass + National 6G Roadmap",
+        "issuing_body": "LVM / Ministry of Finance / 6G Flagship",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Finnish Drone Strategy",
+        "issuing_body": "Defence and Aviation Industry Assoc. (PIA) / Business Finland",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Norway": {
+    "iso3": "NOR",
+    "file": "32-Norway.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Nuclear Power Commission report NOU 2026:4 \"Kjernekraft i Norge?\" + Aure/Heim SMR impact assessment",
+        "issuing_body": "Ministry of Energy",
+        "year": 2026,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Strategy + \"KI-milliarden\" (AI Billion) + \"KI Norge\" national AI hub",
+        "issuing_body": "Ministry of Digitalisation / Research Council",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Quantum Technology Strategy (in development) + 4 national quantum research centres (1.1bn NOK)",
+        "issuing_body": "Min. Education & Research / Defence; Research Council",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Biotechnology Strategy + Centre for Digital Life Norway",
+        "issuing_body": "Ministry of Education & Research / Research Council",
+        "year": 2016,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Norway's Mineral Strategy + Seabed Minerals Act (licensing round paused Dec 2025)",
+        "issuing_body": "Ministry of Trade & Fisheries / Ministry of Energy",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "EU Chips Act via CC-NorChip",
+        "issuing_body": "Research Council / EU Chips JU",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "National Digitalisation Strategy 2024–2030",
+        "issuing_body": "Ministry of Digitalisation and Public Governance",
+        "year": 2024,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Defence Drone Strategy + SFI AutoShip / Yara Birkeland",
+        "issuing_body": "Ministry of Defence / Research Council",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Poland": {
+    "iso3": "POL",
+    "file": "31-Poland.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Polish Nuclear Power Programme (PPEJ)",
+        "issuing_body": "Council of Ministers / Ministry of Industry",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Policy for AI Development in Poland from 2020 (+ AI Fund, PL-Guard)",
+        "issuing_body": "Council of Ministers / Ministry of Digital Affairs",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "\"Poland in the Quantum Era\" (policy assumptions)",
+        "issuing_body": "Ministry of Digital Affairs",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Government Plan for Biomedical Sector Development 2022–2031",
+        "issuing_body": "Council of Ministers / MoH / Medical Research Agency (ABM)",
+        "year": 2022,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "State Raw Materials Policy (PSP2050)",
+        "issuing_body": "Council of Ministers / Ministry of Climate / PIG",
+        "year": 2022,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "\"Poland in the Game for the Future\" — Semiconductor Policy 2026+",
+        "issuing_body": "Ministry of Digital Affairs",
+        "year": 2026,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "National Broadband Plan (NPS)",
+        "issuing_body": "Council of Ministers / Ministry of Digital Affairs",
+        "year": 2030,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "White Paper on the UAV Market (U-space) + ULC Guidelines No. 7/2025",
+        "issuing_body": "Ministry of Infrastructure / Civil Aviation Authority (ULC) / PIE",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Ukraine": {
+    "iso3": "UKR",
+    "file": "43-Ukraine.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Energy Strategy of Ukraine until 2050 (+ Energoatom–Westinghouse AP1000s; Khmelnytskyi design complete)",
+        "issuing_body": "Ministry of Energy / Energoatom",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI Regulation Roadmap + White Paper + Concept Action Plan 2025–2026 (bottom-up)",
+        "issuing_body": "Ministry of Digital Transformation",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "WINWIN 2030 (broad) + NATO SPS quantum projects",
+        "issuing_body": "MDT / Min. Education & Science / NATO SPS",
+        "year": 2024,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "WINWIN MedTech & BioTech Sectoral Strategies",
+        "issuing_body": "Ministry of Digital Transformation",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Strategy for Critical Raw Materials Industries to 2056 + Resolution No. 845 strategic-minerals lists + US–Ukraine Reconstruction Investment Fund",
+        "issuing_body": "Cabinet of Ministers / Min. Economy / Min. Environment",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Microelectronics Development Strategy + Chip Act UA (MDT mandate expanded)",
+        "issuing_body": "MDT / Cabinet of Ministers",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Diia ecosystem + Diia City + WINWIN 2030 + Diia.AI (\"Agentic State\")",
+        "issuing_body": "Ministry of Digital Transformation",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "WINWIN DefenseTech + Brave1 + \"Drone Line\" program",
+        "issuing_body": "MDT / Min. Defense / Brave1",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "European Union": {
+    "iso3": "EUU",
+    "file": "21-European-Union.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "EU Strategy for SMRs & AMRs (COM/2026/117) + SMR Alliance Strategic Action Plan",
+        "issuing_body": "European Commission",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "AI Continent Action Plan + Apply AI Strategy (atop AI Act 2024)",
+        "issuing_body": "European Commission",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum Europe Strategy",
+        "issuing_body": "European Commission",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "European Biotech Act (proposal) + Life Sciences Strategy",
+        "issuing_body": "European Commission",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "CRMA first Strategic Projects lists + Advanced Materials Act (in preparation)",
+        "issuing_body": "European Commission",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Chips Act 2.0 (proposal)",
+        "issuing_body": "European Commission",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Networks Act (proposal)",
+        "issuing_body": "European Commission",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "EU Action Plan on Drone & Counter-Drone Security",
+        "issuing_body": "European Commission",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Israel": {
+    "iso3": "ISR",
+    "file": "23-Israel.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": false,
+        "plan": "Nuclear ambiguity (no civil power plan)",
+        "issuing_body": "PMO / Israel Atomic Energy Commission",
+        "year": 1952,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National Artificial Intelligence Program (Phase II acceleration)",
+        "issuing_body": "National AI Directorate (PMO) / TELEM / IIA / MOST",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Quantum Initiative + Quantum Computing Center",
+        "issuing_body": "TELEM (MAFAT, IIA, PBC, Finance)",
+        "year": 2022,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Bio-Convergence Program",
+        "issuing_body": "TELEM / IIA / MOST / Health",
+        "year": 2021,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Advanced Manufacturing Plan + Metamaterials consortium",
+        "issuing_body": "Ministry of Economy / IIA",
+        "year": 2023,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Law for the Encouragement of Capital Investments + IIA consortiums + Integrated Photonics pilot-line initiative",
+        "issuing_body": "Ministry of Economy / IIA / DDR&D / Finance",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "National Digital Israel Program",
+        "issuing_body": "Digital Israel Bureau / ICT Authority",
+        "year": 2017,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Israel National Drone Initiative (INDI; Phase 3 / INDI3)",
+        "issuing_body": "IIA / Ministry of Transport / CAAI",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "United Arab Emirates": {
+    "iso3": "ARE",
+    "file": "25-UAE.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "UAE Peaceful Nuclear Energy Policy (Barakah) + ENEC ADVANCE Programme (SMRs/advanced reactors)",
+        "issuing_body": "Federal Govt / ENEC / FANR",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National Strategy for AI 2031 + US–UAE AI Acceleration Partnership / Regulatory Intelligence Office",
+        "issuing_body": "Ministry of State for AI / AIATC / Cabinet",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Encryption Policy + National Post-Quantum Migration Programme",
+        "issuing_body": "Cybersecurity Council / ATRC (QuantumGate) / TII",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Genome Strategy / Emirati Genome Program",
+        "issuing_body": "Emirates Genome Council / DoH",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Operation 300bn (National Industry & Advanced Tech) + US–UAE Critical Minerals & Rare Earths Framework",
+        "issuing_body": "MoIAT / Ministry of Investment",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials Science"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "MGX Investment Strategy (within AIATC) + Tawazun chiplet ecosystem",
+        "issuing_body": "AIATC / MGX / MoIAT / Tawazun",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "We the UAE 2031 (Digital Economy Strategy) + UAE–US 5GW AI Campus / Stargate UAE",
+        "issuing_body": "UAE Cabinet / G42 / AIATC",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Dubai Smart Self-Driving Transport Strategy (multi-vendor robotaxi; Law 9/2023)",
+        "issuing_body": "Dubai RTA / DFF",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Saudi Arabia": {
+    "iso3": "SAU",
+    "file": "26-Saudi-Arabia.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "SNAEP + US–Saudi Civil Nuclear (123) Joint Declaration",
+        "issuing_body": "K.A.CARE / Min. of Energy / US",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "NSDAI + Project Transcendence/HUMAIN + AI Adoption Framework; \"Year of AI\"",
+        "issuing_body": "SDAIA / PIF",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "WEF Quantum Economy Blueprint pilot + National Quantum Alliance",
+        "issuing_body": "C4IR / WEF / RDIA / Aramco",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Biotechnology Strategy",
+        "issuing_body": "Crown Prince / MoH / SFDA",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "National Industrial Strategy + National Minerals Program + US–Saudi Critical Minerals Framework",
+        "issuing_body": "MoIMR / Ma'aden / PIF (Manara)",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Mining"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "National Semiconductor Hub (Alat exits chip fabrication, Apr 2026)",
+        "issuing_body": "RDIA / KACST / PIF (Alat)",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Economy Policy + Digital Government Strategy (Hexagon data center)",
+        "issuing_body": "MCIT / DGA / SDAIA",
+        "year": 2026,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "GACA Advanced Air Mobility Roadmap (+ NEOM testbeds)",
+        "issuing_body": "GACA / NEOM / MoT",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Qatar": {
+    "iso3": "QAT",
+    "file": "42-Qatar.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Radiation Protection Law 31/2002 + Nuclear Material Law 3/2018 (no power)",
+        "issuing_body": "MoECC – Dept of Radiation Protection",
+        "year": 2018,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Strategy (2019) + National AI Policy (consultation closed Jan 2026) + Fanar LLM",
+        "issuing_body": "MCIT / AI Committee / QCRI",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Quantum program via QC2 + national QKD testbed",
+        "issuing_body": "QC2 (HBKU) / Ooredoo / MoD",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Qatar Genome Programme + Qatar Precision Health Institute",
+        "issuing_body": "Qatar Foundation / QPHI / QBB",
+        "year": 2015,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "NDS3 Manufacturing Cluster + Helium (Ras Laffan)",
+        "issuing_body": "National Planning Council / QatarEnergy",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "QRDI 2030 + IMEC Qatar R&D Hub",
+        "issuing_body": "QRDI Council / Invest Qatar",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Agenda 2030 + TASMU Smart Qatar",
+        "issuing_body": "Ministry of Communications & IT (MCIT)",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Autonomous Vehicles Strategy + draft UAV Law (2026) + QCAA drone regs",
+        "issuing_body": "Ministry of Transport / Ministry of Interior / QCAA",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Oman": {
+    "iso3": "OMN",
+    "file": "44-Oman.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Radiation Protection Regulation (Res. 79/2023) — no power",
+        "issuing_body": "Environment Authority",
+        "year": 2023,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National Programme for AI & Advanced Digital Technologies + Ma'een LLM + Oman AI Zone",
+        "issuing_body": "MTCIT",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Within National AI Programme / 2026–2030 Digital Roadmap",
+        "issuing_body": "MTCIT",
+        "year": 2026,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Biotechnology Strategy (red/green/white, in dev) + Health Vision 2050",
+        "issuing_body": "RIA / MoHERI / Ministry of Health",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Mineral Wealth Law (RD 19/2019) + Green Hydrogen Strategy",
+        "issuing_body": "Ministry of Energy & Minerals / Hydrom",
+        "year": 2022,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "National Semiconductor Ecosystem Strategy (launched) + OSAT framework + ITHCA",
+        "issuing_body": "MTCIT / OIA (ITHCA)",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "National Digital Economy Programme (NDEP) 2026–2030 + Tahawul + Cloud/Data-Centre Regulation",
+        "issuing_body": "MTCIT / TRA",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Exec. Regulation 1412/2023 + CAR 102; \"Serb\" UTM; Advanced Air Mobility Charter",
+        "issuing_body": "Civil Aviation Authority",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Türkiye": {
+    "iso3": "TUR",
+    "file": "29-Turkey.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "National Energy Plan 2020–2035 (Akkuyu)",
+        "issuing_body": "Ministry of Energy & Natural Resources",
+        "year": 2022,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Strategy 2021–2025 (+ 2024–25 Action Plan)",
+        "issuing_body": "Ministry of Industry & Tech / Digital Transformation Office",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "2030 Industry & Technology Strategy (National Quantum Institute)",
+        "issuing_body": "Ministry of Industry & Tech / TÜBİTAK",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "National Biotechnology Strategy 2023–2028 + Health Roadmap",
+        "issuing_body": "Presidency / MoIT / TÜSEB",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Critical Raw Materials Strategy + Beylikova REE program (Eti Maden)",
+        "issuing_body": "Ministry of Energy / Eti Maden / TENMAK",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Rare Earths"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "HIT-30 Semiconductor Call (HIT-Çip)",
+        "issuing_body": "Ministry of Industry & Technology",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "12th Development Plan + National Broadband Strategy + 5G Authorization Tender",
+        "issuing_body": "Presidency of Strategy & Budget / Transport Ministry / BTK",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Mobility Roadmap (TOGG) + SSB Defense Strategic Plan 2024–28",
+        "issuing_body": "MoIT / Defense Industry Agency (SSB)",
+        "year": 2024,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Egypt": {
+    "iso3": "EGY",
+    "file": "34-Egypt.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "El Dabaa Nuclear Power Plant (Vision 2030 energy mix)",
+        "issuing_body": "Nuclear Power Plants Authority (NPPA)",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Strategy — 2nd Edition (2025–2030) + National Guidelines for Trustworthy & Responsible AI",
+        "issuing_body": "MCIT / National Council for AI",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "National Quantum Computing Strategy (pillars unveiled)",
+        "issuing_body": "MCIT / National Council for AI, Quantum Computing & Emerging Technologies",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Egyptian Reference Genome Project (Phase 1 results)",
+        "issuing_body": "Ministry of Higher Education & Scientific Research / ECRRM",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Mining Sector Expansion Strategy 2024–2030 (Executive Regulations amended)",
+        "issuing_body": "Ministry of Petroleum & Mineral Resources / EMRA",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Egypt Makes Electronics (EME) — Export Development Programme",
+        "issuing_body": "MCIT / ITIDA",
+        "year": 2026,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Digital Egypt / ICT Strategy 2030",
+        "issuing_body": "MCIT / NTRA",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Law No. 216 of 2017 (drone regulation); defense co-production & civil monitoring",
+        "issuing_body": "Ministry of Defense / ECAA",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "South Africa": {
+    "iso3": "ZAF",
+    "file": "28-South-Africa.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Integrated Resource Plan 2025 (IRP 2025, gazetted)",
+        "issuing_body": "Department of Electricity and Energy",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "National AI Policy Framework (2024)",
+        "issuing_body": "DCDT",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "South African Quantum Technology Initiative (SA QuTI)",
+        "issuing_body": "DSI",
+        "year": 2021,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Bio-economy Strategy",
+        "issuing_body": "DSI",
+        "year": 2013,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Critical Minerals and Metals Strategy",
+        "issuing_body": "DMPR / DSI",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Within Decadal Plan + Digital Economy Masterplan",
+        "issuing_body": "DSI / DCDT (CSIR)",
+        "year": 2021,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "SA Connect Phase 2 + Digital Economy Masterplan",
+        "issuing_body": "DCDT",
+        "year": 2022,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "CAR Part 101 (drones) + Draft Airfreight Strategy 2025",
+        "issuing_body": "SACAA / Dept of Transport",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Brazil": {
+    "iso3": "BRA",
+    "file": "27-Brazil.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Brazilian Nuclear Policy / Program (PNB)",
+        "issuing_body": "Presidency / MME / MCTI / CNEN",
+        "year": 2018,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "PBIA 2024–2028 (\"IA para o Bem de Todos\")",
+        "issuing_body": "MCTI",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "IBQuântica (Iniciativa Brasileira para Tecnologias Quânticas)",
+        "issuing_body": "MCTI / Finep",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Genomas Brasil (+ NIB Mission 2, Health Complex)",
+        "issuing_body": "Ministry of Health / MCTI",
+        "year": 2023,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "National Policy for Strategic Minerals → PNMCE (Critical & Strategic Minerals)",
+        "issuing_body": "MME / PPI / Congress",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Programa Brasil Semicondutores (Brasil Semicon) + modernized PADIS",
+        "issuing_body": "MDIC / MCTI",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "E-Digital (Brazilian Strategy for Digital Transformation)",
+        "issuing_body": "MCTI / Casa Civil",
+        "year": 2031,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Programa Mover (Green Mobility and Innovation)",
+        "issuing_body": "MDIC",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Argentina": {
+    "iso3": "ARG",
+    "file": "35-Argentina.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "Plan Nuclear Argentino (2024/2025)",
+        "issuing_body": "Sec. de Asuntos Nucleares / CNEA / NA-SA",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Recomendaciones para una IA Fiable (Disp. 2/2023) + AAIP Guide; \"Stargate Argentina\" AI-infrastructure hub (RIGI)",
+        "issuing_body": "Jefatura de Gabinete / AAIP / Presidencia",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Programa Interinstitucional de Ciencias y Tecnologías Cuánticas (PNCTI 2030)",
+        "issuing_body": "Sec. de Innovación, Ciencia y Tecnología / CONICET",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Ley 27685 (Biotecnología Moderna y Nanotecnología)",
+        "issuing_body": "Congreso de la Nación",
+        "year": 2022,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "RIGI (Ley 27742) + Mesa Nacional del Litio",
+        "issuing_body": "Congreso / Min. Economía / Provincias",
+        "year": 2024,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": true,
+        "plan": "Súper RIGI + Programa Nacional de Diseño de Semiconductores (CENDIA)",
+        "issuing_body": "Poder Ejecutivo / Congreso",
+        "year": 2026,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "Agenda Digital Argentina 2030 (Decreto 996/2018)",
+        "issuing_body": "Jefatura de Gabinete / ARSAT",
+        "year": 2018,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "Reglamento para la Aviación Civil No Tripulada (Decreto 663/2024)",
+        "issuing_body": "ANAC",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  },
+  "Chile": {
+    "iso3": "CHL",
+    "file": "41-Chile.md",
+    "domains": {
+      "Nuclear energy": {
+        "has_plan": true,
+        "plan": "CCHEN Strategic Plan + CCHEN 360° (no power plants)",
+        "issuing_body": "Comisión Chilena de Energía Nuclear / Min. Energía",
+        "year": 2024,
+        "posture": 1,
+        "posture_label": "nascent",
+        "domain_raw": "Nuclear Energy"
+      },
+      "Artificial intelligence": {
+        "has_plan": true,
+        "plan": "Política Nacional de IA (updated, Decreto N°12) + AI Bill (pending in Senate) + Latam-GPT",
+        "issuing_body": "MinCiencia",
+        "year": 2025,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Artificial Intelligence"
+      },
+      "Quantum information science": {
+        "has_plan": true,
+        "plan": "Estrategia Nacional de Tecnologías Cuánticas 2025–2035",
+        "issuing_body": "MinCiencia / ANID",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Quantum"
+      },
+      "Biomedical & biotechnology": {
+        "has_plan": true,
+        "plan": "Estrategia Nacional de Biotecnología 2025–2035",
+        "issuing_body": "MinCiencia",
+        "year": 2025,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Biotechnology"
+      },
+      "Materials & critical minerals": {
+        "has_plan": true,
+        "plan": "Estrategia Nacional del Litio + Codelco–SQM JV (constituted) + ILiSa institute",
+        "issuing_body": "Min. Minería / Codelco / Corfo",
+        "year": 2025,
+        "posture": 4,
+        "posture_label": "frontier",
+        "domain_raw": "Materials / Critical Minerals"
+      },
+      "Semiconductors": {
+        "has_plan": false,
+        "plan": "*Explicitly absent*",
+        "issuing_body": "—",
+        "year": null,
+        "posture": 0,
+        "posture_label": "absent",
+        "domain_raw": "Semiconductors"
+      },
+      "Digital infrastructure": {
+        "has_plan": true,
+        "plan": "PDATA 2024–2030 + SEA data-center environmental criterion",
+        "issuing_body": "MinCiencia / SEA",
+        "year": 2026,
+        "posture": 3,
+        "posture_label": "mature",
+        "domain_raw": "Digital Tech"
+      },
+      "Autonomous systems": {
+        "has_plan": true,
+        "plan": "DAN 151 / DAN 91 (drones) + State Astronomy Policy",
+        "issuing_body": "DGAC / MinCiencia",
+        "year": 2024,
+        "posture": 2,
+        "posture_label": "active",
+        "domain_raw": "Autonomous Systems"
+      }
+    }
+  }
+}

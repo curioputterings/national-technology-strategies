@@ -1,0 +1,369 @@
+entity,iso3,file,domain,domain_raw,has_plan,plan,issuing_body,year,year_raw,posture,posture_label
+United States,USA,01-United-States.md,Nuclear energy,Nuclear Energy,True,"EO 14302 ""Reinvigorating the Nuclear Industrial Base"" (+ EOs 14299/14300)",White House,2025,2025,4,frontier
+United States,USA,01-United-States.md,Artificial intelligence,Artificial Intelligence,True,"America's AI Action Plan (""Winning the AI Race"")",White House / OSTP,2025,2025,4,frontier
+United States,USA,01-United-States.md,Quantum information science,Quantum,True,"EO 14413 ""Ushering in the Next Frontier of Quantum Innovation""",White House,2026,2026,4,frontier
+United States,USA,01-United-States.md,Biomedical & biotechnology,Biotechnology,True,Charting the Future of Biotechnology (NSCEB final report),Nat'l Security Comm. on Emerging Biotech,2025,2025,4,frontier
+United States,USA,01-United-States.md,Materials & critical minerals,Materials Science,True,Materials Genome Initiative Strategic Plan (+ 2026 Section 232 critical-minerals proclamation),NSTC,2026,2021 / 2026,3,mature
+United States,USA,01-United-States.md,Semiconductors,Semiconductors,True,National Strategy on Microelectronics Research (+ 2026 Section 232 semiconductor proclamation),NSTC / OSTP,2025,2023/2025,4,frontier
+United States,USA,01-United-States.md,Digital infrastructure,Digital Tech,True,U.S. International Cyberspace and Digital Policy Strategy (+ 2025 data-center permitting EO),Dept. of State / White House,2025,2024/2025,4,frontier
+United States,USA,01-United-States.md,Autonomous systems,Autonomous Systems,True,"EO 14307 ""Unleashing American Drone Dominance"" (+ DoD drone-dominance memo)",White House / DoD,2025,2025,4,frontier
+Canada,CAN,10-Canada.md,Nuclear energy,Nuclear Energy,True,SMR Action Plan,NRCan,2025,2020 (Darlington FID 2025),3,mature
+Canada,CAN,10-Canada.md,Artificial intelligence,Artificial Intelligence,True,AI for All: Canada's National AI Strategy,Min. of AI & Digital Innovation / ISED,2026,2026 (succeeds Pan-Canadian AI Strategy 2017/2022),4,frontier
+Canada,CAN,10-Canada.md,Quantum information science,Quantum,True,National Quantum Strategy,ISED,2023,2023,3,mature
+Canada,CAN,10-Canada.md,Biomedical & biotechnology,Biotechnology,True,Biomanufacturing and Life Sciences Strategy,ISED / Health Canada,2021,2021,3,mature
+Canada,CAN,10-Canada.md,Materials & critical minerals,Materials / Critical Minerals,True,Canadian Critical Minerals Strategy,NRCan,2025,"2022 (Sovereign Fund, Budget 2025)",3,mature
+Canada,CAN,10-Canada.md,Semiconductors,Semiconductors,True,FABrIC,ISED / CMC Microsystems,2024,2024,2,active
+Canada,CAN,10-Canada.md,Digital infrastructure,Digital Tech,True,High-Speed Access for All: Connectivity Strategy,ISED,2019,2019,2,active
+Canada,CAN,10-Canada.md,Autonomous systems,Autonomous Systems,True,Transport Canada's Drone Strategy to 2025,Transport Canada,2021,2021,2,active
+Mexico,MEX,36-Mexico.md,Nuclear energy,Nuclear Energy,True,Programa Sectorial de Energía (PROSENER) 2025–2030 + PRODESEN 2024–2038,SENER / CFE / ININ / CNSNS,2025,2025,2,active
+Mexico,MEX,36-Mexico.md,Artificial intelligence,Artificial Intelligence,True,Plan Nacional de IA (ATDT) + iniciativa Ley Federal de IA / Consejo Nacional de IA,ATDT (exec) / Congreso,2026,2024–2026,3,mature
+Mexico,MEX,36-Mexico.md,Quantum information science,Quantum,True,Iniciativa Mexicana en Tecnología Cuántica (IMTC),DICU / Sociedad Mexicana de Física,2023,2023,1,nascent
+Mexico,MEX,36-Mexico.md,Biomedical & biotechnology,Biotechnology,True,Programa Sectorial CHTI 2025–2030 + PRONACES-Salud,SECIHTI (ex-CONAHCYT),2025,2025,2,active
+Mexico,MEX,36-Mexico.md,Materials & critical minerals,Materials / Critical Minerals,True,Decreto de Creación de LitioMx,Federal Executive / SENER,2022,2022,3,mature
+Mexico,MEX,36-Mexico.md,Semiconductors,Semiconductors,True,"Centro ""Kutsari"" + Programa Institucional InnovaBienestar 2026–2030",SECIHTI / InnovaBienestar / Sonora,2026,2026,2,active
+Mexico,MEX,36-Mexico.md,Digital infrastructure,Digital Tech,True,Programa Sectorial de la ATDT 2025–2030 (Nube MX),ATDT / Presidencia,2025,2025,3,mature
+Mexico,MEX,36-Mexico.md,Autonomous systems,Autonomous Systems,True,NOM-107-SCT3-2019 (drones),SCT / AFAC,2019,2019,1,nascent
+China,CHN,02-China.md,Nuclear energy,Nuclear Energy,True,"15th FYP for New Energy System Construction (新型能源体系建设""十五五""规划)",NDRC + NEA,2026,2026,4,frontier
+China,CHN,02-China.md,Artificial intelligence,Artificial Intelligence,True,"Opinions on Deeply Implementing the ""AI Plus"" Action (关于深入实施""人工智能+""行动的意见)",State Council,2025,2025,4,frontier
+China,CHN,02-China.md,Quantum information science,Quantum,True,15th FYP Outline future-industry provisions + earlier 14th FYP quantum measures,NPC / CPC / MOST,2026,2026,4,frontier
+China,CHN,02-China.md,Biomedical & biotechnology,Biotechnology,True,14th FYP for Bioeconomy Development (十四五生物经济发展规划),NDRC,2022,2022,4,frontier
+China,CHN,02-China.md,Materials & critical minerals,Materials Science,True,14th FYP for Raw Materials Industry Development,MIIT / MOST / MNR,2021,2021,4,frontier
+China,CHN,02-China.md,Semiconductors,Semiconductors,True,State Council Notice on IC & Software High-Quality Development,State Council,2020,2020,4,frontier
+China,CHN,02-China.md,Digital infrastructure,Digital Tech,True,14th FYP for Digital Economy Development,State Council,2021,2021/22,4,frontier
+China,CHN,02-China.md,Autonomous systems,Autonomous Systems,True,NEV Plan (2021–2035) + ICV Standards Guide (2023),State Council; MIIT/SAC,2023,2020; 2023,4,frontier
+Japan,JPN,03-Japan.md,Nuclear energy,Nuclear Energy,True,Seventh Strategic Energy Plan,METI / Cabinet,2025,2025,3,mature
+Japan,JPN,03-Japan.md,Artificial intelligence,Artificial Intelligence,True,AI Promotion Act + AI Basic Plan (over Integrated Innovation Strategy 2025),Cabinet Office (AI Strategy HQ) / METI / MIC,2025,2025,4,frontier
+Japan,JPN,03-Japan.md,Quantum information science,Quantum,True,Quantum Future Society Vision + Quantum Ecosystem Promotion Measures,Cabinet Office,2025,2022 (2025 measures),3,mature
+Japan,JPN,03-Japan.md,Biomedical & biotechnology,Biotechnology,True,Bioeconomy Strategy,Cabinet Office,2024,2024,3,mature
+Japan,JPN,03-Japan.md,Materials & critical minerals,Materials Science,True,Materials Innovation Strategy + Promotion Measures,Cabinet Office,2026,2021 (2026 measures),3,mature
+Japan,JPN,03-Japan.md,Semiconductors,Semiconductors,True,Strategy for Semiconductors and the Digital Industry,METI,2026,2021 (rev. 2023; 2026 rev. underway),4,frontier
+Japan,JPN,03-Japan.md,Digital infrastructure,Digital Tech,True,Priority Policy Program for Realizing a Digital Society,Digital Agency,2025,2025,3,mature
+Japan,JPN,03-Japan.md,Autonomous systems,Autonomous Systems,True,Mobility DX Strategy + RoAD to the L4,METI / MLIT,2024,2024,3,mature
+South Korea,KOR,04-South-Korea.md,Nuclear energy,Nuclear Energy,True,11th Basic Plan for Long-Term Electricity Supply & Demand (12th Plan in formulation),MCEE (formerly MOTIE),2025,2025,4,frontier
+South Korea,KOR,04-South-Korea.md,Artificial intelligence,Artificial Intelligence,True,AI Basic Act (in force) + MSIT 2026 Work Plan / 100T-won AI Highway,MSIT / National AI Committee,2026,2026,4,frontier
+South Korea,KOR,04-South-Korea.md,Quantum information science,Quantum,True,Quantum Science & Technology Strategy + Promotion Act,MSIT,2023,2023,3,mature
+South Korea,KOR,04-South-Korea.md,Biomedical & biotechnology,Biotechnology,True,Advanced Bio Initiative,Cross-ministerial,2024,2024,3,mature
+South Korea,KOR,04-South-Korea.md,Materials & critical minerals,Materials Science,True,Strategy for Securing Reliable Critical Minerals Supply,MOTIE,2023,2023,3,mature
+South Korea,KOR,04-South-Korea.md,Semiconductors,Semiconductors,True,Semiconductor Mega Cluster Plan + K-Chips Act,MOTIE / MSIT,2024,2024 / 2023,4,frontier
+South Korea,KOR,04-South-Korea.md,Digital infrastructure,Digital Tech,True,Digital Strategy of Korea + K-Network 2030,MSIT,2023,2022 / 2023,4,frontier
+South Korea,KOR,04-South-Korea.md,Autonomous systems,Autonomous Systems,True,Advanced Robotics Strategy + Mobility Innovation Roadmap,MOTIE / MOLIT,2023,2023 / 2022,3,mature
+Taiwan,TWN,22-Taiwan.md,Nuclear energy,Nuclear Energy,True,Nuclear Reactor Facilities Regulation Act amendment (restart),Legislative Yuan / MOEA / NSC,2025,2025,1,nascent
+Taiwan,TWN,22-Taiwan.md,Artificial intelligence,Artificial Intelligence,True,AI New Ten Major Construction Plan + AI Basic Act,Executive Yuan / NDC / NSTC / MODA,2026,2026,3,mature
+Taiwan,TWN,22-Taiwan.md,Quantum information science,Quantum,True,National Strategy for High-Speed Quantum Computing,NSTC / Academia Sinica / TQPO,2026,2022 / 2026,3,mature
+Taiwan,TWN,22-Taiwan.md,Biomedical & biotechnology,Biotechnology,True,Emerging Biomedical Industries Development & Internationalization Program,"MOEA / IDA (+ BIIP, Precision Health)",2026,2026,3,mature
+Taiwan,TWN,22-Taiwan.md,Materials & critical minerals,Materials Science,True,CbI materials focus + Critical Minerals / Rare Earth Pilot-Scale Production Plan,NSTC / MOEA / ITRI,2026,2024 / 2026,2,active
+Taiwan,TWN,22-Taiwan.md,Semiconductors,Semiconductors,True,Taiwan Chip-based Industrial Innovation Program (CbI),Executive Yuan / NSTC / MOEA,2024,2024,4,frontier
+Taiwan,TWN,22-Taiwan.md,Digital infrastructure,Digital Tech,True,Smart Nation Plan / DIGI+,Executive Yuan / MODA,2021,2021,3,mature
+Taiwan,TWN,22-Taiwan.md,Autonomous systems,Autonomous Systems,True,Integrated UAV Industry Development Plan / Drone National Team,MOEA / MND / Chiayi,2024,2024,2,active
+India,IND,06-India.md,Nuclear energy,Nuclear Energy,True,Nuclear Energy Mission + SHANTI Act 2025,DAE,2025,2025,3,mature
+India,IND,06-India.md,Artificial intelligence,Artificial Intelligence,True,IndiaAI Mission + AI Governance Guidelines,MeitY,2025,2024 / 2025,4,frontier
+India,IND,06-India.md,Quantum information science,Quantum,True,National Quantum Mission (NQM),DST,2023,2023,3,mature
+India,IND,06-India.md,Biomedical & biotechnology,Biotechnology,True,BioE3 Policy,DBT,2024,2024,3,mature
+India,IND,06-India.md,Materials & critical minerals,Materials / Critical Minerals,True,National Critical Mineral Mission (NCMM),Ministry of Mines,2025,2025,2,active
+India,IND,06-India.md,Semiconductors,Semiconductors,True,India Semiconductor Mission (ISM 2.0),MeitY,2026,2021 / 2026,3,mature
+India,IND,06-India.md,Digital infrastructure,Digital Tech,True,Digital India Programme + DPDP Rules 2025,MeitY,2025,2015 / 2025,4,frontier
+India,IND,06-India.md,Autonomous systems,Autonomous Systems,True,Draft National Strategy on Robotics + Drone PLI,MeitY / MoCA,2023,2023 / 2021,2,active
+Kazakhstan,KAZ,45-Kazakhstan.md,Nuclear energy,Nuclear Energy,True,2024 NPP Referendum + Rosatom/CNNC consortia + Nuclear Industry Development Strategy to 2050,President / Atomic Energy Agency,2026,2024–2026,2,active
+Kazakhstan,KAZ,45-Kazakhstan.md,Artificial intelligence,Artificial Intelligence,True,Concept for AI Development 2024–2029 + Law on AI (No. 230-VIII) + Digital Qazaqstan,Ministry of AI & Digital Development / Parliament,2025,2024 / 2025–26,3,mature
+Kazakhstan,KAZ,45-Kazakhstan.md,Quantum information science,Quantum,True,Kazakh-Singaporean Center for Quantum Technologies,Min. Science & Higher Education / KazNU,2026,2026,1,nascent
+Kazakhstan,KAZ,45-Kazakhstan.md,Biomedical & biotechnology,Biotechnology,True,QazBioPharm / National Center for Biotechnology programs,Ministry of Healthcare / QazBioPharm,1993,1993–,2,active
+Kazakhstan,KAZ,45-Kazakhstan.md,Materials & critical minerals,Materials / Critical Minerals,True,Comprehensive Plan for Rare & Rare-Earth Metals 2024–2028 + US/EU critical-minerals deals,Min. Industry & Construction / DBK,2026,2024–2026,3,mature
+Kazakhstan,KAZ,45-Kazakhstan.md,Semiconductors,Semiconductors,True,"""One Student, One Chip"" + Suto Kazakhstan plant",Nazarbayev University / JV,2024,2024–25,1,nascent
+Kazakhstan,KAZ,45-Kazakhstan.md,Digital infrastructure,Digital Tech,True,Digital Kazakhstan + Digital Qazaqstan (to 2029) + Digital Code (No. 255-VIII),Ministry of AI & Digital Development / Parliament,2026,2017 / 2026,3,mature
+Kazakhstan,KAZ,45-Kazakhstan.md,Autonomous systems,Autonomous Systems,True,Rules for the Operation of UAVs,Civil Aviation Committee (CAC),,ongoing,1,nascent
+Singapore,SGP,05-Singapore.md,Nuclear energy,Nuclear Energy,True,Energy 2050 Committee Report + nuclear capability framework,EMA,2024,2022 / 2024–25,1,nascent
+Singapore,SGP,05-Singapore.md,Artificial intelligence,Artificial Intelligence,True,NAIS 2.0 + Update to NAIS (2026) / National AI Council,Smart Nation Group / MDDI / IMDA,2026,2023 / 2026,4,frontier
+Singapore,SGP,05-Singapore.md,Quantum information science,Quantum,True,National Quantum Strategy + RIE2030 Quantum Thematic Plan,NRF / National Quantum Office,2026,2024 / 2026,3,mature
+Singapore,SGP,05-Singapore.md,Biomedical & biotechnology,Biotechnology,True,RIE2030 — Human Health & Potential domain,NRF / MOH / A*STAR,2025,2025,4,frontier
+Singapore,SGP,05-Singapore.md,Materials & critical minerals,Materials Science,True,"RIE2030 — Manufacturing, Trade & Connectivity (Adv. Materials)",NRF / A*STAR,2025,2025,2,active
+Singapore,SGP,05-Singapore.md,Semiconductors,Semiconductors,True,Semiconductor RIE Flagship (RIE2030) + Manufacturing 2030,EDB / A*STAR / MTI,2025,2021 / 2025,4,frontier
+Singapore,SGP,05-Singapore.md,Digital infrastructure,Digital Tech,True,Smart Nation 2.0 + Digital Connectivity Blueprint + Digital Infrastructure Act,Smart Nation Group / IMDA / MDDI,2026,2023 / 2024 / 2026,4,frontier
+Singapore,SGP,05-Singapore.md,Autonomous systems,Autonomous Systems,True,National Robotics Programme + LTA AV Legislative Framework,A*STAR / NRF / LTA / MOT,2026,2016 / 2026,3,mature
+Malaysia,MYS,12-Malaysia.md,Nuclear energy,Nuclear Energy,True,13th Malaysia Plan (RMK13) + NETR,Ministry of Economy / PETRA / MyPOWER,2025,2023/2025,1,nascent
+Malaysia,MYS,12-Malaysia.md,Artificial intelligence,Artificial Intelligence,True,AI Technology Action Plan 2026–2030 (succeeds AI-Rmap 2021–2025) + Sovereign AI Cloud,National AI Office (Ministry of Digital),2025,2025/26,3,mature
+Malaysia,MYS,12-Malaysia.md,Quantum information science,Quantum,True,National Quantum Policy 2026–2035,MOSTI / MIMOS / MED4IRN,2025,2025,2,active
+Malaysia,MYS,12-Malaysia.md,Biomedical & biotechnology,Biotechnology,True,National Biotechnology Policy 2.0 (NBP 2.0) + National Biotechnology Ethics Guidelines,MOSTI / Bioeconomy Corp,2025,2022 / 2025,3,mature
+Malaysia,MYS,12-Malaysia.md,Materials & critical minerals,Materials Science,True,National Advanced Materials Roadmap 2021–2030 + REE raw-export ban / critical-minerals policy,MOSTI / MIGHT / MITI,2025,2021 / 2025,2,active
+Malaysia,MYS,12-Malaysia.md,Semiconductors,Semiconductors,True,National Semiconductor Strategy (NSS),MITI,2024,2024,3,mature
+Malaysia,MYS,12-Malaysia.md,Digital infrastructure,Digital Tech,True,Malaysia Digital Economy Blueprint (MyDIGITAL),EPU / Ministry of Economy,2021,2021,3,mature
+Malaysia,MYS,12-Malaysia.md,Autonomous systems,Autonomous Systems,True,National Robotics Roadmap + MDTAP30 + Low-Altitude Economy (LAE) Roadmap,MOSTI / MRANTI / MOT–CAAM,2026,2021 / 2022 / 2026,2,active
+Indonesia,IDN,13-Indonesia.md,Nuclear energy,Nuclear Energy,True,RUKN 2025–2060 + RUPTL 2025–2034; PP 40/2025 (KEN) + NEPIO/Satgas PLTN,ESDM / PLN / DEN / PANRB,2025,2025,2,active
+Indonesia,IDN,13-Indonesia.md,Artificial intelligence,Artificial Intelligence,True,RPerpres Peta Jalan KA Nasional 2026–2029 + RPerpres Etika AI (draft; supersedes Stranas KA 2020–2045),Komdigi / BRIN / Bappenas,2025,2025–26,3,mature
+Indonesia,IDN,13-Indonesia.md,Quantum information science,Quantum,True,Quantum-Security Roadmap 2025–2030,Unhan RI / BRIN / BSSN / TNI,2025,2025,1,nascent
+Indonesia,IDN,13-Indonesia.md,Biomedical & biotechnology,Biotechnology,True,BGSi Blueprint (Digital Health Transformation),Ministry of Health,2022,2022,2,active
+Indonesia,IDN,13-Indonesia.md,Materials & critical minerals,Materials / Critical Minerals,True,Hilirisasi Investasi Strategis Roadmap 2023–2040 + Badan Industri Mineral (Perpres 76/2025),Kementerian Investasi & Hilirisasi/BKPM + BIM,2025,2023 / 2025,3,mature
+Indonesia,IDN,13-Indonesia.md,Semiconductors,Semiconductors,True,Grand Strategy Industri Semikonduktor Nasional (ICDeC),Bappenas / Kemenperin / Kemdiktisaintek,2026,2026,2,active
+Indonesia,IDN,13-Indonesia.md,Digital infrastructure,Digital Tech,True,Visi Indonesia Digital 2045,Komdigi (ex-Kominfo),2023,2023/24,3,mature
+Indonesia,IDN,13-Indonesia.md,Autonomous systems,Autonomous Systems,True,Making Indonesia 4.0 + Aerospace/UAS Roadmap 2022–2045,Kemenperin / Bappenas / Kemenhub,2022,2018 / 2022,2,active
+Thailand,THA,14-Thailand.md,Nuclear energy,Nuclear Energy,True,Power Development Plan 2024–2037 (PDP 2024),Ministry of Energy / EPPO / EGAT,2024,2024,1,nascent
+Thailand,THA,14-Thailand.md,Artificial intelligence,Artificial Intelligence,True,National AI Strategy and Action Plan 2022–2027 + draft Thailand AI Act,National AI Committee / MHESI / MDES / ETDA,2025,2022 / 2025–26,3,mature
+Thailand,THA,14-Thailand.md,Quantum information science,Quantum,True,"Quantum Technology Roadmap 2020–2029 + ""Quantum-Ready 2030"" (PQC) roadmap",MHESI / NXPO; NCSA,2026,2020 / 2026,2,active
+Thailand,THA,14-Thailand.md,Biomedical & biotechnology,Biotechnology,True,BCG Economy Model (Medical & Wellness),Cabinet / MoPH / BIOTEC,2021,2021,3,mature
+Thailand,THA,14-Thailand.md,Materials & critical minerals,Materials Science,True,National Materials Tech Framework (within BCG),MTEC / NSTDA / NXPO,2021,2021,2,active
+Thailand,THA,14-Thailand.md,Semiconductors,Semiconductors,True,National Semiconductor and Advanced Electronics Strategy,National Semiconductor Board / BOI,2026,2026,3,mature
+Thailand,THA,14-Thailand.md,Digital infrastructure,Digital Tech,True,"Digital Economy and Society Development Plan 2018–2037 (+ Digital Government Plan 2025–27, Digital Data Infrastructure Roadmap 2025–29)",MDES / ONDE / DGA,2025,2018 / 2025–26,3,mature
+Thailand,THA,14-Thailand.md,Autonomous systems,Autonomous Systems,True,30@30 EV Policy + National Robotics Development Plan,EV Board / BOI / Ministry of Industry,2021,2021/22,2,active
+Vietnam,VNM,15-Vietnam.md,Nuclear energy,Nuclear Energy,True,Amended PDP8 + Atomic Energy Law + Resolutions 174/189 (restart),PM / National Assembly,2024,2024–26,2,active
+Vietnam,VNM,15-Vietnam.md,Artificial intelligence,Artificial Intelligence,True,National AI Strategy (Decision 127) + Law on Artificial Intelligence (134/2025/QH15),PM / National Assembly,2025,2021 / 2025,3,mature
+Vietnam,VNM,15-Vietnam.md,Quantum information science,Quantum,True,Quantum Technology Project + PEBR 2026–2035,Politburo / MOST,2026,2026,1,nascent
+Vietnam,VNM,15-Vietnam.md,Biomedical & biotechnology,Biotechnology,True,Resolution 36-NQ/TW on Biotechnology,Politburo,2023,2023,2,active
+Vietnam,VNM,15-Vietnam.md,Materials & critical minerals,Materials / Rare Earths,True,Mineral Master Plan to 2030 (Decision 866) + Geology & Minerals Law,PM / National Assembly,2023,2023/24,3,mature
+Vietnam,VNM,15-Vietnam.md,Semiconductors,Semiconductors,True,Semiconductor Strategy to 2030/2050 (Decision 1018) + HR Program (1017),Prime Minister,2024,2024,3,mature
+Vietnam,VNM,15-Vietnam.md,Digital infrastructure,Digital Tech,True,Digital Infrastructure Strategy (Decision 1132) + Law on Digital Technology Industry (71/2025/QH15),PM / National Assembly,2025,2024 / 2025,3,mature
+Vietnam,VNM,15-Vietnam.md,Autonomous systems,Autonomous Systems,True,UTM System (Decision 808) + Strategic Tech List (Decision 21/2026),PM / Ministry of Defence,2025,2025/26,2,active
+Philippines,PHL,16-Philippines.md,Nuclear energy,Nuclear Energy,True,RA 12305 (PhilATOM Act) + Executive Order 164 + PEP 2023–2050,Office of the President / DOE / PhilATOM,2025,2025 / 2022,1,nascent
+Philippines,PHL,16-Philippines.md,Artificial intelligence,Artificial Intelligence,True,National AI Strategy of the Philippines (NAIS-PH) + NAISR 2.0,DOST / DTI / CAIR,2025,2025 / 2024,3,mature
+Philippines,PHL,16-Philippines.md,Quantum information science,Quantum,True,Quantum Technology Roadmap,DOST-PCIEERD,2035,2021 (ext. to 2035),1,nascent
+Philippines,PHL,16-Philippines.md,Biomedical & biotechnology,Biotechnology,True,National Biotechnology Strategy (under PAGTANAW 2050),DOST / DA / NCBP,2025,2025,2,active
+Philippines,PHL,16-Philippines.md,Materials & critical minerals,Materials / Critical Minerals,True,Philippine Mineral Industry Roadmap + Advanced Materials R&D,DENR-MGB / DOST-PCIEERD / DTI,2023,2023,2,active
+Philippines,PHL,16-Philippines.md,Semiconductors,Semiconductors,True,Semiconductor & Electronics Industry Roadmap (Tatak Pinoy / CREATE MORE),DTI / SEIPI,2024,2024,3,mature
+Philippines,PHL,16-Philippines.md,Digital infrastructure,Digital Tech,True,National Digital Connectivity Plan (NDCP) 2024–2028 + E-Governance Act (RA 12254),DICT,2026,2026 / 2025,3,mature
+Philippines,PHL,16-Philippines.md,Autonomous systems,Autonomous Systems,True,Inclusive Innovation Industrial Strategy (i³S) + Industry 4.0 Pilot Factory,DTI / DOST-PCIEERD / CAAP,2022,2022–24,1,nascent
+Brunei,BRN,37-Brunei.md,Nuclear energy,Nuclear Energy,True,Radiation Protection Act (Ch. 228) + IAEA Milestones Approach,SHENA / PMO Energy Dept,2021,2021,1,nascent
+Brunei,BRN,37-Brunei.md,Artificial intelligence,Artificial Intelligence,True,Guide on AI Governance and Ethics + Data and AI Strategy (under DB2030),AITI / Digital Brunei Council,2026,2024 / 2026,2,active
+Brunei,BRN,37-Brunei.md,Quantum information science,Quantum,True,Post-Quantum Cryptography Migration Framework (consultation),Cyber Security Brunei (CSB),2025,2025/26,1,nascent
+Brunei,BRN,37-Brunei.md,Biomedical & biotechnology,Biotechnology,True,NBSAP + Biomedical Research & Ethics Unit (BREU),Forestry Dept / Ministry of Health,2023,2015 / 2023,2,active
+Brunei,BRN,37-Brunei.md,Materials & critical minerals,Materials / Minerals,True,Midstream & Downstream Regulatory Framework,Petroleum Authority (PABD),2019,2019,2,active
+Brunei,BRN,37-Brunei.md,Semiconductors,Semiconductors,False,*Explicitly absent*,—,,—,0,absent
+Brunei,BRN,37-Brunei.md,Digital infrastructure,Digital Tech,True,Digital Brunei 2030 (DB2030) — succeeds DE2025,Digital Brunei Council / MTIC / AITI,2026,2026,3,mature
+Brunei,BRN,37-Brunei.md,Autonomous systems,Autonomous Systems,True,Civil Aviation Order 2006 (drones); robotics absent,Dept of Civil Aviation (DCA),2006,2006,2,active
+Cambodia,KHM,38-Cambodia.md,Nuclear energy,Nuclear Energy,True,MoUs on Peaceful Use + Draft Nuclear Law,MME / Dept of Nuclear Science & Technology,2015,2015–17 / draft,1,nascent
+Cambodia,KHM,38-Cambodia.md,Artificial intelligence,Artificial Intelligence,True,Draft National AI Strategy 2025–2030 (public consultation),"MPTC (with UNESCO, UN-ESCAP, MISTI)",2025,2025 (draft),2,active
+Cambodia,KHM,38-Cambodia.md,Quantum information science,Quantum,False,*Explicitly absent*,—,,—,0,absent
+Cambodia,KHM,38-Cambodia.md,Biomedical & biotechnology,Biotechnology,True,Health Strategic Plan 2025–2034 (HSP4) + NAHSR,Ministry of Health / NIPH,2024,2024/25,2,active
+Cambodia,KHM,38-Cambodia.md,Materials & critical minerals,Materials / Minerals,True,Mineral Resources Policy 2018–2028 + US–Cambodia Reciprocal Trade Agreement (critical minerals),MME / Ministry of Commerce,2025,2018 / 2025,2,active
+Cambodia,KHM,38-Cambodia.md,Semiconductors,Semiconductors,True,Automotive & Electronics Roadmap + EDA Roadmap,CDC / MISTI,2025,2022 / 2025,2,active
+Cambodia,KHM,38-Cambodia.md,Digital infrastructure,Digital Tech,True,Digital Economy & Society Policy Framework 2021–2035,SNEC / MPTC / Techo Startup Center,2021,2021,3,mature
+Cambodia,KHM,38-Cambodia.md,Autonomous systems,Autonomous Systems,True,UAV Operation Directives & Guidelines,State Secretariat of Civil Aviation (SSCA),,updated,2,active
+Laos,LAO,39-Laos.md,Nuclear energy,Nuclear Energy,True,Russia–Laos Intergovernmental Agreement on Peaceful Nuclear Energy (IGA) + 2025–26 Roadmap,MOIC / MEM + Rosatom,2026,2026,2,active
+Laos,LAO,39-Laos.md,Artificial intelligence,Artificial Intelligence,True,National AI Strategy (launched) + LaoAI / G-Chat v2 deployment,Ministry of Technology and Communications (MTC) + UNESCO,2026,2026,2,active
+Laos,LAO,39-Laos.md,Quantum information science,Quantum,False,*Explicitly absent*,—,,—,0,absent
+Laos,LAO,39-Laos.md,Biomedical & biotechnology,Biotechnology,True,"Decision No. 3730/MOH (biopharma, genes, stem cells)",Ministry of Health,2024,2024,2,active
+Laos,LAO,39-Laos.md,Materials & critical minerals,Materials / Minerals,True,MOIC Five-Year Plan 2026–2030 (rare-earth management) + Law on Minerals 2017 + trial-mining decrees,MOIC / Ministry of Energy and Mines (MEM),2025,2025/26,3,mature
+Laos,LAO,39-Laos.md,Semiconductors,Semiconductors,False,*Nascent / absent*,—,,—,0,absent
+Laos,LAO,39-Laos.md,Digital infrastructure,Digital Tech,True,National Digital Transformation Plan 2026–2030 + Digital Economy Vision 2021–2040 + Law on Cybersecurity (gazetted 2026),MTC / National Digital Transformation Committee,2026,2026,3,mature
+Laos,LAO,39-Laos.md,Autonomous systems,Autonomous Systems,True,UAV/Drone Regulations,Dept of Civil Aviation (MPWT),,enforced,2,active
+Myanmar,MMR,40-Myanmar.md,Nuclear energy,Nuclear Energy,True,Intergovernmental Agreement + Roadmap (Peaceful Use of Atomic Energy); SMR Construction Agreement,MoST / Min. Electric Power + Rosatom,2025,2022/2023; 2025,1,nascent
+Myanmar,MMR,40-Myanmar.md,Artificial intelligence,Artificial Intelligence,True,Draft National AI Strategy & Policy 2025–2030,Ministry of Science and Technology,2025,2025 (draft),1,nascent
+Myanmar,MMR,40-Myanmar.md,Quantum information science,Quantum,False,*Explicitly absent*,—,,—,0,absent
+Myanmar,MMR,40-Myanmar.md,Biomedical & biotechnology,Biotechnology,True,DMR Ethics/Clinical-Trial Guidelines (legacy),"Dept of Medical Research, Ministry of Health",2016,2016 (stalled),1,nascent
+Myanmar,MMR,40-Myanmar.md,Materials & critical minerals,Materials / Rare Earths,True,*De facto* KIA taxation/export directives,Kachin Independence Army (KIA/KIO),2024,2024/25,3,mature
+Myanmar,MMR,40-Myanmar.md,Semiconductors,Semiconductors,False,*Explicitly absent*,—,,—,0,absent
+Myanmar,MMR,40-Myanmar.md,Digital infrastructure,Digital Tech,True,Cybersecurity Law No. 1/2025 (in force 30 Jul 2025); Digital Economy Roadmap 2030,SAC→SSPC / Ministry of Transport & Communications,2025,2025,2,active
+Myanmar,MMR,40-Myanmar.md,Autonomous systems,Autonomous Systems,True,Advisory Circular DCA-AC-AIR-01(R1) (bypassed by war),Dept of Civil Aviation (MOTC),2019,2019,3,mature
+Australia,AUS,11-Australia.md,Nuclear energy,Nuclear Energy,True,Legislative moratorium (EPBC Act 1999 + ARPANS Act 1998),Parliament / DCCEEW / ARPANSA,1998,1998/99,-1,banned/phased-out
+Australia,AUS,11-Australia.md,Artificial intelligence,Artificial Intelligence,True,National AI Plan (supersedes 2024 Safe and Responsible AI Interim Response),DISR / National AI Centre,2025,2025,3,mature
+Australia,AUS,11-Australia.md,Quantum information science,Quantum,True,National Quantum Strategy,DISR,2023,2023,3,mature
+Australia,AUS,11-Australia.md,Biomedical & biotechnology,Biotechnology,True,National Health and Medical Research Strategy 2026–2036,DoHAC / NHMRC,2026,2026,3,mature
+Australia,AUS,11-Australia.md,Materials & critical minerals,Materials / Critical Minerals,True,Critical Minerals Strategy 2023–2030,DISR,2023,2023,3,mature
+Australia,AUS,11-Australia.md,Semiconductors,Semiconductors,True,National Semiconductor Roadmap,S3B / DISR,2024,2024–26,1,nascent
+Australia,AUS,11-Australia.md,Digital infrastructure,Digital Tech,True,Data and Digital Government Strategy,Digital Transformation Agency,2023,2023,2,active
+Australia,AUS,11-Australia.md,Autonomous systems,Autonomous Systems,True,National Robotics Strategy (+ Aviation White Paper),DISR / Dept of Infrastructure,2024,2024,3,mature
+New Zealand,NZL,46-New-Zealand.md,Nuclear energy,Nuclear Energy,True,"Nuclear Free Zone, Disarmament & Arms Control Act 1987 (legal ban)",Parliament / MFAT,1987,1987,-1,banned/phased-out
+New Zealand,NZL,46-New-Zealand.md,Artificial intelligence,Artificial Intelligence,True,"National AI Strategy ""Investing with Confidence""",MBIE,2025,2025,2,active
+New Zealand,NZL,46-New-Zealand.md,Quantum information science,Quantum,True,Quantum Technologies Aotearoa + NZIAT discovery phase,MBIE / NZIAT / Dodd-Walls Centre,2025,2023 / 2025,2,active
+New Zealand,NZL,46-New-Zealand.md,Biomedical & biotechnology,Biotechnology,True,Gene Technology Bill 2024 (ends GMO moratorium),Parliament / EPA / MBIE,2024,2024/25,3,mature
+New Zealand,NZL,46-New-Zealand.md,Materials & critical minerals,Materials / Critical Minerals,True,A Minerals Strategy for NZ to 2040 + Critical Minerals List,MBIE / NZ Petroleum & Minerals,2025,2025,2,active
+New Zealand,NZL,46-New-Zealand.md,Semiconductors,Semiconductors,True,*Nascent / absent* (niche: Rakon photonics),private sector,,—,1,nascent
+New Zealand,NZL,46-New-Zealand.md,Digital infrastructure,Digital Tech,True,Digital Strategy for Aotearoa + Space & Advanced Aviation Strategy,MBIE / DIA / NZ Space Agency,2024,2022 / 2024,3,mature
+New Zealand,NZL,46-New-Zealand.md,Autonomous systems,Autonomous Systems,True,Civil Aviation Rules Part 101/102 + Transport Instruments,Civil Aviation Authority,2025,2025,3,mature
+Germany,DEU,07-Germany.md,Nuclear energy,Nuclear Energy,True,Atomgesetz / phase-out (Atomausstieg),Bundesregierung / BMWK / BASE,2023,2011/2023,-1,banned/phased-out
+Germany,DEU,07-Germany.md,Artificial intelligence,Artificial Intelligence,True,Hightech Agenda Deutschland (AI mission) + AI Action Plan (KI-Aktionsplan),BMFTR,2025,2025 / 2023,3,mature
+Germany,DEU,07-Germany.md,Quantum information science,Quantum,True,Hightech Agenda Deutschland (quantum mission) + Action Plan Quantum Technologies,BMFTR (Federal Govt),2025,2025 / 2023,3,mature
+Germany,DEU,07-Germany.md,Biomedical & biotechnology,Biotechnology,True,National Strategy for Gene- and Cell-Based Therapies (GCT) + Hightech Agenda (biotech mission),BMFTR / BIH,2025,2024 / 2025,3,mature
+Germany,DEU,07-Germany.md,Materials & critical minerals,Materials Science,True,Mat2Twin framework programme (+ Raw Materials / RESourceEU alignment),BMFTR / BMWK,2025,2025,3,mature
+Germany,DEU,07-Germany.md,Semiconductors,Semiconductors,True,Microelectronics Strategy (Mikroelektronik-Strategie) + Hightech Agenda (chip mission),BMWK & BMFTR,2025,2025,4,frontier
+Germany,DEU,07-Germany.md,Digital infrastructure,Digital Tech,True,Föderale Modernisierungsagenda + Deutschland-Stack (Gigabit/Digital Strategy),BMDS,2025,2025,3,mature
+Germany,DEU,07-Germany.md,Autonomous systems,Autonomous Systems,True,Autonomous Driving Act + Teleoperated Driving Regulation (StVFernLV) + Robotics Research Action Plan,BMV & BMFTR,2025,2021 / 2025 / 2023,4,frontier
+France,FRA,08-France.md,Nuclear energy,Nuclear Energy,True,Programme Nouveau Nucléaire (EPR2 + SMR); PPE 3 (2026–2035),Presidency / Min. Energy / SGPI / DINN,2026,2021–22; PPE 3 (Feb 2026),4,frontier
+France,FRA,08-France.md,Artificial intelligence,Artificial Intelligence,True,"Stratégie Nationale pour l'IA (SNIA), Phase 3 (post-Summit)",DGE / SGPI,2025,2018 / 2021 / 2025–26,3,mature
+France,FRA,08-France.md,Quantum information science,Quantum,True,Stratégie Nationale Quantique + PROQCIMA,SGPI / DGE / CEA-CNRS-Inria,2024,2021 / 2024,3,mature
+France,FRA,08-France.md,Biomedical & biotechnology,Biotechnology,True,Plan Innovation Santé 2030 (Biothérapies),Presidency / SGPI / Inserm-CEA,2021,2021–22,3,mature
+France,FRA,08-France.md,Materials & critical minerals,Materials Science,True,PEPR DIADEM + PEPR Recyclage; Plan résilience Terres rares & aimants,CNRS / CEA / SGPI / Min. Économie,2026,2022 / 2023 / 2026,3,mature
+France,FRA,08-France.md,Semiconductors,Semiconductors,True,Stratégie électronique / Nano 2030 → Semi-conducteurs 2035,DGE,2026,2022 / 2026,3,mature
+France,FRA,08-France.md,Digital infrastructure,Digital Tech,True,Cloud Acceleration + Future Networks (5G/6G),DGE / DINUM / SGPI,2021,2021,3,mature
+France,FRA,08-France.md,Autonomous systems,Autonomous Systems,True,Stratégie Robotique et machines intelligentes,SGPI / Min. Industry / CNRS,2021,2021,2,active
+United Kingdom,GBR,09-United-Kingdom.md,Nuclear energy,Nuclear Energy,True,Civil Nuclear: Roadmap to 2050 (+ Rolls-Royce SMR selection),DESNZ / GBE-Nuclear,2025,2024 (2025),3,mature
+United Kingdom,GBR,09-United-Kingdom.md,Artificial intelligence,Artificial Intelligence,True,AI Opportunities Action Plan (+ One Year On; Sovereign AI),DSIT,2026,2025 (2026),4,frontier
+United Kingdom,GBR,09-United-Kingdom.md,Quantum information science,Quantum,True,National Quantum Strategy (+ Missions),DSIT,2023,2023,3,mature
+United Kingdom,GBR,09-United-Kingdom.md,Biomedical & biotechnology,Biotechnology,True,Life Sciences Sector Plan (+ National Vision for Engineering Biology),DBT / DHSC / DSIT / OLS,2025,2025 (2023),4,frontier
+United Kingdom,GBR,09-United-Kingdom.md,Materials & critical minerals,Materials / Critical Minerals,True,UK Critical Minerals Strategy: Vision 2035,DBT / DSIT,2025,2025,2,active
+United Kingdom,GBR,09-United-Kingdom.md,Semiconductors,Semiconductors,True,National Semiconductor Strategy (+ £1.1B AI hardware/chip plan),DSIT,2026,2023 (2026),3,mature
+United Kingdom,GBR,09-United-Kingdom.md,Digital infrastructure,Digital Tech,True,Digital and Technologies Sector Plan (+ Wireless Infrastructure Strategy),DBT / DSIT,2025,2025 (2023),3,mature
+United Kingdom,GBR,09-United-Kingdom.md,Autonomous systems,Autonomous Systems,True,Transport AI Action Plan + Automated Vehicles Act (self-driving passenger services),DfT / DSIT,2025,2025 / 2024,3,mature
+Netherlands,NLD,17-Netherlands.md,Nuclear energy,Nuclear Energy,True,Borssele extension + NEO NL new-build (Oct 2025 progress letter),Ministry of Climate & Green Growth (KGG),2024,2024–25,3,mature
+Netherlands,NLD,17-Netherlands.md,Artificial intelligence,Artificial Intelligence,True,AiNed Programme + Actieagenda AI en Data / National AI Factory,EZ / NL AI Coalition,2025,2021; 2025,3,mature
+Netherlands,NLD,17-Netherlands.md,Quantum information science,Quantum,True,Quantum Delta NL (National Growth Fund),EZK / Quantum Delta NL,2021,2021,3,mature
+Netherlands,NLD,17-Netherlands.md,Biomedical & biotechnology,Biotechnology,True,Kabinetsvisie Biotechnologie 2025–2040 + Biotech Booster,EZ / National Growth Fund / Top Sector LSH,2025,2025; 2022,3,mature
+Netherlands,NLD,17-Netherlands.md,Materials & critical minerals,Materials Science,True,Nat. Exploration Programme Critical Raw Materials + NTS 2024,EZ,2025,2024; 2025,2,active
+Netherlands,NLD,17-Netherlands.md,Semiconductors,Semiconductors,True,Project Beethoven → Nieuw industriebeleid met focus (ChipNL),EZ / OCW / regional,2025,2024; 2025,4,frontier
+Netherlands,NLD,17-Netherlands.md,Digital infrastructure,Digital Tech,True,Dutch Digitalisation Strategy 2.0,Ministry of the Interior (BZK),2019,2019+,3,mature
+Netherlands,NLD,17-Netherlands.md,Autonomous systems,Autonomous Systems,True,Unmanned Aviation Action Plan 2023–2025 + Smart Mobility,Ministry of Infrastructure (IenW),2023,2023,2,active
+Italy,ITA,18-Italy.md,Nuclear energy,Nuclear Energy,True,"PNNS Platform + Sustainable Nuclear delegation law (DDL ""Nucleare Sostenibile"", A.C. 2669)",MASE / ENEA / RSE; Parliament,2026,2023/24; 2026,2,active
+Italy,ITA,18-Italy.md,Artificial intelligence,Artificial Intelligence,True,Italian Strategy for AI 2024–2026 + National AI Law (L. 132/2025),AgID / Dept. for Digital Transformation; Parliament,2025,2024; 2025,2,active
+Italy,ITA,18-Italy.md,Quantum information science,Quantum,True,Italian Strategy for Quantum Technologies,"DTD / CITD (+ MUR, MIMIT, ACN, Defense)",2025,2025,3,mature
+Italy,ITA,18-Italy.md,Biomedical & biotechnology,Biotechnology,True,PNRR RNA/Gene Therapy Center + Bioeconomy BIT II,MUR / Presidency of the Council,2022,2022/24,3,mature
+Italy,ITA,18-Italy.md,Materials & critical minerals,Materials Science,True,Critical Raw Materials Decree + Technical Table,MIMIT / MASE,2023,2023/24,2,active
+Italy,ITA,18-Italy.md,Semiconductors,Semiconductors,True,National Microelectronics Plan (Italian Chips Act),MIMIT / MUR,2023,2023,3,mature
+Italy,ITA,18-Italy.md,Digital infrastructure,Digital Tech,True,Italia Digitale 2026,Dept. for Digital Transformation,2021,2021,3,mature
+Italy,ITA,18-Italy.md,Autonomous systems,Autonomous Systems,True,PNRR Extended Partnerships: MICS + FAIR,MUR,2022,2022–26,2,active
+Spain,ESP,19-Spain.md,Nuclear energy,Nuclear Energy,True,PNIEC 2021–2030 (phase-out actively unwinding),MITECO,2025,2024 plan; 2025–26 reversal moves,0,absent
+Spain,ESP,19-Spain.md,Artificial intelligence,Artificial Intelligence,True,AI Strategy 2024 + draft AI Law (Anteproyecto de Ley de IA),Min. Digital Transformation / SEDIA / AESIA,2025,Strategy 2024; bill Mar 2025,4,frontier
+Spain,ESP,19-Spain.md,Quantum information science,Quantum,True,Quantum Spain,SEDIA / Barcelona Supercomputing Center,2021,2021,3,mature
+Spain,ESP,19-Spain.md,Biomedical & biotechnology,Biotechnology,True,Programa Estratégico Salud de Vanguardia 2025–2027 (succeeds PERTE Salud),MICIU / Ministry of Health,2026,2026,3,mature
+Spain,ESP,19-Spain.md,Materials & critical minerals,Materials / Critical Minerals,True,I Plan de Acción para la Gestión Sostenible de las Materias Primas Minerales 2026–2030,MITECO,2026,2026,3,mature
+Spain,ESP,19-Spain.md,Semiconductors,Semiconductors,True,PERTE Chip,Min. Digital Transformation / SETT,2025,2022; SETT co-investment 2025–26,3,mature
+Spain,ESP,19-Spain.md,Digital infrastructure,Digital Tech,True,España Digital 2026 (cyber strategy revision underway),Min. Digital Transformation,2025,2022; 2025 revision,3,mature
+Spain,ESP,19-Spain.md,Autonomous systems,Autonomous Systems,True,"PERTE VEC (rounds IV–V, electric/connected/autonomous)",Ministry of Industry and Tourism,2026,2021; VEC V 2026,2,active
+Ireland,IRL,33-Ireland.md,Nuclear energy,Nuclear Energy,True,Electricity Regulation Act 1999 (legal ban),"Oireachtas / Dept of Environment, Climate & Comms",1999,1999,-1,banned/phased-out
+Ireland,IRL,33-Ireland.md,Artificial intelligence,Artificial Intelligence,True,"National Digital and AI Strategy — ""Digital Ireland: Connecting our People, Securing our Future"" (supersedes ""AI – Here for Good"")","Dept of the Taoiseach (whole-of-gov) / Dept of Enterprise, Tourism and Employment",2026,2026,3,mature
+Ireland,IRL,33-Ireland.md,Quantum information science,Quantum,True,Quantum 2030,Dept of Further & Higher Education (DFHERIS),2023,2023,3,mature
+Ireland,IRL,33-Ireland.md,Biomedical & biotechnology,Biotechnology,True,Impact 2030 (via Taighde Éireann),DFHERIS / Research Ireland,2024,2022/2024,3,mature
+Ireland,IRL,33-Ireland.md,Materials & critical minerals,Materials / Critical Minerals,True,EU CRMA implementation + CIRCLE project,Dept of Environment / EPA / GSI,2024,2024,2,active
+Ireland,IRL,33-Ireland.md,Semiconductors,Semiconductors,True,Silicon Island (National Semiconductor Strategy),"Dept of Enterprise, Trade and Employment",2025,2025,3,mature
+Ireland,IRL,33-Ireland.md,Digital infrastructure,Digital Tech,True,"National Digital and AI Strategy — ""Digital Ireland: Connecting our People, Securing our Future"" (replaces Harnessing Digital)",Department of the Taoiseach,2026,2026,3,mature
+Ireland,IRL,33-Ireland.md,Autonomous systems,Autonomous Systems,True,National Policy Framework for UAS (drones),Department of Transport,2025,2025,2,active
+Switzerland,CHE,24-Switzerland.md,Nuclear energy,Nuclear Energy,True,Nuclear Energy Act amendment (lift new-build ban),Federal Council / DETEC / SFOE,2026,Dispatch 2025; passed both chambers June 2026,2,active
+Switzerland,CHE,24-Switzerland.md,Artificial intelligence,Artificial Intelligence,True,AI Guidelines + Council of Europe AI Convention,Federal Council / OFCOM / CNAI,2024,2020 / 2024–25,2,active
+Switzerland,CHE,24-Switzerland.md,Quantum information science,Quantum,True,Swiss Quantum Initiative (SQI),SERI / Swiss Quantum Commission (SCNAT),2025,2022 / 2025–28,3,mature
+Switzerland,CHE,24-Switzerland.md,Biomedical & biotechnology,Biotechnology,True,Swiss Personalized Health Network (SPHN),SERI / FOPH / SAMS / SIB,2025,2017 / 2025–28,4,frontier
+Switzerland,CHE,24-Switzerland.md,Materials & critical minerals,Materials Science,True,ETH Board Strategic Plan 2025–28 + NCCR Muoniverse,ETH Board / SNSF,2026,2024 / 2026,2,active
+Switzerland,CHE,24-Switzerland.md,Semiconductors,Semiconductors,True,SwissChips Initiative,SERI / ETHZ / EPFL / CSEM,2024,2024,3,mature
+Switzerland,CHE,24-Switzerland.md,Digital infrastructure,Digital Tech,True,Digital Switzerland Strategy 2026,Federal Council / Federal Chancellery,2025,2025,3,mature
+Switzerland,CHE,24-Switzerland.md,Autonomous systems,Autonomous Systems,True,Ordinance on Automated Driving + AVISTRAT-CH / SUSI,FEDRO (roads) / FOCA (airspace),2025,2025,3,mature
+Sweden,SWE,20-Sweden.md,Nuclear energy,Nuclear Energy,True,Roadmap for New Nuclear Power + State Financing Model & Permitting Reform,Govt / Ministry of Climate & Enterprise,2026,2023 / 2026,4,frontier
+Sweden,SWE,20-Sweden.md,Artificial intelligence,Artificial Intelligence,True,Sweden's AI Strategy (Sveriges AI-strategi),Govt (Ministry of Finance),2026,2026,3,mature
+Sweden,SWE,20-Sweden.md,Quantum information science,Quantum,True,WACQT + forthcoming National Quantum Strategy,Wallenberg Foundation / Vetenskapsrådet,2025,2018 / 2025,3,mature
+Sweden,SWE,20-Sweden.md,Biomedical & biotechnology,Biotechnology,True,National Strategy for Life Science (updated),Govt (cross-ministerial Life Science Office),2024,2024,3,mature
+Sweden,SWE,20-Sweden.md,Materials & critical minerals,Materials / Minerals,True,Minerals Strategy + KRRR mapping + EU CRMA Strategic Projects (LKAB),Ministry of Enterprise / SGU / EU Commission,2026,2013 / 2026,3,mature
+Sweden,SWE,20-Sweden.md,Semiconductors,Semiconductors,True,National Semiconductor Strategy 2035,"Semiconductor Sweden (Vinnova, RISE, FMV)",2024,2024,2,active
+Sweden,SWE,20-Sweden.md,Digital infrastructure,Digital Tech,True,Digitalisation Strategy 2025–2030,Ministry of Finance,2025,2025,3,mature
+Sweden,SWE,20-Sweden.md,Autonomous systems,Autonomous Systems,True,Drive Sweden (CCAM) Strategic Innovation Program,Drive Sweden / Vinnova,2015,2015+,3,mature
+Finland,FIN,30-Finland.md,Nuclear energy,Nuclear Energy,True,Comprehensive Reform of the Nuclear Energy Act,Ministry of Economic Affairs & Employment (TEM) / STUK,2026,2026,4,frontier
+Finland,FIN,30-Finland.md,Artificial intelligence,Artificial Intelligence,True,AI 4.0 Programme + AuroraAI,TEM / Ministry of Finance,2022,2022,3,mature
+Finland,FIN,30-Finland.md,Quantum information science,Quantum,True,Finnish Quantum Technology Strategy 2025–2035,TEM / InstituteQ / VTT,2025,2025,3,mature
+Finland,FIN,30-Finland.md,Biomedical & biotechnology,Biotechnology,True,Health Sector Growth Strategy + National Genome Strategy,STM / TEM / OKM,2023,2020/2023,3,mature
+Finland,FIN,30-Finland.md,Materials & critical minerals,Materials / Minerals,True,National Battery Strategy 2025 + National Minerals Strategy,TEM,2024,2021/2024,3,mature
+Finland,FIN,30-Finland.md,Semiconductors,Semiconductors,True,"""Chips from the North"" Semiconductor Strategy",Technology Industries of Finland + Business Finland/VTT,2024,2024,2,active
+Finland,FIN,30-Finland.md,Digital infrastructure,Digital Tech,True,Finland's Digital Compass + National 6G Roadmap,LVM / Ministry of Finance / 6G Flagship,2025,2022/2025,4,frontier
+Finland,FIN,30-Finland.md,Autonomous systems,Autonomous Systems,True,Finnish Drone Strategy,Defence and Aviation Industry Assoc. (PIA) / Business Finland,2025,2025,3,mature
+Norway,NOR,32-Norway.md,Nuclear energy,Nuclear Energy,True,"Nuclear Power Commission report NOU 2026:4 ""Kjernekraft i Norge?"" + Aure/Heim SMR impact assessment",Ministry of Energy,2026,2024 / 2026,1,nascent
+Norway,NOR,32-Norway.md,Artificial intelligence,Artificial Intelligence,True,"National AI Strategy + ""KI-milliarden"" (AI Billion) + ""KI Norge"" national AI hub",Ministry of Digitalisation / Research Council,2026,2020 / 2024–25 / 2026,3,mature
+Norway,NOR,32-Norway.md,Quantum information science,Quantum,True,National Quantum Technology Strategy (in development) + 4 national quantum research centres (1.1bn NOK),Min. Education & Research / Defence; Research Council,2025,2025–26,2,active
+Norway,NOR,32-Norway.md,Biomedical & biotechnology,Biotechnology,True,National Biotechnology Strategy + Centre for Digital Life Norway,Ministry of Education & Research / Research Council,2016,2011 / 2016–26,3,mature
+Norway,NOR,32-Norway.md,Materials & critical minerals,Materials / Minerals,True,Norway's Mineral Strategy + Seabed Minerals Act (licensing round paused Dec 2025),Ministry of Trade & Fisheries / Ministry of Energy,2024,2023 / 2024–25,3,mature
+Norway,NOR,32-Norway.md,Semiconductors,Semiconductors,True,EU Chips Act via CC-NorChip,Research Council / EU Chips JU,2024,2024,2,active
+Norway,NOR,32-Norway.md,Digital infrastructure,Digital Tech,True,National Digitalisation Strategy 2024–2030,Ministry of Digitalisation and Public Governance,2024,2024,4,frontier
+Norway,NOR,32-Norway.md,Autonomous systems,Autonomous Systems,True,Defence Drone Strategy + SFI AutoShip / Yara Birkeland,Ministry of Defence / Research Council,2025,2025,4,frontier
+Poland,POL,31-Poland.md,Nuclear energy,Nuclear Energy,True,Polish Nuclear Power Programme (PPEJ),Council of Ministers / Ministry of Industry,2025,2014/2020; 2025 update (consultation),2,active
+Poland,POL,31-Poland.md,Artificial intelligence,Artificial Intelligence,True,"Policy for AI Development in Poland from 2020 (+ AI Fund, PL-Guard)",Council of Ministers / Ministry of Digital Affairs,2025,2020; 2024/2025 instruments,3,mature
+Poland,POL,31-Poland.md,Quantum information science,Quantum,True,"""Poland in the Quantum Era"" (policy assumptions)",Ministry of Digital Affairs,2025,2024/2025,2,active
+Poland,POL,31-Poland.md,Biomedical & biotechnology,Biotechnology,True,Government Plan for Biomedical Sector Development 2022–2031,Council of Ministers / MoH / Medical Research Agency (ABM),2022,2022,2,active
+Poland,POL,31-Poland.md,Materials & critical minerals,Materials / Minerals,True,State Raw Materials Policy (PSP2050),Council of Ministers / Ministry of Climate / PIG,2022,2022,2,active
+Poland,POL,31-Poland.md,Semiconductors,Semiconductors,True,"""Poland in the Game for the Future"" — Semiconductor Policy 2026+",Ministry of Digital Affairs,2026,"2026 (consultation, pre-adoption)",1,nascent
+Poland,POL,31-Poland.md,Digital infrastructure,Digital Tech,True,National Broadband Plan (NPS),Council of Ministers / Ministry of Digital Affairs,2030,2014/2020; 2026–2030 update (consultation),2,active
+Poland,POL,31-Poland.md,Autonomous systems,Autonomous Systems,True,White Paper on the UAV Market (U-space) + ULC Guidelines No. 7/2025,Ministry of Infrastructure / Civil Aviation Authority (ULC) / PIE,2025,2019; 2025,3,mature
+Ukraine,UKR,43-Ukraine.md,Nuclear energy,Nuclear Energy,True,Energy Strategy of Ukraine until 2050 (+ Energoatom–Westinghouse AP1000s; Khmelnytskyi design complete),Ministry of Energy / Energoatom,2026,2023/2026,3,mature
+Ukraine,UKR,43-Ukraine.md,Artificial intelligence,Artificial Intelligence,True,AI Regulation Roadmap + White Paper + Concept Action Plan 2025–2026 (bottom-up),Ministry of Digital Transformation,2025,2023/2024/2025,3,mature
+Ukraine,UKR,43-Ukraine.md,Quantum information science,Quantum,True,WINWIN 2030 (broad) + NATO SPS quantum projects,MDT / Min. Education & Science / NATO SPS,2024,2024,1,nascent
+Ukraine,UKR,43-Ukraine.md,Biomedical & biotechnology,Biotechnology,True,WINWIN MedTech & BioTech Sectoral Strategies,Ministry of Digital Transformation,2024,2024/25,2,active
+Ukraine,UKR,43-Ukraine.md,Materials & critical minerals,Materials / Critical Minerals,True,Strategy for Critical Raw Materials Industries to 2056 + Resolution No. 845 strategic-minerals lists + US–Ukraine Reconstruction Investment Fund,Cabinet of Ministers / Min. Economy / Min. Environment,2026,2025/2026,3,mature
+Ukraine,UKR,43-Ukraine.md,Semiconductors,Semiconductors,True,Microelectronics Development Strategy + Chip Act UA (MDT mandate expanded),MDT / Cabinet of Ministers,2025,2023/2024/2025,2,active
+Ukraine,UKR,43-Ukraine.md,Digital infrastructure,Digital Tech,True,"Diia ecosystem + Diia City + WINWIN 2030 + Diia.AI (""Agentic State"")",Ministry of Digital Transformation,2025,2020/2025,4,frontier
+Ukraine,UKR,43-Ukraine.md,Autonomous systems,Autonomous Systems,True,"WINWIN DefenseTech + Brave1 + ""Drone Line"" program",MDT / Min. Defense / Brave1,2025,2023/2024/2025,4,frontier
+European Union,EUU,21-European-Union.md,Nuclear energy,Nuclear Energy,True,EU Strategy for SMRs & AMRs (COM/2026/117) + SMR Alliance Strategic Action Plan,European Commission,2026,2026,3,mature
+European Union,EUU,21-European-Union.md,Artificial intelligence,Artificial Intelligence,True,AI Continent Action Plan + Apply AI Strategy (atop AI Act 2024),European Commission,2025,2025,4,frontier
+European Union,EUU,21-European-Union.md,Quantum information science,Quantum,True,Quantum Europe Strategy,European Commission,2025,2025,4,frontier
+European Union,EUU,21-European-Union.md,Biomedical & biotechnology,Biotechnology,True,European Biotech Act (proposal) + Life Sciences Strategy,European Commission,2025,2025/26,3,mature
+European Union,EUU,21-European-Union.md,Materials & critical minerals,Materials,True,CRMA first Strategic Projects lists + Advanced Materials Act (in preparation),European Commission,2025,2025,3,mature
+European Union,EUU,21-European-Union.md,Semiconductors,Semiconductors,True,Chips Act 2.0 (proposal),European Commission,2026,2026,3,mature
+European Union,EUU,21-European-Union.md,Digital infrastructure,Digital Tech,True,Digital Networks Act (proposal),European Commission,2026,2026,4,frontier
+European Union,EUU,21-European-Union.md,Autonomous systems,Autonomous Systems,True,EU Action Plan on Drone & Counter-Drone Security,European Commission,2026,2026,3,mature
+Israel,ISR,23-Israel.md,Nuclear energy,Nuclear Energy,False,Nuclear ambiguity (no civil power plan),PMO / Israel Atomic Energy Commission,1952,1952+,0,absent
+Israel,ISR,23-Israel.md,Artificial intelligence,Artificial Intelligence,True,National Artificial Intelligence Program (Phase II acceleration),National AI Directorate (PMO) / TELEM / IIA / MOST,2026,2021 / 2024 / 2026,4,frontier
+Israel,ISR,23-Israel.md,Quantum information science,Quantum,True,National Quantum Initiative + Quantum Computing Center,"TELEM (MAFAT, IIA, PBC, Finance)",2022,2019 / 2022,3,mature
+Israel,ISR,23-Israel.md,Biomedical & biotechnology,Biotechnology,True,National Bio-Convergence Program,TELEM / IIA / MOST / Health,2021,2021/22,4,frontier
+Israel,ISR,23-Israel.md,Materials & critical minerals,Materials Science,True,Advanced Manufacturing Plan + Metamaterials consortium,Ministry of Economy / IIA,2023,2018 / 2023–25,2,active
+Israel,ISR,23-Israel.md,Semiconductors,Semiconductors,True,Law for the Encouragement of Capital Investments + IIA consortiums + Integrated Photonics pilot-line initiative,Ministry of Economy / IIA / DDR&D / Finance,2026,1959 (reforms ongoing); Photonics 2026,4,frontier
+Israel,ISR,23-Israel.md,Digital infrastructure,Digital Tech,True,National Digital Israel Program,Digital Israel Bureau / ICT Authority,2017,2013 / 2017,3,mature
+Israel,ISR,23-Israel.md,Autonomous systems,Autonomous Systems,True,Israel National Drone Initiative (INDI; Phase 3 / INDI3),IIA / Ministry of Transport / CAAI,2026,2019 / 2023–26 (INDI3 2026),3,mature
+United Arab Emirates,ARE,25-UAE.md,Nuclear energy,Nuclear Energy,True,UAE Peaceful Nuclear Energy Policy (Barakah) + ENEC ADVANCE Programme (SMRs/advanced reactors),Federal Govt / ENEC / FANR,2025,2008; ADVANCE 2025–26,3,mature
+United Arab Emirates,ARE,25-UAE.md,Artificial intelligence,Artificial Intelligence,True,National Strategy for AI 2031 + US–UAE AI Acceleration Partnership / Regulatory Intelligence Office,Ministry of State for AI / AIATC / Cabinet,2025,2017 / 2025,4,frontier
+United Arab Emirates,ARE,25-UAE.md,Quantum information science,Quantum,True,National Encryption Policy + National Post-Quantum Migration Programme,Cybersecurity Council / ATRC (QuantumGate) / TII,2024,2024–26,3,mature
+United Arab Emirates,ARE,25-UAE.md,Biomedical & biotechnology,Biotechnology,True,National Genome Strategy / Emirati Genome Program,Emirates Genome Council / DoH,2023,2023,3,mature
+United Arab Emirates,ARE,25-UAE.md,Materials & critical minerals,Materials Science,True,Operation 300bn (National Industry & Advanced Tech) + US–UAE Critical Minerals & Rare Earths Framework,MoIAT / Ministry of Investment,2026,2021 / 2026,2,active
+United Arab Emirates,ARE,25-UAE.md,Semiconductors,Semiconductors,True,MGX Investment Strategy (within AIATC) + Tawazun chiplet ecosystem,AIATC / MGX / MoIAT / Tawazun,2026,2024 / 2026,3,mature
+United Arab Emirates,ARE,25-UAE.md,Digital infrastructure,Digital Tech,True,We the UAE 2031 (Digital Economy Strategy) + UAE–US 5GW AI Campus / Stargate UAE,UAE Cabinet / G42 / AIATC,2025,2022 / 2025,4,frontier
+United Arab Emirates,ARE,25-UAE.md,Autonomous systems,Autonomous Systems,True,Dubai Smart Self-Driving Transport Strategy (multi-vendor robotaxi; Law 9/2023),Dubai RTA / DFF,2026,2016 / 2023 / 2026,3,mature
+Saudi Arabia,SAU,26-Saudi-Arabia.md,Nuclear energy,Nuclear Energy,True,SNAEP + US–Saudi Civil Nuclear (123) Joint Declaration,K.A.CARE / Min. of Energy / US,2025,2017 / 2025,2,active
+Saudi Arabia,SAU,26-Saudi-Arabia.md,Artificial intelligence,Artificial Intelligence,True,"NSDAI + Project Transcendence/HUMAIN + AI Adoption Framework; ""Year of AI""",SDAIA / PIF,2025,2020 / 2024 / 2025–26,4,frontier
+Saudi Arabia,SAU,26-Saudi-Arabia.md,Quantum information science,Quantum,True,WEF Quantum Economy Blueprint pilot + National Quantum Alliance,C4IR / WEF / RDIA / Aramco,2026,2025 / 2026,2,active
+Saudi Arabia,SAU,26-Saudi-Arabia.md,Biomedical & biotechnology,Biotechnology,True,National Biotechnology Strategy,Crown Prince / MoH / SFDA,2024,2024,3,mature
+Saudi Arabia,SAU,26-Saudi-Arabia.md,Materials & critical minerals,Materials / Mining,True,National Industrial Strategy + National Minerals Program + US–Saudi Critical Minerals Framework,MoIMR / Ma'aden / PIF (Manara),2025,2022 / 2025–26,3,mature
+Saudi Arabia,SAU,26-Saudi-Arabia.md,Semiconductors,Semiconductors,True,"National Semiconductor Hub (Alat exits chip fabrication, Apr 2026)",RDIA / KACST / PIF (Alat),2026,2024 / 2026,2,active
+Saudi Arabia,SAU,26-Saudi-Arabia.md,Digital infrastructure,Digital Tech,True,Digital Economy Policy + Digital Government Strategy (Hexagon data center),MCIT / DGA / SDAIA,2026,2020 / 2023 / 2026,4,frontier
+Saudi Arabia,SAU,26-Saudi-Arabia.md,Autonomous systems,Autonomous Systems,True,GACA Advanced Air Mobility Roadmap (+ NEOM testbeds),GACA / NEOM / MoT,2024,2024,2,active
+Qatar,QAT,42-Qatar.md,Nuclear energy,Nuclear Energy,True,Radiation Protection Law 31/2002 + Nuclear Material Law 3/2018 (no power),MoECC – Dept of Radiation Protection,2018,2002/2018,0,absent
+Qatar,QAT,42-Qatar.md,Artificial intelligence,Artificial Intelligence,True,National AI Strategy (2019) + National AI Policy (consultation closed Jan 2026) + Fanar LLM,MCIT / AI Committee / QCRI,2025,2019 / 2025–26,3,mature
+Qatar,QAT,42-Qatar.md,Quantum information science,Quantum,True,Quantum program via QC2 + national QKD testbed,QC2 (HBKU) / Ooredoo / MoD,2026,ongoing / 2026,2,active
+Qatar,QAT,42-Qatar.md,Biomedical & biotechnology,Biotechnology,True,Qatar Genome Programme + Qatar Precision Health Institute,Qatar Foundation / QPHI / QBB,2015,2015,3,mature
+Qatar,QAT,42-Qatar.md,Materials & critical minerals,Materials / Minerals,True,NDS3 Manufacturing Cluster + Helium (Ras Laffan),National Planning Council / QatarEnergy,2024,2024,3,mature
+Qatar,QAT,42-Qatar.md,Semiconductors,Semiconductors,True,QRDI 2030 + IMEC Qatar R&D Hub,QRDI Council / Invest Qatar,2025,2025/26,2,active
+Qatar,QAT,42-Qatar.md,Digital infrastructure,Digital Tech,True,Digital Agenda 2030 + TASMU Smart Qatar,Ministry of Communications & IT (MCIT),2024,2024,3,mature
+Qatar,QAT,42-Qatar.md,Autonomous systems,Autonomous Systems,True,Autonomous Vehicles Strategy + draft UAV Law (2026) + QCAA drone regs,Ministry of Transport / Ministry of Interior / QCAA,2026,2023 / 2026,2,active
+Oman,OMN,44-Oman.md,Nuclear energy,Nuclear Energy,True,Radiation Protection Regulation (Res. 79/2023) — no power,Environment Authority,2023,2023,0,absent
+Oman,OMN,44-Oman.md,Artificial intelligence,Artificial Intelligence,True,National Programme for AI & Advanced Digital Technologies + Ma'een LLM + Oman AI Zone,MTCIT,2026,2024 / 2026,3,mature
+Oman,OMN,44-Oman.md,Quantum information science,Quantum,True,Within National AI Programme / 2026–2030 Digital Roadmap,MTCIT,2026,2024/2026,1,nascent
+Oman,OMN,44-Oman.md,Biomedical & biotechnology,Biotechnology,True,"National Biotechnology Strategy (red/green/white, in dev) + Health Vision 2050",RIA / MoHERI / Ministry of Health,2025,2014 / 2025–26,2,active
+Oman,OMN,44-Oman.md,Materials & critical minerals,Materials / Minerals,True,Mineral Wealth Law (RD 19/2019) + Green Hydrogen Strategy,Ministry of Energy & Minerals / Hydrom,2022,2019 / 2022,3,mature
+Oman,OMN,44-Oman.md,Semiconductors,Semiconductors,True,National Semiconductor Ecosystem Strategy (launched) + OSAT framework + ITHCA,MTCIT / OIA (ITHCA),2026,2026,2,active
+Oman,OMN,44-Oman.md,Digital infrastructure,Digital Tech,True,National Digital Economy Programme (NDEP) 2026–2030 + Tahawul + Cloud/Data-Centre Regulation,MTCIT / TRA,2026,2021 / 2026,3,mature
+Oman,OMN,44-Oman.md,Autonomous systems,Autonomous Systems,True,"Exec. Regulation 1412/2023 + CAR 102; ""Serb"" UTM; Advanced Air Mobility Charter",Civil Aviation Authority,2026,2023/2024 / 2026,2,active
+Türkiye,TUR,29-Turkey.md,Nuclear energy,Nuclear Energy,True,National Energy Plan 2020–2035 (Akkuyu),Ministry of Energy & Natural Resources,2022,2022,3,mature
+Türkiye,TUR,29-Turkey.md,Artificial intelligence,Artificial Intelligence,True,National AI Strategy 2021–2025 (+ 2024–25 Action Plan),Ministry of Industry & Tech / Digital Transformation Office,2024,2021/2024,3,mature
+Türkiye,TUR,29-Turkey.md,Quantum information science,Quantum,True,2030 Industry & Technology Strategy (National Quantum Institute),Ministry of Industry & Tech / TÜBİTAK,2025,2025,2,active
+Türkiye,TUR,29-Turkey.md,Biomedical & biotechnology,Biotechnology,True,National Biotechnology Strategy 2023–2028 + Health Roadmap,Presidency / MoIT / TÜSEB,2023,2022/2023,3,mature
+Türkiye,TUR,29-Turkey.md,Materials & critical minerals,Materials / Rare Earths,True,Critical Raw Materials Strategy + Beylikova REE program (Eti Maden),Ministry of Energy / Eti Maden / TENMAK,2026,2026,3,mature
+Türkiye,TUR,29-Turkey.md,Semiconductors,Semiconductors,True,HIT-30 Semiconductor Call (HIT-Çip),Ministry of Industry & Technology,2024,2024,2,active
+Türkiye,TUR,29-Turkey.md,Digital infrastructure,Digital Tech,True,12th Development Plan + National Broadband Strategy + 5G Authorization Tender,Presidency of Strategy & Budget / Transport Ministry / BTK,2025,2023/2025,2,active
+Türkiye,TUR,29-Turkey.md,Autonomous systems,Autonomous Systems,True,Mobility Roadmap (TOGG) + SSB Defense Strategic Plan 2024–28,MoIT / Defense Industry Agency (SSB),2024,2022/2024,4,frontier
+Egypt,EGY,34-Egypt.md,Nuclear energy,Nuclear Energy,True,El Dabaa Nuclear Power Plant (Vision 2030 energy mix),Nuclear Power Plants Authority (NPPA),2026,2017 (fuel order 2025; Unit 1 commercial 2026),3,mature
+Egypt,EGY,34-Egypt.md,Artificial intelligence,Artificial Intelligence,True,National AI Strategy — 2nd Edition (2025–2030) + National Guidelines for Trustworthy & Responsible AI,MCIT / National Council for AI,2026,2025 (guidelines 2026),3,mature
+Egypt,EGY,34-Egypt.md,Quantum information science,Quantum,True,National Quantum Computing Strategy (pillars unveiled),"MCIT / National Council for AI, Quantum Computing & Emerging Technologies",2026,2026,2,active
+Egypt,EGY,34-Egypt.md,Biomedical & biotechnology,Biotechnology,True,Egyptian Reference Genome Project (Phase 1 results),Ministry of Higher Education & Scientific Research / ECRRM,2026,2021/22 (results 2026),3,mature
+Egypt,EGY,34-Egypt.md,Materials & critical minerals,Materials / Minerals,True,Mining Sector Expansion Strategy 2024–2030 (Executive Regulations amended),Ministry of Petroleum & Mineral Resources / EMRA,2026,2024 (amended 2026),2,active
+Egypt,EGY,34-Egypt.md,Semiconductors,Semiconductors,True,Egypt Makes Electronics (EME) — Export Development Programme,MCIT / ITIDA,2026,2015 (export track 2026),2,active
+Egypt,EGY,34-Egypt.md,Digital infrastructure,Digital Tech,True,Digital Egypt / ICT Strategy 2030,MCIT / NTRA,2026,2017 (5G spectrum 2026),3,mature
+Egypt,EGY,34-Egypt.md,Autonomous systems,Autonomous Systems,True,Law No. 216 of 2017 (drone regulation); defense co-production & civil monitoring,Ministry of Defense / ECAA,2026,2017 (2026 programs),3,mature
+South Africa,ZAF,28-South-Africa.md,Nuclear energy,Nuclear Energy,True,"Integrated Resource Plan 2025 (IRP 2025, gazetted)",Department of Electricity and Energy,2025,2025,3,mature
+South Africa,ZAF,28-South-Africa.md,Artificial intelligence,Artificial Intelligence,True,National AI Policy Framework (2024),DCDT,2024,2024,2,active
+South Africa,ZAF,28-South-Africa.md,Quantum information science,Quantum,True,South African Quantum Technology Initiative (SA QuTI),DSI,2021,2021,2,active
+South Africa,ZAF,28-South-Africa.md,Biomedical & biotechnology,Biotechnology,True,Bio-economy Strategy,DSI,2013,2013,3,mature
+South Africa,ZAF,28-South-Africa.md,Materials & critical minerals,Materials / Minerals,True,Critical Minerals and Metals Strategy,DMPR / DSI,2025,2025,3,mature
+South Africa,ZAF,28-South-Africa.md,Semiconductors,Semiconductors,True,Within Decadal Plan + Digital Economy Masterplan,DSI / DCDT (CSIR),2021,2021/22,1,nascent
+South Africa,ZAF,28-South-Africa.md,Digital infrastructure,Digital Tech,True,SA Connect Phase 2 + Digital Economy Masterplan,DCDT,2022,2013/2022,2,active
+South Africa,ZAF,28-South-Africa.md,Autonomous systems,Autonomous Systems,True,CAR Part 101 (drones) + Draft Airfreight Strategy 2025,SACAA / Dept of Transport,2025,2015 / 2025,2,active
+Brazil,BRA,27-Brazil.md,Nuclear energy,Nuclear Energy,True,Brazilian Nuclear Policy / Program (PNB),Presidency / MME / MCTI / CNEN,2018,2018,2,active
+Brazil,BRA,27-Brazil.md,Artificial intelligence,Artificial Intelligence,True,"PBIA 2024–2028 (""IA para o Bem de Todos"")",MCTI,2024,2024,3,mature
+Brazil,BRA,27-Brazil.md,Quantum information science,Quantum,True,IBQuântica (Iniciativa Brasileira para Tecnologias Quânticas),MCTI / Finep,2024,2024,2,active
+Brazil,BRA,27-Brazil.md,Biomedical & biotechnology,Biotechnology,True,"Genomas Brasil (+ NIB Mission 2, Health Complex)",Ministry of Health / MCTI,2023,2020/2023,3,mature
+Brazil,BRA,27-Brazil.md,Materials & critical minerals,Materials / Minerals,True,National Policy for Strategic Minerals → PNMCE (Critical & Strategic Minerals),MME / PPI / Congress,2026,2021 / 2026 (PL 2.780/2024),3,mature
+Brazil,BRA,27-Brazil.md,Semiconductors,Semiconductors,True,Programa Brasil Semicondutores (Brasil Semicon) + modernized PADIS,MDIC / MCTI,2024,2024 (Lei 14.968/2024),2,active
+Brazil,BRA,27-Brazil.md,Digital infrastructure,Digital Tech,True,E-Digital (Brazilian Strategy for Digital Transformation),MCTI / Casa Civil,2031,2018 (rev. 2022; new 2026–2031 cycle),3,mature
+Brazil,BRA,27-Brazil.md,Autonomous systems,Autonomous Systems,True,Programa Mover (Green Mobility and Innovation),MDIC,2024,2024,2,active
+Argentina,ARG,35-Argentina.md,Nuclear energy,Nuclear Energy,True,Plan Nuclear Argentino (2024/2025),Sec. de Asuntos Nucleares / CNEA / NA-SA,2024,2024,2,active
+Argentina,ARG,35-Argentina.md,Artificial intelligence,Artificial Intelligence,True,"Recomendaciones para una IA Fiable (Disp. 2/2023) + AAIP Guide; ""Stargate Argentina"" AI-infrastructure hub (RIGI)",Jefatura de Gabinete / AAIP / Presidencia,2025,2023/2024; 2025,3,mature
+Argentina,ARG,35-Argentina.md,Quantum information science,Quantum,True,Programa Interinstitucional de Ciencias y Tecnologías Cuánticas (PNCTI 2030),"Sec. de Innovación, Ciencia y Tecnología / CONICET",2025,2023–2025,2,active
+Argentina,ARG,35-Argentina.md,Biomedical & biotechnology,Biotechnology,True,Ley 27685 (Biotecnología Moderna y Nanotecnología),Congreso de la Nación,2022,2022,3,mature
+Argentina,ARG,35-Argentina.md,Materials & critical minerals,Materials / Critical Minerals,True,RIGI (Ley 27742) + Mesa Nacional del Litio,Congreso / Min. Economía / Provincias,2024,2024,3,mature
+Argentina,ARG,35-Argentina.md,Semiconductors,Semiconductors,True,Súper RIGI + Programa Nacional de Diseño de Semiconductores (CENDIA),Poder Ejecutivo / Congreso,2026,2026 (proposed),1,nascent
+Argentina,ARG,35-Argentina.md,Digital infrastructure,Digital Tech,True,Agenda Digital Argentina 2030 (Decreto 996/2018),Jefatura de Gabinete / ARSAT,2018,2018,3,mature
+Argentina,ARG,35-Argentina.md,Autonomous systems,Autonomous Systems,True,Reglamento para la Aviación Civil No Tripulada (Decreto 663/2024),ANAC,2025,2024/2025,2,active
+Chile,CHL,41-Chile.md,Nuclear energy,Nuclear Energy,True,CCHEN Strategic Plan + CCHEN 360° (no power plants),Comisión Chilena de Energía Nuclear / Min. Energía,2024,2017 / 2024–25,1,nascent
+Chile,CHL,41-Chile.md,Artificial intelligence,Artificial Intelligence,True,"Política Nacional de IA (updated, Decreto N°12) + AI Bill (pending in Senate) + Latam-GPT",MinCiencia,2025,2021 / 2025–26,3,mature
+Chile,CHL,41-Chile.md,Quantum information science,Quantum,True,Estrategia Nacional de Tecnologías Cuánticas 2025–2035,MinCiencia / ANID,2025,2025,2,active
+Chile,CHL,41-Chile.md,Biomedical & biotechnology,Biotechnology,True,Estrategia Nacional de Biotecnología 2025–2035,MinCiencia,2025,2025,2,active
+Chile,CHL,41-Chile.md,Materials & critical minerals,Materials / Critical Minerals,True,Estrategia Nacional del Litio + Codelco–SQM JV (constituted) + ILiSa institute,Min. Minería / Codelco / Corfo,2025,2023 / 2025–26,4,frontier
+Chile,CHL,41-Chile.md,Semiconductors,Semiconductors,False,*Explicitly absent*,—,,—,0,absent
+Chile,CHL,41-Chile.md,Digital infrastructure,Digital Tech,True,PDATA 2024–2030 + SEA data-center environmental criterion,MinCiencia / SEA,2026,2024 / 2026,3,mature
+Chile,CHL,41-Chile.md,Autonomous systems,Autonomous Systems,True,DAN 151 / DAN 91 (drones) + State Astronomy Policy,DGAC / MinCiencia,2024,2024,2,active
