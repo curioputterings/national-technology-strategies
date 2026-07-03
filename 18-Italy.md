@@ -8,9 +8,9 @@ Italy's tech transformation is driven by the €190B+ **PNRR (National Recovery 
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | National Platform for a Sustainable Nuclear Power (PNNS) | MASE / ENEA / RSE | 2023/24 |
-| Artificial Intelligence | Italian Strategy for AI 2024–2026 | AgID / Dept. for Digital Transformation | 2024 |
-| Quantum | Italian Strategy for Quantum Technologies | MUR (+ MIMIT, ACN, Defense) | 2024 |
+| Nuclear Energy | PNNS Platform + Sustainable Nuclear delegation law (DDL "Nucleare Sostenibile", A.C. 2669) | MASE / ENEA / RSE; Parliament | 2023/24; 2026 |
+| Artificial Intelligence | Italian Strategy for AI 2024–2026 + National AI Law (L. 132/2025) | AgID / Dept. for Digital Transformation; Parliament | 2024; 2025 |
+| Quantum | Italian Strategy for Quantum Technologies | DTD / CITD (+ MUR, MIMIT, ACN, Defense) | 2025 |
 | Biotechnology | PNRR RNA/Gene Therapy Center + Bioeconomy BIT II | MUR / Presidency of the Council | 2022/24 |
 | Materials Science | Critical Raw Materials Decree + Technical Table | MIMIT / MASE | 2023/24 |
 | Semiconductors | National Microelectronics Plan (Italian Chips Act) | MIMIT / MUR | 2023 |
@@ -20,25 +20,25 @@ Italy's tech transformation is driven by the €190B+ **PNRR (National Recovery 
 ---
 
 ## 1. Nuclear Energy
-- **Plan:** National Platform for a Sustainable Nuclear Power (PNNS / Piattaforma Nazionale per un Nucleare Sostenibile)
-- **Body:** Ministry of Environment and Energy Security (MASE), with ENEA and RSE
-- **Year:** 2023–2024 (conclusive reports Oct 2024)
-- **URL:** https://www.mase.gov.it/portale/-/piattaforma-nazionale-per-un-nucleare-sostenibile-pubblicazione-rapporti-conclusivi
-- **Summary:** A historic reversal of the post-Chernobyl 1987 referendum ban, evaluating nuclear's reintroduction by 2050 for decarbonization and energy security. Expressly rules out legacy Gen-III large plants, focusing instead on SMRs, Gen-IV Advanced Modular Reactors (e.g. lead-cooled fast reactors), and long-term fusion. The platform's 7 working-group reports coordinate research institutes, universities, and industry to build a supply chain and address social acceptability.
+- **Plan:** National Platform for a Sustainable Nuclear Power (PNNS / Piattaforma Nazionale per un Nucleare Sostenibile) + Delegation Law on Sustainable Nuclear Power ("DDL delega nucleare sostenibile", A.C. 2669)
+- **Body:** Ministry of Environment and Energy Security (MASE), with ENEA and RSE; Parliament (Chamber of Deputies / Senate)
+- **Year:** 2023–2024 (PNNS conclusive reports Oct 2024); 2026 (delegation law, Chamber approval)
+- **URL:** https://www.mase.gov.it/portale/-/piattaforma-nazionale-per-un-nucleare-sostenibile-pubblicazione-rapporti-conclusivi ; https://www.camera.it (A.C. 2669 — Delega nucleare sostenibile)
+- **Summary:** A historic reversal of the post-Chernobyl 1987 referendum ban, evaluating nuclear's reintroduction by 2050 for decarbonization and energy security. Expressly rules out legacy Gen-III large plants, focusing instead on SMRs, Gen-IV Advanced Modular Reactors (e.g. lead-cooled fast reactors), and long-term fusion. The platform's 7 working-group reports coordinate research institutes, universities, and industry to build a supply chain and address social acceptability. **2026 update:** the MASE-promoted enabling "delegation law" on sustainable nuclear power (A.C. 2669) passed its first reading in the Chamber of Deputies on 4 June 2026 and moved to the Senate; once enacted it gives the government 12 months to issue implementing decrees on siting, radioactive-waste management, an independent nuclear safety authority, permitting, and workforce training for SMRs/AMRs/micro-reactors and fusion research.
 
 ## 2. Artificial Intelligence
-- **Plan:** Italian Strategy for Artificial Intelligence 2024–2026 (Strategia Italiana per l'IA)
-- **Body:** Agency for Digital Italy (AgID), Department for Digital Transformation (Presidency of the Council)
-- **Year:** July 2024
-- **URL:** https://www.agid.gov.it/sites/agid/files/2024-07/Strategia_italiana_per_l_Intelligenza_artificiale_2024-2026.pdf
-- **Summary:** Released just after the EU AI Act, drafted by a 14-expert committee. Four macro-areas: Research, Public Administration, Enterprises, and Training — with a network of facilitators to drive SME adoption and AI-driven PA automation. Aligns with the EU AI Act; envisions specialized Italian large models. Backed by the PNRR FAIR (Future AI Research) Extended Partnership mobilizing 350+ researchers across 10 hubs. (Italy ranks ~7th globally in AI publications but struggles with tech transfer.)
+- **Plan:** Italian Strategy for Artificial Intelligence 2024–2026 (Strategia Italiana per l'IA) + National AI Law (Legge 23 settembre 2025, n. 132 — "Disposizioni e deleghe al Governo in materia di intelligenza artificiale")
+- **Body:** Agency for Digital Italy (AgID), Department for Digital Transformation (Presidency of the Council); Italian Parliament (for L. 132/2025)
+- **Year:** July 2024 (Strategy); September 2025 (Law)
+- **URL:** https://www.agid.gov.it/sites/agid/files/2024-07/Strategia_italiana_per_l_Intelligenza_artificiale_2024-2026.pdf ; https://www.senato.it/leg/19/BGT/Schede/Ddliter/58368.htm
+- **Summary:** Released just after the EU AI Act, drafted by a 14-expert committee. Four macro-areas: Research, Public Administration, Enterprises, and Training — with a network of facilitators to drive SME adoption and AI-driven PA automation. Aligns with the EU AI Act; envisions specialized Italian large models. Backed by the PNRR FAIR (Future AI Research) Extended Partnership mobilizing 350+ researchers across 10 hubs. **2025 update:** Italy became one of the first EU states with an organic national AI law — Legge 132/2025, published in Gazzetta Ufficiale n. 223 on 25 Sept 2025 and in force from 10 Oct 2025 — operationalizing the strategy and the EU AI Act. It sets human-centric, transparency and human-oversight rules for high-risk uses (health, justice, labor, public administration), copyright safeguards for generative AI, new criminal provisions (e.g. against harmful deepfakes), and delegates the government to issue further implementing decrees.
 
 ## 3. Quantum Information Science
 - **Plan:** Italian Strategy for Quantum Technologies (Strategia Italiana per le Tecnologie Quantistiche)
-- **Body:** MUR (Ministry of University and Research), with MIMIT, DTD, MAECI, Defense, ACN
-- **Year:** September 2024
-- **URL:** https://www.mur.gov.it/it/strategia-italiana-le-tecnologie-quantistiche
-- **Summary:** A roadmap for leadership in quantum computing, simulation, sensing, and secure communication. Anchored by the PNRR-funded National Center for HPC, Big Data and Quantum Computing (ICSC) at the Bologna Tecnopolo — which integrated a 140-qubit Pasqal neutral-atom computer with the pre-exascale Leonardo supercomputer (hybrid classical-quantum). Focuses on deep-tech startups, quantum sensing, and migrating to post-quantum cryptography for national security.
+- **Body:** Department for Digital Transformation (DTD) / Interministerial Committee for Digital Transition (CITD), with MUR, MIMIT, MAECI, Defense, ACN
+- **Year:** July 2025 (adopted by CITD; presented to Council of Ministers); implementation launched Dec 2025
+- **URL:** https://www.innovazione.gov.it ; https://www.mur.gov.it/it/strategia-italiana-le-tecnologie-quantistiche
+- **Summary:** A roadmap for leadership in quantum computing, simulation, sensing, secure communication, and basic science, aligned with the forthcoming EU Quantum Act. Formally adopted by the Interministerial Committee for Digital Transition (CITD) in July 2025 and curated by the Department for Digital Transformation in synergy with MUR, MIMIT, MAECI, Defense and ACN; implementation kicked off at the "Stati Generali del Quantum" on 17 Dec 2025, including plans for a National Quantum Hub (Polo Nazionale per le Tecnologie Quantistiche). Anchored by the PNRR-funded National Center for HPC, Big Data and Quantum Computing (ICSC) at the Bologna Tecnopolo — which integrated a 140-qubit Pasqal neutral-atom computer with the pre-exascale Leonardo supercomputer (hybrid classical-quantum). Focuses on deep-tech startups, quantum sensing, public-private networks, and migrating to post-quantum cryptography for national security.
 
 ## 4. Biomedical Sciences / Biotechnology
 - **Plan:** PNRR National Center for Gene Therapy and RNA-Technology Drugs + Bioeconomy BIT II Implementation Action Plan (2025–2027)

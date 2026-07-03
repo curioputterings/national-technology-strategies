@@ -2,15 +2,15 @@
 
 *Source: Gemini deep research, 2026. Country 2 of 5 (Batch 1).*
 
-China runs a highly centralized, state-driven industrial-policy framework aimed at technological self-reliance ("self-strengthening"). The overarching blueprints are the **14th Five-Year Plan (2021–2025)** and the sector objectives from **Made in China 2025**, complemented by domain-specific five-year plans and 2030/2035 long-range goals.
+China runs a highly centralized, state-driven industrial-policy framework aimed at technological self-reliance ("self-strengthening"). The overarching blueprint is now the **15th Five-Year Plan (2026–2030)** — its CPC Central Committee Recommendations adopted October 2025 and the full Outline (纲要) adopted by the National People's Congress in March 2026 — which elevates "high-level scientific and technological self-reliance," a "new whole-nation system" (新型举国体制) for core-technology breakthroughs, and a nationwide **"AI Plus" (人工智能+)** initiative. It succeeds the **14th Five-Year Plan (2021–2025)** and the sector objectives of **Made in China 2025**, and is complemented by domain-specific five-year plans and 2030/2035 long-range goals.
 
 ## Summary Table
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | 14th FYP for Modern Energy System (十四五现代能源体系规划) | NDRC + NEA | 2022 |
-| Artificial Intelligence | New Generation AI Development Plan (新一代人工智能发展规划) | State Council | 2017 |
-| Quantum | 14th FYP Outline + Quantum Info Tech special provisions | NPC / CPC / MOST | 2021 |
+| Nuclear Energy | 15th FYP for New Energy System Construction (新型能源体系建设"十五五"规划) | NDRC + NEA | 2026 |
+| Artificial Intelligence | Opinions on Deeply Implementing the "AI Plus" Action (关于深入实施"人工智能+"行动的意见) | State Council | 2025 |
+| Quantum | 15th FYP Outline future-industry provisions + earlier 14th FYP quantum measures | NPC / CPC / MOST | 2026 |
 | Biotechnology | 14th FYP for Bioeconomy Development (十四五生物经济发展规划) | NDRC | 2022 |
 | Materials Science | 14th FYP for Raw Materials Industry Development | MIIT / MOST / MNR | 2021 |
 | Semiconductors | State Council Notice on IC & Software High-Quality Development | State Council | 2020 |
@@ -20,25 +20,25 @@ China runs a highly centralized, state-driven industrial-policy framework aimed 
 ---
 
 ## 1. Nuclear Energy
-- **Plan:** 14th Five-Year Plan for a Modern Energy System (《"十四五"现代能源体系规划》)
+- **Plan:** 15th Five-Year Plan for New Energy System Construction (《新型能源体系建设"十五五"规划》); succeeds the 14th FYP for a Modern Energy System (《"十四五"现代能源体系规划》)
 - **Body:** National Development and Reform Commission (NDRC) + National Energy Administration (NEA)
-- **Year:** March 2022 (2021–2025)
-- **URL:** https://www.nea.gov.cn/1310524241_16479412513081n.pdf ; https://www.ndrc.gov.cn
-- **Summary:** Mandates active, safe, orderly nuclear development, concentrated on coastal projects, with demonstration of HTGRs, fast reactors, and SMRs. Targets ~70 GW installed capacity by 2025 (≈200 GW by 2035), funded by SOEs (CNNC, CGN) via equity, bonds, and subsidies. Aims for nuclear to reach 10% of generation by 2035 and 15%+ by 2050, supporting carbon neutrality. World's first Gen-IV commercial reactor (HTR-PM, Shidaowan) began operating late 2023; also pursues reactor exports under Belt and Road.
+- **Year:** 2026 (2026–2030); prior 14th FYP issued March 2022
+- **URL:** https://www.ndrc.gov.cn ; https://www.nea.gov.cn ; (14th FYP) https://www.nea.gov.cn/1310524241_16479412513081n.pdf
+- **Summary:** The 15th FYP recasts the energy roadmap around a "new energy system" (新型能源体系), targeting non-fossil energy at roughly 25% of total consumption by 2030 and adding forward-looking research and engineering breakthroughs in **nuclear fusion**, advanced fission reactors, hydrogen, smart grids, and energy-storage materials, with absolute supply-chain autonomy in critical energy technology. It carries forward the 14th FYP's mandate for active, safe, orderly nuclear build-out concentrated on coastal sites, with HTGRs, fast reactors, and SMRs, and the trajectory toward ~200 GW installed by 2035 (nuclear ≈10% of generation by 2035, 15%+ by 2050). Build-out is funded by SOEs (CNNC, CGN) via equity, bonds, and subsidies in support of carbon neutrality. World's first Gen-IV commercial reactor (HTR-PM, Shidaowan) has been operating since late 2023; China also pursues reactor exports under Belt and Road.
 
 ## 2. Artificial Intelligence
-- **Plan:** New Generation Artificial Intelligence Development Plan (《新一代人工智能发展规划》)
+- **Plan:** Opinions of the State Council on Deeply Implementing the "AI Plus" Action (《国务院关于深入实施"人工智能+"行动的意见》, 国发〔2025〕11号); builds on the New Generation Artificial Intelligence Development Plan (《新一代人工智能发展规划》)
 - **Body:** State Council
-- **Year:** July 2017 (augmented by 14th FYP digital directives)
-- **URL:** http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm
-- **Summary:** Three-step timeline: catch global leaders by 2020, major theoretical breakthroughs by 2025, become the world's primary AI innovation center by 2030. Economic targets: core AI industry >400B RMB by 2025, >1T RMB by 2030 (related industries >10T RMB). Funded via government allocation, military-civil fusion, and state-directed VC; establishes "AI+" across six priority sectors. Foundational-model and AI-chip ambitions now pressured by U.S. export controls, prompting domestic alternatives (Huawei Ascend, HarmonyOS).
+- **Year:** August 2025 ("AI Plus" Action); foundational 2017 plan
+- **URL:** https://www.gov.cn/zhengce/content/202508/content_7037861.htm ; http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm
+- **Summary:** The August 2025 "AI Plus" Opinions make AI-industry integration a top national programme: they target AI penetration above 70% in key sectors by 2027 and broad fusion of AI into a "smart society and intelligent economy" by 2035, organized around priority tracks spanning science/technology, industry and manufacturing, consumption, livelihood, governance, and global cooperation. The 15th FYP Outline (March 2026) elevates this "AI Plus" (人工智能+) initiative nationwide as a core engine of "new quality productive forces." Both layer onto the 2017 plan's three-step timeline — catch global leaders by 2020, breakthroughs by 2025, become the world's primary AI innovation center by 2030 — with core-AI-industry targets of >400B RMB by 2025 and >1T RMB by 2030. Funded via government allocation, military-civil fusion, and state-directed VC; foundational-model and AI-chip ambitions remain pressured by U.S. export controls, prompting domestic alternatives (Huawei Ascend, HarmonyOS).
 
 ## 3. Quantum Information Science
-- **Plan:** 14th FYP Outline & 2035 Long-Range Objectives (incl. quantum information technology special provisions)
+- **Plan:** 15th FYP Outline future-industry provisions (quantum technology); succeeds the 14th FYP Outline & 2035 Long-Range Objectives (incl. quantum information technology special provisions)
 - **Body:** National People's Congress (drafted by CPC Central Committee + MOST)
-- **Year:** March 2021 (reaffirmed in 15th FYP proposals)
-- **URL:** https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202112/t20211224_1309260.html
-- **Summary:** Designates quantum computing, communications, and precision measurement as a top strategic frontier for self-reliance. R&D spending to rise ≥7%/yr during the 14th FYP; estimated total state/regional quantum investment up to ~$15B. Targets quantum computing prototypes, national innovation centers (e.g. Hefei), and commercialized quantum cryptography. State-led ecosystem via CAS and USTC; early leadership in quantum communications (Micius satellite, Beijing-Shanghai backbone).
+- **Year:** 2026 (15th FYP Outline); 14th FYP March 2021
+- **URL:** https://www.gov.cn/zhengce/ ; (14th FYP) https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202112/t20211224_1309260.html
+- **Summary:** The 15th FYP Recommendations (Oct 2025) and Outline (Mar 2026) name quantum technology among the "future industries" for proactive national positioning, alongside bio-manufacturing, 6G, brain-computer interfaces, and embodied intelligence, directing state funding via the "new whole-nation system." This continues the 14th FYP's designation of quantum computing, communications, and precision measurement as a top strategic frontier for self-reliance, with R&D spending rising ≥7%/yr and estimated total state/regional quantum investment up to ~$15B. Targets include quantum computing prototypes, national innovation centers (e.g. Hefei), and commercialized quantum cryptography. State-led ecosystem via CAS and USTC; early leadership in quantum communications (Micius satellite, Beijing-Shanghai backbone).
 
 ## 4. Biomedical Sciences / Biotechnology
 - **Plan:** 14th Five-Year Plan for Bioeconomy Development (《"十四五"生物经济发展规划》)
@@ -51,7 +51,7 @@ China runs a highly centralized, state-driven industrial-policy framework aimed 
 - **Plan:** 14th Five-Year Plan for Raw Materials Industry Development (+ New Materials Industry Development Guide)
 - **Body:** MIIT, MOST, Ministry of Natural Resources
 - **Year:** December 2021
-- **URL:** https://www.miit.gov.cn/jgsj/ycls/wjfb/art/2021/art_245585b14ce94ccab93c12658fc5c723.html
+- **URL:** https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_2960538d19e34c66a5eb8d01b74cbb20.html
 - **Summary:** First plan to unify traditional raw materials and frontier "new materials" into one roadmap, targeting self-sufficiency and supply-chain security. 2025 targets: key-material R&D intensity >1.5%, 5–10 world-class advanced-manufacturing clusters. Supports advanced basic materials, key strategic materials (rare earths, semiconductor substrates), and frontier materials (graphene, nanomaterials); mandates >70% numerically controlled processes and lower emissions by 2025.
 
 ## 6. Semiconductors / Microelectronics

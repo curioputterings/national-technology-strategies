@@ -9,10 +9,10 @@ Taiwan's tech strategy is driven by supply-chain indispensability and geopolitic
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
 | Nuclear Energy | Nuclear Reactor Facilities Regulation Act amendment (restart) | Legislative Yuan / MOEA / NSC | 2025 |
-| Artificial Intelligence | AI Action Plan 2.0 + AI Basic Act | Executive Yuan / NSTC / MODA | 2023 / 2025 |
+| Artificial Intelligence | AI New Ten Major Construction Plan + AI Basic Act | Executive Yuan / NDC / NSTC / MODA | 2026 |
 | Quantum | National Strategy for High-Speed Quantum Computing | NSTC / Academia Sinica / TQPO | 2022 / 2026 |
-| Biotechnology | Biomedical Industry Innovation Program + Precision Health | NSTC / Executive Yuan / MOHW | 2017 / 2021 |
-| Materials Science | Taiwan Chip-based Innovation (CbI) materials focus | NSTC | 2024 |
+| Biotechnology | Emerging Biomedical Industries Development & Internationalization Program | MOEA / IDA (+ BIIP, Precision Health) | 2026 |
+| Materials Science | CbI materials focus + Critical Minerals / Rare Earth Pilot-Scale Production Plan | NSTC / MOEA / ITRI | 2024 / 2026 |
 | Semiconductors | Taiwan Chip-based Industrial Innovation Program (CbI) | Executive Yuan / NSTC / MOEA | 2024 |
 | Digital Tech | Smart Nation Plan / DIGI+ | Executive Yuan / MODA | 2021 |
 | Autonomous Systems | Integrated UAV Industry Development Plan / Drone National Team | MOEA / MND / Chiayi | 2024 |
@@ -22,16 +22,16 @@ Taiwan's tech strategy is driven by supply-chain indispensability and geopolitic
 ## 1. Nuclear Energy
 - **Plan:** Amendment to the Nuclear Reactor Facilities Regulation Act (核子反應器設施管制法) / Energy Transition Policy
 - **Body:** Legislative Yuan, Ministry of Economic Affairs (MOEA), Nuclear Safety Commission (NSC)
-- **Year:** May 2025 (amendment)
-- **URL:** https://focustaiwan.tw/politics/202505130024 ; https://world-nuclear.org/Information-Library/Country-Profiles/Others/Nuclear-Power-in-Taiwan
-- **Summary:** Reverses the DPP's "nuclear-free homeland" (the last reactor, Maanshan 2, shut May 2025). Facing AI-driven demand, 97% energy import dependence, and only ~11 days of LNG reserves (a blockade vulnerability), the legislature amended the Act (May 13, 2025) to allow 20-year extensions (up to 60-year lifespans). An Aug 2025 referendum backed restarting Maanshan; Taipower has applied to restart Maanshan and Kuosheng (~$2.8B), under NSC review.
+- **Year:** May 2025 (amendment); Aug 2025 referendum (failed)
+- **URL:** https://focustaiwan.tw/politics/202505130024 ; https://web.cec.gov.tw ; https://world-nuclear.org/Information-Library/Country-Profiles/Others/Nuclear-Power-in-Taiwan
+- **Summary:** Reverses the DPP's "nuclear-free homeland" (the last reactor, Maanshan 2, shut May 2025). Facing AI-driven demand, 97% energy import dependence, and only ~11 days of LNG reserves (a blockade vulnerability), the legislature amended the Act (May 13, 2025) to allow 20-year extensions (up to 60-year lifespans). A national referendum on restarting Maanshan (No. 21, Aug 23, 2025) won 74.2% of votes cast but **failed**: its ~4.34M "Yes" votes fell short of the ~5M (25% of electorate) legal threshold amid ~29.5% turnout, leaving any restart unmandated. Taipower may still pursue restart applications under Nuclear Safety Commission (NSC) review, but the policy reversal remains legally enabled yet politically stalled.
 
 ## 2. Artificial Intelligence
-- **Plan:** Taiwan AI Action Plan 2.0 + AI Basic Act (人工智慧基本法)
-- **Body:** Executive Yuan, National Science and Technology Council (NSTC), Ministry of Digital Affairs (MODA)
-- **Year:** Action Plan 2.0 (2023–2026); AI Basic Act passed Dec 2025
-- **URL:** https://stp.nstc.gov.tw/staben/440C143786470B9E/356a2273-bc1d-4980-931b-11376a58f5a4
-- **Summary:** Aims to push AI-related output past NT$250B and cultivate 8,000 AI professionals/yr. The "Ten Major AI Infrastructure Projects" pledge $3.08B for sovereign AI (incl. the TAIDE Traditional-Chinese LLM) and top-two-in-Asia compute. The AI Basic Act (Dec 23, 2025) names NSTC as competent authority, creates a National AI Strategy Committee, and sets seven principles — a flexible, principle-based framework (vs. the EU's prescriptive Act), with MODA building a risk-classification system.
+- **Plan:** AI New Ten Major Construction Plan 2025–2028 (AI新十大建設) + AI Basic Act (人工智慧基本法) + National AI Development Guidelines (國家人工智慧發展綱領)
+- **Body:** Executive Yuan, National Development Council (NDC), National Science and Technology Council (NSTC), Ministry of Digital Affairs (MODA)
+- **Year:** AI Basic Act signed into law Jan 14, 2026; New Ten Major Construction approved Jan 28, 2026; Development Guidelines approved June 23, 2026
+- **URL:** https://www.ndc.gov.tw/en/ ; https://law.moj.gov.tw ; https://stp.nstc.gov.tw/staben/440C143786470B9E/356a2273-bc1d-4980-931b-11376a58f5a4
+- **Summary:** The AI Basic Act — Taiwan's first comprehensive AI law (third reading Dec 23, 2025; promulgated by President Lai Ching-te Jan 14, 2026) — sets seven governance principles, names NSTC as competent authority, and mandates the Executive Yuan to form a National AI Strategic Special Committee. That committee convened for the first time on June 23, 2026, approving the NSTC's National AI Development Guidelines, which enshrine "Sovereign AI" (incl. the TAIDE Traditional-Chinese LLM and Taiwanese-cultural-data models) as a national target. Underpinning both is the AI New Ten Major Construction Plan (officially the Ten AI Initiatives Promotion Plan 2025–2028), approved by the Executive Yuan on Jan 28, 2026 with a >NT$130B (~US$4B) four-year budget to make Taiwan an "AI Island" across three pillars — smart applications, critical technologies, and digital infrastructure (sovereign compute, silicon photonics/CPO, quantum, an AI-robotics supply-chain hub), targeting 500,000 AI professionals by 2040.
 
 ## 3. Quantum Information Science
 - **Plan:** National Strategy for High-Speed Quantum Computing / Taiwan Quantum National Program
@@ -41,18 +41,18 @@ Taiwan's tech strategy is driven by supply-chain indispensability and geopolitic
 - **Summary:** Initial NT$8B (~$273M) to build indigenous quantum computing (superconducting/silicon-spin qubits) and communication, leveraging Taiwan's semiconductor supply chain. Phase 2 (2026) targets fault-tolerant computing, a verification platform (north), and a high-performance quantum computing center (south). Procured a 5-qubit computer from Finland (2024); "Quantum Taiwan" links 72 experts and 24 companies (incl. QuEra, Foxconn).
 
 ## 4. Biomedical Sciences / Biotechnology
-- **Plan:** Biomedical Industry Innovation Program (BIIP) / Taiwan Precision Health Industry strategy
-- **Body:** NSTC, Executive Yuan, Ministry of Health and Welfare
-- **Year:** BIIP 2017; Precision Health within Six Core Strategic Industries (2021–2030)
-- **URL:** https://english.ey.gov.tw/iip/45B49CEA4BAF08DF
-- **Summary:** Seeks to replicate semiconductor success in life sciences (market value surpassed NT$1.6T by 2024). Combines ICT/semiconductor strengths with biotech for digital therapeutics, smart healthcare, and precision medicine across the full care continuum to 2030. Built the National Biobank Consortium and Taiwan Gateway to Health Data; supports domestic CDMO capacity and AI-integrated diagnostics, with biomedical clusters (Taipei, Hsinchu).
+- **Plan:** Program for the Development and Internationalization of Emerging Biomedical Industries (新興生醫產業發展及國際化方案) — building on the Biomedical Industry Innovation Program (BIIP) / Precision Health strategy
+- **Body:** Ministry of Economic Affairs (MOEA), Industrial Development Administration (IDA); NSTC, Ministry of Health and Welfare
+- **Year:** New MOEA program May 29, 2026; BIIP 2017; Precision Health within Six Core Strategic Industries (2021–2030)
+- **URL:** https://www.ida.gov.tw/ ; https://english.ey.gov.tw/iip/45B49CEA4BAF08DF
+- **Summary:** Seeks to replicate semiconductor success in life sciences (market value surpassed NT$1.6T by 2024), combining ICT/semiconductor strengths with biotech for digital therapeutics, smart healthcare, and precision medicine to 2030. The foundational platforms — the National Biobank Consortium and Taiwan Gateway to Health Data — support domestic CDMO capacity and AI-integrated diagnostics across clusters (Taipei, Hsinchu). Building on the "Healthy Taiwan" vision and 2025 Bio Taiwan Committee (BTC) recommendations, the MOEA's new Emerging Biomedical Industries program (May 29, 2026) targets four thrusts: AI-driven precision health, international validation and market-access mechanisms, upgraded CDMO/smart manufacturing, and a biomedical innovation ecosystem — subsidizing R&D, funding global clinical validation, and deepening multinational precision-medicine collaboration.
 
 ## 5. Materials Science
-- **Plan:** Taiwan Chip-based Industrial Innovation Program — materials focus (+ bilateral programs with Japan/Sweden)
-- **Body:** NSTC
-- **Year:** CbI (2024–2033); NSTC-SSF Sweden Phase 2 (2026–2031)
-- **URL:** https://www.nstc.gov.tw/nstc/attachments/e53c8be7-4dce-4d14-b5ed-0d080527ad12
-- **Summary:** Materials science tied to semiconductor leadership (sub-2nm / angstrom era). CbI grants (NT$5–20M/project) fund Beyond-CMOS materials, 2D semiconductors, and silicon photonics / co-packaged optics (a 10-year SiPh-CPO ecosystem plan), mandating "materials–process–device–validation" workflows. Heavy reliance on bilateral partnerships — Japan's NIMS (advanced chip/clean-energy materials) and Sweden's SSF (polymer electrolytes, high-entropy alloys).
+- **Plan:** Taiwan Chip-based Industrial Innovation Program — materials focus (+ bilateral programs with Japan/Sweden); Critical Minerals Supply Chain Resilience & Rare Earth Pilot-Scale Production Plan
+- **Body:** NSTC; MOEA / Industrial Technology Research Institute (ITRI)
+- **Year:** CbI (2024–2033); NSTC-SSF Sweden Phase 2 (2026–2031); Critical Minerals / rare-earth plan (Feb 2026)
+- **URL:** https://www.ida.gov.tw ; https://investtaiwan.nat.gov.tw/
+- **Summary:** Materials science tied to semiconductor leadership (sub-2nm / angstrom era). CbI grants (NT$5–20M/project) fund Beyond-CMOS materials, 2D semiconductors, and silicon photonics / co-packaged optics (a 10-year SiPh-CPO ecosystem plan), mandating "materials–process–device–validation" workflows, alongside bilateral partnerships — Japan's NIMS (advanced chip/clean-energy materials) and Sweden's SSF (polymer electrolytes, high-entropy alloys). New in 2026: following the 6th Taiwan-U.S. Economic Prosperity Partnership Dialogue (EPPD), the MOEA tasked ITRI (Feb 2026) with developing indigenous rare-earth and e-waste-recycling technologies and an experimental production line, aiming to stand up a pilot-scale rare-earth line within three years to meet up to ~50% of domestic demand and insulate green-energy and semiconductor supply chains from shocks.
 
 ## 6. Semiconductors / Microelectronics
 - **Plan:** Taiwan Chip-based Industrial Innovation Program (Taiwan CbI / 晶創臺灣方案)

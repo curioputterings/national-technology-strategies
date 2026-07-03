@@ -6,6 +6,18 @@ Summaries of official **national strategies, plans, missions, and policies** acr
 
 **✅ Project complete — Coverage: 45 countries + the EU (46 entities)** spanning every inhabited continent: all of OECD, China, all 10 ASEAN member states, India, the European supranational level, the Gulf (UAE, Saudi Arabia, Qatar, Oman), major emerging economies (Brazil, South Africa, Turkey), Nordic/CEE (Finland, Norway, Poland), MENA/Africa (Egypt), Latin America (Argentina, Mexico, Chile), Central Asia (Kazakhstan), a country at war (Ukraine), and the Pacific (New Zealand).
 
+## 🔄 June 2026 refresh
+
+*All 46 profiles were re-scraped in June 2026; the flagship matrices, observations, and heatmap were re-scored against newer 2025/2026 documents. Most significant shifts:*
+
+- **US executive-order wave (2025–26):** a burst of presidential actions has largely superseded the prior strategic-plan documents — *America's AI Action Plan* (2025), the nuclear EO package (EOs 14299/14300/14302, 2025), a post-quantum EO (14413) and the "Genesis Mission" EO, Section 232 proclamations on semiconductors and critical minerals, and the "Unleashing American Drone Dominance" EO (14307).
+- **China's master frame moved on:** the **15th Five-Year Plan (2026–2030)** is now the overarching blueprint (succeeding the 14th FYP), paired with a nationwide **"AI Plus" Action** (State Council, 2025).
+- **A binding national-AI-law wave is now in force/enacted:** South Korea (AI Basic Act, in force Jan 2026), Japan (AI Promotion Act + AI Basic Plan), Vietnam (Law on AI, 2025), Italy (Law 132/2025), Taiwan (AI Basic Act), Kazakhstan (Law on AI + new Ministry of AI), plus draft laws (Spain) and EU **AI Continent / Apply AI** strategies and a **Quantum Europe Strategy** (2025).
+- **Near-universal critical-minerals push:** new strategies/deals surfaced in France (Terres rares plan), Turkey, Spain, Kazakhstan, Ukraine (to 2056 + US–Ukraine fund), Chile (Codelco–SQM JV now constituted), and Cambodia — alongside US Section 232 action.
+- **Nuclear momentum broadened:** Finland (Nuclear Act reform enacted), Sweden (state financing model), Switzerland (ban-repeal passed parliament), South Africa (IRP 2025, 5,200 MW new), Canada (Darlington SMR under construction), the EU **SMR/AMR Strategy 2026**, and Egypt's El Dabaa Unit 1 nearing commercial operation.
+- **One notable reversal:** Saudi Arabia's **Alat abandoned sovereign chip fabrication** (Apr 2026), downgrading the kingdom's semiconductor posture.
+- **Heatmap re-scored:** ~23 entities had posture changes (mostly +1 on AI, Nuclear, Quantum, Materials, and Autonomous).
+
 ## Country Files
 
 ### Batch 1 — OECD anchors + China + ASEAN + India
@@ -94,51 +106,51 @@ Summaries of official **national strategies, plans, missions, and policies** acr
 
 | Domain | US | China | Japan | S. Korea | Singapore | India | Germany | France | UK | Canada | Australia |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Nuclear | DOE Strategic Vision | 14th FYP Energy | 7th Energy Plan | 11th Electricity Plan | SMR feasibility | Nuclear Energy Mission/SHANTI | **Phase-out** | EPR2 + SMR | Civil Nuclear Roadmap | SMR Action Plan | **Moratorium** |
-| AI | National AI R&D Plan | New Gen AI Plan | Integrated Innovation | AI-Semi + AI Basic Act | NAIS 2.0 | IndiaAI Mission | KI-Aktionsplan | SNIA | AI Opportunities Plan | Pan-Canadian AI | Safe & Responsible AI |
-| Quantum | NSO for QIS | 14th FYP quantum | Quantum Future Vision | Quantum S&T Strategy | National Quantum Strategy | National Quantum Mission | Handlungskonzept | Strat. Nat. + PROQCIMA | National Quantum Strategy | National Quantum Strategy | National Quantum Strategy |
-| Biotech | Bold Goals | 14th FYP Bioeconomy | Bioeconomy Strategy | Advanced Bio Initiative | RIE2025 HHP | BioE3 Policy | GCT Strategy | Innovation Santé 2030 | Engineering Biology | Biomanufacturing Strategy | NHMR Strategy 26–36 |
-| Materials | Materials Genome | 14th FYP Raw Materials | Materials Innovation | Critical Minerals | RIE2025 MTC | Critical Mineral Mission | Mat2Twin | DIADEM + Recyclage | Critical Minerals V2035 | Critical Minerals Strategy | Critical Minerals 23–30 |
-| Semiconductors | Microelectronics Strategy | State Council IC Policy | Semi/Digital + Rapidus | Mega Cluster + K-Chips | RIE Flagship / NSTIC | India Semi Mission | Mikroelektronik-Strat. | Nano 2030 | National Semi Strategy | FABrIC | National Semi Roadmap |
-| Digital | Int'l Cyberspace Strategy | 14th FYP Digital Economy | Digital Society Program | Digital + K-Network 2030 | Smart Nation 2.0 + DCB | Digital India | Gigabit + Digital Strat. | Cloud + Future Networks | Wireless Infra Strategy | Connectivity Strategy | Data & Digital Govt |
-| Autonomous | DoD Unmanned Roadmap | NEV + ICV Standards | Mobility DX + RoAD L4 | Robotics + Mobility | NRP + LTA AV | Robotics + Drone PLI | AV Act + Robotics Plan | Robotique & machines | Transport AI + AV Act | Drone Strategy 2025 | National Robotics Strategy |
+| Nuclear | Nuclear EOs (14302+) | 15th FYP Energy System | 7th Energy Plan | 11th Electricity Plan | SMR feasibility | Nuclear Energy Mission/SHANTI | **Phase-out** | EPR2/SMR + PPE 3 | Civil Nuclear Roadmap | SMR Action Plan (Darlington) | **Moratorium** |
+| AI | America's AI Action Plan | "AI Plus" Action | AI Promotion Act + Basic Plan | AI Basic Act (in force) | NAIS 2.0 | IndiaAI Mission + Gov Guidelines | Hightech Agenda (AI) + KI-Aktionsplan | SNIA | AI Opportunities Plan | AI for All (Nat'l Strategy) | National AI Plan |
+| Quantum | Quantum EO 14413 | 14th FYP quantum | Quantum Future Vision | Quantum S&T Strategy | National Quantum Strategy | National Quantum Mission | Handlungskonzept | Strat. Nat. + PROQCIMA | National Quantum Strategy | National Quantum Strategy | National Quantum Strategy |
+| Biotech | Bold Goals | 14th FYP Bioeconomy | Bioeconomy Strategy | Advanced Bio Initiative | RIE2025 HHP | BioE3 Policy | GCT Strategy | Innovation Santé 2030 | Life Sciences Sector Plan | Biomanufacturing Strategy | NHMR Strategy 26–36 |
+| Materials | Materials Genome | 14th FYP Raw Materials | Materials Innovation | Critical Minerals | RIE2025 MTC | Critical Mineral Mission | Mat2Twin | DIADEM + Recyclage + Terres rares | Critical Minerals V2035 | Critical Minerals Strategy | Critical Minerals 23–30 |
+| Semiconductors | Microelectronics Strategy | State Council IC Policy | Semi/Digital + Rapidus | Mega Cluster + K-Chips | RIE Flagship / NSTIC | India Semi Mission (ISM 2.0) | Mikroelektronik-Strat. | Nano 2030 → Semi 2035 | Nat. Semi Strategy + £1.1B chips | FABrIC | National Semi Roadmap |
+| Digital | Int'l Cyberspace Strategy | 14th FYP Digital Economy | Digital Society Program | Digital + K-Network 2030 | Smart Nation 2.0 + DCB | Digital India + DPDP Rules | Gigabit + Digital Strat. | Cloud + Future Networks | Digital & Tech Sector Plan | Connectivity Strategy | Data & Digital Govt |
+| Autonomous | Drone Dominance EO 14307 | NEV + ICV Standards | Mobility DX + RoAD L4 | Robotics + Mobility | NRP + LTA AV | Robotics + Drone PLI | AV Act + StVFernLV + Robotics | Robotique & machines | Transport AI + AV Act | Drone Strategy 2025 | National Robotics Strategy |
 
 ## Flagship document matrix — Batch 3 (ASEAN)
 
 | Domain | Malaysia | Indonesia | Thailand | Vietnam | Philippines |
 |---|---|---|---|---|---|
-| Nuclear | RMK13 + NETR (revived) | RUKN 2025–2060 (35 GW) | PDP 2024 (SMRs) | Amended PDP8 (revived Ninh Thuan) | EO 164 + BNPP question |
-| AI | National AI Roadmap + NAIO | Stranas KA 2020–2045 | National AI Strategy 22–27 | National AI Strategy to 2030 | NAISR 2.0 |
+| Nuclear | RMK13 + NETR (revived) | RUKN 2025–2060 (35 GW) | PDP 2024 (SMRs) | Amended PDP8 (revived Ninh Thuan) | PhilATOM Act + EO 164 |
+| AI | AI Tech Action Plan 26–30 + NAIO | AI Roadmap 26–29 + Etika AI | National AI Strategy 22–27 | Nat'l AI Strategy + Law on AI (2025) | NAIS-PH + NAISR 2.0 |
 | Quantum | National Quantum Policy 26–35 | Quantum-Security Roadmap | Quantum Tech Roadmap 20–29 | Quantum Project + PEBR | Quantum Tech Roadmap |
 | Biotech | NBP 2.0 | BGSi Blueprint | BCG Medical & Wellness | Resolution 36-NQ/TW | National Biotech Strategy |
 | Materials | Adv. Materials Roadmap (REE) | Hilirisasi (nickel) | Materials for Net Zero | Mineral Master Plan (rare earths) | Mineral Roadmap + Adv. Materials |
 | Semiconductors | National Semiconductor Strategy | Semiconductor Ecosystem Roadmap | National Semi & Electronics | Semi Strategy 1018 + HR 1017 | Semi & Electronics Roadmap |
-| Digital | MyDIGITAL | Visi Indonesia Digital 2045 | Digital Economy Plan 18–37 | Digital Infra Strategy 1132 | National Broadband + EGMP |
+| Digital | MyDIGITAL | Visi Indonesia Digital 2045 | Digital Economy Plan 18–37 | Digital Infra Strategy + Digital Tech Law | Nat'l Digital Connectivity + E-Gov Act |
 | Autonomous | Robotics Roadmap + MDTAP30 | Making Indonesia 4.0 + Aerospace | 30@30 EV + Robotics Plan | UTM (Decision 808) | i³S + Industry 4.0 Factory |
 
 ## Flagship document matrix — Batch 4 (EU/OECD + supranational)
 
 | Domain | Netherlands | Italy | Spain | Sweden | European Union |
 |---|---|---|---|---|---|
-| Nuclear | NEO NL + Borssele (revived) | PNNS (revived, SMR/fusion) | PNIEC phase-out (reversal debated) | Roadmap: ~10 reactors by 2045 | SMR Alliance + Taxonomy |
-| AI | AiNed + Action Plan | AI Strategy 2024–26 | AI Strategy 2024 (ALIA) | AI Commission Roadmap | AI Act + AI Factories |
-| Quantum | Quantum Delta NL (€615M) | Quantum Strategy + ICSC | Quantum Spain | WACQT + Nat. Strategy | Quantum Declaration + Flagship |
-| Biotech | Biotech Booster | RNA Center + BIT II | PERTE Salud de Vanguardia | National Life Science Strategy | Biotech & Biomanufacturing |
-| Materials | NTS + Raw Materials Strategy | CRM Decree + Table | Mineral Raw Materials Roadmap | Minerals Strategy + KRRR | Critical Raw Materials Act |
-| Semiconductors | Project Beethoven (ASML) | Italian Chips Act | PERTE Chip (€12.25B) | Semiconductor Strategy 2035 | European Chips Act |
-| Digital | Digitalisation Strategy 2.0 | Italia Digitale 2026 | España Digital 2026 | Digitalisation Strategy 25–30 | Digital Decade 2030 |
+| Nuclear | NEO NL + Borssele (revived) | PNNS + nuclear delega bill | PNIEC phase-out (reversal debated) | New nuclear + state financing | SMR/AMR Strategy 2026 |
+| AI | AiNed + Actieagenda AI | AI Strategy + Law 132/2025 | AI Strategy + draft AI Law | National AI Strategy (2026) | AI Act + AI Continent/Apply AI |
+| Quantum | Quantum Delta NL (€615M) | Quantum Strategy + ICSC | Quantum Spain | WACQT + Nat. Strategy | Quantum Europe Strategy (2025) |
+| Biotech | Biotech vision 2025–2040 | RNA Center + BIT II | PERTE Salud de Vanguardia | National Life Science Strategy | Life Sciences Strategy + Biotech Act |
+| Materials | NTS + Raw Materials Strategy | CRM Decree + Table | Minerals Action Plan 26–30 | Minerals Strategy + KRRR | Critical Raw Materials Act |
+| Semiconductors | Project Beethoven (ASML) | Italian Chips Act | PERTE Chip (€12.25B) | Semiconductor Strategy 2035 | European Chips Act → 2.0 |
+| Digital | Digitalisation Strategy 2.0 | Italia Digitale 2026 | España Digital 2026 | Digitalisation Strategy 25–30 | Digital Decade + Digital Networks Act |
 | Autonomous | Unmanned Aviation + Smart Mobility | PNRR MICS + FAIR | PERTE VEC | Drive Sweden (CCAM) | Drone Strategy 2.0 + CCAM |
 
 ## Flagship document matrix — Batch 5 (chips, deep-tech, Gulf)
 
 | Domain | Taiwan | Israel | Switzerland | UAE | Saudi Arabia |
 |---|---|---|---|---|---|
-| Nuclear | Reactor restart (2025 reversal) | **Ambiguity** (no civil) | New-build ban lifted | Barakah (operating) | SNAEP (planned) |
-| AI | AI Action Plan 2.0 + AI Basic Act | National AI Program | AI Guidelines + CoE Convention | National AI Strategy 2031 | NSDAI + Project Transcendence |
-| Quantum | Nat. High-Speed Quantum | Nat. Quantum Initiative | Swiss Quantum Initiative | Post-Quantum Migration | WEF Quantum Blueprint pilot |
+| Nuclear | Restart law (referendum failed Aug'25) | **Ambiguity** (no civil) | Ban-repeal passed parliament | Barakah (operating) + SMR MoUs | SNAEP + US 123 declaration |
+| AI | AI Basic Act + New Ten Major | National AI Program (Phase II) | AI Guidelines + CoE Convention | AI 2031 + US–UAE/Stargate | NSDAI + HUMAIN |
+| Quantum | Nat. High-Speed Quantum | Nat. Quantum Initiative | Swiss Quantum Initiative | National PQC Programme | Nat. Quantum Alliance + 1st QC |
 | Biotech | Biomedical Innovation + Precision Health | Bio-Convergence Program | SPHN | National Genome Strategy | National Biotech Strategy |
 | Materials | CbI materials focus | Advanced Manufacturing + Metamaterials | ETH Domain + Muoniverse | Operation 300bn | Nat. Minerals Program ($2.5T) |
-| Semiconductors | Taiwan CbI (NT$300B) | Capital Investment Law + IIA | SwissChips | MGX strategy | Nat. Semiconductor Hub + Alat |
+| Semiconductors | Taiwan CbI (NT$300B) | Capital Investment Law + IIA | SwissChips | MGX strategy + chiplets | Design-only (Alat exited fab) |
 | Digital | Smart Nation / DIGI+ | National Digital Israel | Digital Switzerland 2026 | We the UAE 2031 | Digital Economy Policy |
 | Autonomous | Drone National Team (UAV) | INDI (drone sandbox) | Automated Driving Ordinance + U-Space | Dubai Autonomous Transport | GACA AAM Roadmap / NEOM |
 
@@ -146,12 +158,12 @@ Summaries of official **national strategies, plans, missions, and policies** acr
 
 | Domain | Brazil | South Africa | Turkey | Finland | Poland |
 |---|---|---|---|---|---|
-| Nuclear | Nuclear Program (Angra 3) | IRP (Koeberg + new build) | National Energy Plan (Akkuyu) | Nuclear Act reform (SMRs) | PPEJ (Westinghouse, ~2036) |
-| AI | PBIA 2024–2028 | National AI Policy Framework | National AI Strategy 21–25 | AI 4.0 + AuroraAI | AI Policy 2020→2030 |
+| Nuclear | Nuclear Program (Angra 3) | IRP 2025 (5,200 MW new) | National Energy Plan (Akkuyu) | Nuclear Act reform (enacted) | PPEJ (Westinghouse, ~2036) |
+| AI | PBIA 2024–2028 | National AI Policy Framework | National AI Strategy 21–25 | AI 4.0 + AuroraAI | AI Policy + AI Fund/PL-Guard |
 | Quantum | IBQuântica | SA QuTI | National Quantum Institute | Quantum Strategy 25–35 | "Poland in the Quantum Era" |
 | Biotech | Genomas Brasil | Bio-economy Strategy | National Biotech Strategy 23–28 | Genome + Health Growth | Biomedical Sector Plan 22–31 |
-| Materials | Strategic Minerals Policy | Critical Minerals Strategy | Beylikova REE program | Battery + Minerals Strategy | State Raw Materials Policy 2050 |
-| Semiconductors | PADIS + CEITEC | Niche (compound semi, CSIR) | HIT-Çip ($5B) | "Chips from the North" | Semiconductor Policy 2026+ |
+| Materials | PNMCE (mineral fund) | Critical Minerals Strategy | Critical Raw Materials Strategy 2026 | Battery + Minerals Strategy | State Raw Materials Policy 2050 |
+| Semiconductors | Brasil Semicon law | Niche (compound semi, CSIR) | HIT-Çip ($5B) | "Chips from the North" | Semiconductor Policy 2026+ |
 | Digital | E-Digital | SA Connect + DEMP | 12th Dev Plan + Broadband | Digital Compass + 6G Roadmap | National Broadband Plan |
 | Autonomous | Programa Mover (ADAS) | Drone CAR Part 101 | TOGG + SSB drones (Baykar) | Finnish Drone Strategy | UAV White Paper (U-space) |
 
@@ -159,39 +171,39 @@ Summaries of official **national strategies, plans, missions, and policies** acr
 
 | Domain | Norway | Ireland | Egypt | Argentina | Mexico |
 |---|---|---|---|---|---|
-| Nuclear | Nuclear Commission + Aure/Heim SMR | **Legal ban** (1999 Act) | El Dabaa (4× VVER-1200) | Plan Nuclear (ACR-300; CAREM defunded) | PRODESEN (2,350 MW new) |
-| AI | National AI Strategy + KI-milliarden | "AI – Here for Good" + Refresh | National AI Strategy 2nd Ed. 25–30 | IA Fiable (Disp. 2/2023) + AAIP | Plan Nacional IA + Coatlicue + Fábrica de IA |
-| Quantum | National Strategy (in dev) | Quantum 2030 | Quantum Strategy (drafting) | Programa Cuántico (PNCTI 2030) | IMTC (academic) |
+| Nuclear | Nuclear Commission (NOU 2026:4) | **Legal ban** (1999 Act) | El Dabaa (Unit 1 nearing commercial) | Plan Nuclear (ACR-300; CAREM defunded) | PROSENER + PRODESEN (2,350 MW) |
+| AI | National AI Strategy + KI Norge | Digital Ireland 2026 (AI+Digital) | National AI Strategy 25–30 + Trustworthy AI Guidelines | IA Fiable + Stargate Argentina | Plan Nacional IA + Coatlicue + Fábrica de IA |
+| Quantum | 4 national centres (1.1bn NOK) | Quantum 2030 | National Quantum Strategy pillars | Programa Cuántico (PNCTI 2030) | IMTC (academic) |
 | Biotech | Biotech Strategy + Digital Life Norway | Impact 2030 (Research Ireland) | Egyptian Reference Genome | Ley 27685 (biotech/nano) | PRONACES-Salud |
 | Materials | Mineral Strategy + Seabed Minerals Act | EU CRMA + CIRCLE | Mining Expansion 24–30 | RIGI + Mesa del Litio | LitioMx (state monopoly) |
 | Semiconductors | EU Chips via CC-NorChip | Silicon Island | Egypt Makes Electronics | Súper RIGI + CENDIA | Plan Sonora + Kutsari |
-| Digital | Digitalisation Strategy 24–30 | Harnessing Digital | Digital Egypt / ICT 2030 | Agenda Digital 2030 + ARSAT | Nube MX + Infra Digital 25–30 |
+| Digital | Digitalisation Strategy 24–30 | Digital Ireland 2026 | Digital Egypt / ICT 2030 | Agenda Digital 2030 + ARSAT | ATDT Programa Sectorial 25–30 |
 | Autonomous | Defence Drone Strategy + Yara Birkeland | National UAS Framework | Law 216/2017 (Defense-controlled) | RAAC (Decreto 663/2024) | NOM-107 (AFAC) |
 
 ## Flagship document matrix — Batch 8 (rest of ASEAN)
 
 | Domain | Brunei | Cambodia | Laos | Myanmar |
 |---|---|---|---|---|
-| Nuclear | IAEA Milestones (late-2030s option) | MoUs (Rosatom/CNNC) + Draft Law | Rosatom Roadmap 2025–26 (SMR) | Rosatom SMR Agreement 2023 |
-| AI | AITI AI Ethics Guide (voluntary) | Draft NAIS 2025–2030 | Draft AI Strategy (UNESCO RAM) | Draft AI Strategy (+ surveillance use) |
+| Nuclear | IAEA Milestones (late-2030s option) | MoUs (Rosatom/CNNC) + Draft Law | Russia IGA 2026 (SMR) | SMR construction IGA 2025 |
+| AI | Data & AI Strategy (DB2030) | Draft NAIS 2025–2030 | National AI Strategy (2026) | Draft AI Strategy (+ surveillance use) |
 | Quantum | PQC Migration Framework | **Absent** | **Absent** | **Absent** |
 | Biotech | NBSAP + BREU (Halal/phytopharma) | HSP4 + NAHSR | Decision 3730/MOH (biopharma) | DMR guidelines (**stalled**) |
-| Materials | Downstream petrochem (PABD) | Mineral Policy 2018–28 (bauxite) | Minerals Law (potash, REE) | KIA *de facto* REE regime |
+| Materials | Downstream petrochem (PABD) | Mineral Policy + US–Cambodia CM deal | Minerals Law (potash, REE) | KIA *de facto* REE regime |
 | Semiconductors | **Absent** | EDA Roadmap + Electronics 2022 | **Absent** | **Absent** |
-| Digital | DE2025 + UNN monopoly | Digital Economy Framework 2021–35 | Digital Economy Vision 2021–40 | Cybersecurity Law 1/2025 (control) |
+| Digital | Digital Brunei 2030 | Digital Economy Framework 2021–35 | Digital Transformation Plan 26–30 | Cybersecurity Law in force + Roadmap 2030 |
 | Autonomous | Civil Aviation Order 2006 | SSCA UAV directives | DCA UAV regulations | DCA-AC-AIR-01 (war-bypassed) |
 
 ## Flagship document matrix — Batch 9 (Latin America, Gulf, Central Asia, at-war Europe, Pacific)
 
 | Domain | Chile | Qatar | Ukraine | Oman | Kazakhstan | New Zealand |
 |---|---|---|---|---|---|---|
-| Nuclear | CCHEN plan (no plants) | Radiation law (no power) | Energy Strategy 2050 + AP1000s | **Opted out** (radiation only) | 2024 NPP referendum (71%) | **Legal ban** (1987 Act) |
-| AI | Política Nacional IA + Bill | National AI + Fanar LLM | AI Roadmap (bottom-up) | Nat. Programme + Ma'een | AI Concept 24–29 + AI Law | "Investing with Confidence" |
+| Nuclear | CCHEN plan (no plants) | Radiation law (no power) | Energy Strategy 2050 + AP1000s | **Opted out** (radiation only) | Rosatom consortium + 2050 strategy | **Legal ban** (1987 Act) |
+| AI | Política Nacional IA + Bill | National AI Policy + Fanar LLM | AI Roadmap + Action Plan 25–26 | Nat. Programme + Ma'een | AI Law + Ministry of AI | "Investing with Confidence" |
 | Quantum | Estrategia Cuántica 25–35 | QC2 + QKD testbed | NATO SPS projects | Within AI programme | Kazakh-Singapore Center | Quantum Tech Aotearoa |
-| Biotech | Estrategia Biotec 25–35 | Qatar Genome Programme | WINWIN MedTech/BioTech | Health Vision 2050 | QazBioPharm / NCB | Gene Technology Bill 2024 |
-| Materials | Lithium Strategy + Codelco-SQM | Helium (~30% global) | CRM Strategy + EU/US funds | Green H₂ (Hydrom) + green steel | Critical minerals ("new oil") | Minerals Strategy to 2040 |
-| Semiconductors | **Absent** (supplier+consumer) | QRDI + IMEC hub | Microelectronics Strat. (1% by 2030) | Nat. Strategy + ITHCA (Oman-1/2) | "One Student, One Chip" + Suto | **Nascent** (Rakon photonics) |
-| Digital | PDATA data centers | Digital Agenda 2030 + TASMU | Diia + Diia City | NDEP + Digital Triangle | Digital Kazakhstan + Digital Code | Digital Strategy + Space |
+| Biotech | Estrategia Biotec 25–35 | Qatar Genome Programme | WINWIN MedTech/BioTech | National Biotech Strategy (in dev) | QazBioPharm / NCB | Gene Technology Bill 2024 |
+| Materials | Lithium Strategy (Codelco-SQM JV) | Helium (~30% global) | CRM Strategy to 2056 + US fund | Green H₂ (Hydrom) + green steel | Critical minerals ("new oil") | Minerals Strategy to 2040 |
+| Semiconductors | **Absent** (supplier+consumer) | QRDI + IMEC hub | Microelectronics Strat. (1% by 2030) | Semiconductor Strategy + OSAT | "One Student, One Chip" + Suto | **Nascent** (Rakon photonics) |
+| Digital | PDATA data centers | Digital Agenda 2030 + TASMU | Diia + Diia City | NDEP + Digital Triangle | Digital Qazaqstan + Digital Code | Digital Strategy + Space |
 | Autonomous | DAN 151/91 + astronomy | AV Strategy + QCAA | Brave1 + Army of Drones | Exec. Reg 1412 + Serb UTM | UAV Rules (CAC) | Part 101/102 + Transport Instruments |
 
 ## Cross-cutting observations
@@ -205,7 +217,7 @@ Summaries of official **national strategies, plans, missions, and policies** acr
   - *Aggressive build:* China, France, UK, South Korea, US (SMRs for AI/fab power).
   - *Revival/reversal:* Malaysia (RMK13), Indonesia (35 GW by 2060), Thailand (PDP 2024 SMRs), Vietnam (revived Ninh Thuan), Philippines (EO 164 + Bataan), Singapore (feasibility), India (Nuclear Energy Mission), Netherlands (NEO NL new-build), Italy (post-1987-referendum reversal), Sweden (~10 reactors by 2045), Spain (legislated phase-out now contested in parliament). The EU itself launched an SMR Alliance and added nuclear to its Taxonomy.
   - *Opt-out / banned:* Germany (full phase-out), Australia (legislative moratorium; nuclear only for AUKUS submarines), Israel (no civil program — strategic "ambiguity," non-NPT), **Ireland (statutory prohibition since 1999)**, and historically-non-nuclear Norway (now assessing its first SMR via the 2024 Nuclear Energy Commission + Aure/Heim impact assessment — no state construction funding).
-  - *Already operating / building:* UAE (Barakah, 5,600 MW live), Saudi Arabia (SNAEP, with "optionality" on enrichment); Taiwan even reversed its completed phase-out to restart reactors. Turkey (Akkuyu, ~10% of power coming online), Poland (first Westinghouse plant ~2036), South Africa (extending Koeberg + 2,500 MW new build), Finland (Olkiluoto 3 live + Nuclear Act reform for SMRs), Brazil (completing Angra 3), **Egypt (El Dabaa, 4× VVER-1200 under construction with Rosatom), and Mexico (PRODESEN projects 2,350 MW of new nuclear)** all extend the build-out — making pro-nuclear momentum near-universal across the 46 entities. A distinctive *sovereign-to-commercial pivot* appears in **Argentina**, which is defunding its 80%-complete domestic SMR (CAREM) in favor of foreign commercial SMRs (ACR-300) to power AI data centers. **Kazakhstan**, the world's #1 uranium producer (Kazatomprom, ~43%), approved its first NPP by national referendum (71% yes, Oct 2024) and will pick an international consortium — moving up from raw-uranium exporter to power generator; **Ukraine** is replacing Russian-built capacity with nine Westinghouse AP1000s even under wartime strikes.
+  - *Already operating / building:* UAE (Barakah, 5,600 MW live), Saudi Arabia (SNAEP, with "optionality" on enrichment, plus a 2025 US 123 declaration); Taiwan's Aug 2025 referendum to restart the Maanshan reactor won ~74% yes but failed the 25%-of-electorate turnout threshold, leaving restart legally enabled but politically unmandated. Turkey (Akkuyu, ~10% of power coming online), Poland (first Westinghouse plant ~2036), South Africa (extending Koeberg + 5,200 MW new build under the gazetted IRP 2025), Finland (Olkiluoto 3 live + Nuclear Act reform now enacted for SMRs), Brazil (completing Angra 3), **Egypt (El Dabaa, 4× VVER-1200 under construction with Rosatom), and Mexico (PRODESEN projects 2,350 MW of new nuclear)** all extend the build-out — making pro-nuclear momentum near-universal across the 46 entities. A distinctive *sovereign-to-commercial pivot* appears in **Argentina**, which is defunding its 80%-complete domestic SMR (CAREM) in favor of foreign commercial SMRs (ACR-300) to power AI data centers. **Kazakhstan**, the world's #1 uranium producer (Kazatomprom, ~43%), approved its first NPP by national referendum (71% yes, Oct 2024), then selected a Rosatom-led consortium (with CNNC for later units) and approved a Nuclear Industry Development Strategy to 2050 — moving up from raw-uranium exporter to power generator; **Ukraine** is replacing Russian-built capacity with nine Westinghouse AP1000s even under wartime strikes.
   - *Newly added bans/opt-outs:* **New Zealand** (the absolute Nuclear Free Zone Act 1987 — identity-defining), and **Oman** and **Qatar** (Gulf gas states that explicitly *opted out* of nuclear power, confining policy to radiation regulation while pursuing green hydrogen / renewables — diverging sharply from neighbors UAE and Saudi Arabia). **Chile** keeps "nucleoelectricity" research alive (CCHEN) but builds no plants given seismicity and renewables.
   - *Rosatom as the Global-South SMR vector:* Russia's Rosatom is the single most common partner for first-time nuclear entrants among smaller/developing states — anchoring **Laos** (2025–26 Roadmap, VVER/SMR), **Myanmar** (2023 SAC–Rosatom SMR agreement, 110→330 MWe), **Egypt** (El Dabaa), and **Turkey** (Akkuyu) — while **Brunei** (IAEA Milestones Approach) and **Cambodia** (Rosatom/CNNC MoUs + draft law) keep the option open via capacity-building rather than committed builds.
 - **Resource leverage as industrial policy:** Indonesia (nickel *hilirisasi*), Vietnam (rare earths, 2nd-largest reserves), Malaysia (REE), Philippines (nickel/copper), Australia/Canada (critical-minerals strategies) all push downstream processing over raw export.
@@ -214,7 +226,7 @@ Summaries of official **national strategies, plans, missions, and policies** acr
 - **Quantum is overwhelmingly security-driven in emerging economies:** Indonesia's roadmap is run by its defense university; Malaysia, Vietnam, Thailand, and Philippines all foreground post-quantum cryptography over hardware supremacy.
 - **Niche semiconductors extend into Europe too:** the Netherlands' Project Beethoven (€2.5B) is an ecosystem play to retain ASML rather than a fab subsidy; Sweden specializes in design/packaging/power electronics; Spain and Italy chase fabs (PERTE Chip €12.25B; Silicon Box in Novara) but hedge into design/RISC-V/photonics.
 - **"Valley of death" commercialization is the shared European anxiety:** the Netherlands (Biotech Booster), Italy, Spain, and Sweden all explicitly fund mechanisms to convert strong public research into industry — a recurring self-diagnosis across the EU members.
-- **Sovereign-wealth tech-building (the Gulf model):** UAE (MGX ~$100B; ADIA/Mubadala) and Saudi Arabia (PIF; Project Transcendence ~$100B; Alat $100B) deploy capital at a scale no R&D-grant system matches — buying into global compute/chips while building domestic full-stack ecosystems, Arabic LLMs (ALLaM/HUMAIN), and giga-project regulatory sandboxes (NEOM).
+- **Sovereign-wealth tech-building (the Gulf model):** UAE (MGX ~$100B; ADIA/Mubadala) and Saudi Arabia (PIF; HUMAIN; Project Transcendence ~$100B; Alat $100B — which exited sovereign chip *fabrication* in 2026) deploy capital at a scale no R&D-grant system matches — buying into global compute/chips while building domestic full-stack ecosystems, Arabic LLMs (ALLaM/HUMAIN), and giga-project regulatory sandboxes (NEOM).
 - **Taiwan + Israel = the chip/deep-tech anchors:** Taiwan's NT$300B CbI defends ~90% of advanced-logic production; Israel pivots "Startup Nation" software strength toward deep-tech (bio-convergence, quantum) — both leaning heavily on a military-intelligence talent pipeline and "build-to-last vs. build-to-exit" debates.
 - **Switzerland's outsider strategy:** excluded from EU programs (Horizon/Digital Europe), it built sovereignty initiatives (SwissChips, Swiss Quantum Initiative) and prefers Council-of-Europe frameworks (signing the binding CoE AI Convention) over EU-style omnibus law.
 - **Resource-leverage emerging economies:** Turkey (Beylikova rare earths, claimed 2nd-largest reserve), Brazil (niobium/rare earths + Strategic Minerals Policy), South Africa (PGMs/manganese beneficiation), and Finland (battery metals) all explicitly aim to capture downstream value and become non-China supply-chain nodes — the same playbook seen in Indonesia, Vietnam, Australia, and Saudi Arabia.

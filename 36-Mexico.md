@@ -2,29 +2,29 @@
 
 *Source: Gemini deep research, 2026. Entity 36 (Batch 7, final). Latin America.*
 
-Under President Claudia Sheinbaum, Mexico has pivoted from reliance on foreign technology providers toward a state-led, sovereignty-focused industrial policy umbrellaed as **"Plan México."** Science/tech was elevated to cabinet rank — CONAHCYT became the **Secretariat of Science, Humanities, Technology and Innovation (SECIHTI)** — and a new **Agencia de Transformación Digital y Telecomunicaciones (ATDT)** spearheads sovereign infrastructure ("Nube MX" cloud, "Coatlicue" supercomputer, the "Fábrica de IA"). Strategy is heavily regionalized via **Plan Sonora** (nearshoring + lithium + chips). Quantum and SMRs remain nascent/academic. Distinctive: lithium is a constitutional state monopoly (LitioMx).
+Under President Claudia Sheinbaum, Mexico has pivoted from reliance on foreign technology providers toward a state-led, sovereignty-focused industrial policy umbrellaed as **"Plan México."** Science/tech was elevated to cabinet rank — CONAHCYT became the **Secretariat of Science, Humanities, Technology and Innovation (SECIHTI)** — and a new **Agencia de Transformación Digital y Telecomunicaciones (ATDT)** spearheads sovereign infrastructure ("Nube MX" cloud, "Coatlicue" supercomputer, the "Fábrica de IA"). Strategy is heavily regionalized via **Plan Sonora** (nearshoring + lithium + chips). Quantum and SMRs remain nascent/academic. Distinctive: lithium is a constitutional state monopoly (LitioMx). The framing master document — the **Plan Nacional de Desarrollo 2025–2030** (DOF, 15 Apr 2025) — elevates "Innovación pública para el desarrollo tecnológico nacional" to a transversal axis, and through 2025–2026 it cascaded into a wave of DOF-published sexenio sectoral programs (SECIHTI's PSCHTI, SENER's PROSENER, the ATDT's own program, and InnovaBienestar's Kutsari mandate) that now anchor each domain.
 
 ## Summary Table
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | PRODESEN 2024–2038 (2,350 MW new nuclear) | SENER / CFE / ININ / CNSNS | 2024 |
-| Artificial Intelligence | Plan Nacional de IA + Agenda Nacional de IA 2024–2030 | ATDT (exec) / Senate (ANIA) | 2024–2026 |
+| Nuclear Energy | Programa Sectorial de Energía (PROSENER) 2025–2030 + PRODESEN 2024–2038 | SENER / CFE / ININ / CNSNS | 2025 |
+| Artificial Intelligence | Plan Nacional de IA (ATDT) + iniciativa Ley Federal de IA / Consejo Nacional de IA | ATDT (exec) / Congreso | 2024–2026 |
 | Quantum | Iniciativa Mexicana en Tecnología Cuántica (IMTC) | DICU / Sociedad Mexicana de Física | 2023 |
-| Biotechnology | PRONACES-Salud | SECIHTI (ex-CONAHCYT) | 2019– |
+| Biotechnology | Programa Sectorial CHTI 2025–2030 + PRONACES-Salud | SECIHTI (ex-CONAHCYT) | 2025 |
 | Materials / Critical Minerals | Decreto de Creación de LitioMx | Federal Executive / SENER | 2022 |
-| Semiconductors | Plan Sonora + Centro "Kutsari" | Sonora Govt / SECIHTI | 2023–2026 |
-| Digital Tech | Estrategia Digital Nacional + Plan Nacional de Infraestructura Digital 2025–2030 | ATDT / Presidencia | 2021 / 2025 |
+| Semiconductors | Centro "Kutsari" + Programa Institucional InnovaBienestar 2026–2030 | SECIHTI / InnovaBienestar / Sonora | 2026 |
+| Digital Tech | Programa Sectorial de la ATDT 2025–2030 (Nube MX) | ATDT / Presidencia | 2025 |
 | Autonomous Systems | NOM-107-SCT3-2019 (drones) | SCT / AFAC | 2019 |
 
 ---
 
 ## 1. Nuclear Energy
-- **Plan:** Programa de Desarrollo del Sistema Eléctrico Nacional (PRODESEN) 2024–2038
+- **Plan:** Programa Sectorial de Energía (PROSENER) 2025–2030 + Programa de Desarrollo del Sistema Eléctrico Nacional (PRODESEN) 2024–2038
 - **Body:** Secretaría de Energía (SENER); CFE (operator); ININ (research); CNSNS (regulator)
-- **Year:** 2024 (ININ Institutional Program 2020–2024)
-- **URL:** https://transparencia.energia.gob.mx/programas_acciones_sener.aspx
-- **Summary:** Mexico's nuclear posture, historically anchored by the Laguna Verde NPP, shows renewed expansion interest amid grid pressure (demand grew 3.5% in 2022–23 vs only 0.6% capacity growth; baseline demand modeled at ~2.6%/yr through 2038). PRODESEN explicitly projects **2,350 MW of new nuclear capacity**, without specifying technology, site, or date — the scale and global trends imply SMR interest. CFE earmarked MXN 25,622M for plant maintenance/operations including Laguna Verde. ININ runs R&D and human-capital formation in nuclear sciences; the regulator CNSNS operates under a 2021–2026 Strategic Plan and flags capacity-building challenges (specialized HR, IAEA coordination) ahead of any new build.
+- **Year:** 2025 (PROSENER, DOF 22 Dec 2025)
+- **URL:** https://www.gob.mx/sener ; https://transparencia.energia.gob.mx/programas_acciones_sener.aspx
+- **Summary:** Mexico's nuclear posture, historically anchored by the Laguna Verde NPP (~1,608 MW), shows renewed expansion interest amid grid pressure (demand grew 3.5% in 2022–23 vs only 0.6% capacity growth; baseline demand modeled at ~2.6%/yr through 2038). PRODESEN explicitly projects **2,350 MW of new nuclear capacity**, without specifying technology, site, or date — the scale and global trends imply SMR interest. The Sheinbaum sexenio's **Programa Sectorial de Energía (PROSENER) 2025–2030** (DOF, 22 Dec 2025) is the new binding sectoral framework: it integrates Laguna Verde's base capacity into the energy-transition plan, operates under the Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear and the Treaty of Tlatelolco (peaceful use), and leans on national institutes (ININ) for modernization, safe operation and nuclear-sovereignty R&D toward 2030. CFE earmarked MXN 25,622M for plant maintenance/operations including Laguna Verde; the regulator CNSNS flags capacity-building challenges (specialized HR, IAEA coordination) ahead of any new build.
 
 ## 2. Artificial Intelligence
 - **Plan:** Plan Nacional de IA (executive) + Propuesta de Agenda Nacional de Inteligencia Artificial para México 2024–2030 (Senate)
@@ -41,11 +41,11 @@ Under President Claudia Sheinbaum, Mexico has pivoted from reliance on foreign t
 - **Summary:** Mexico has no cabinet-level, federally funded quantum act. The scientific community (DICU of the Mexican Physical Society) articulated a roadmap built on three pillars: quantum computing (hardware + algorithms), quantum sensors (atomic clocks, metrology), and quantum communications (QKD, post-quantum cryptography). Universidad Autónoma de San Luis Potosí (UASLP) leads human-capital development; states like Morelos align education with the "International Year of Quantum Science and Technology" to build a STEM pipeline. Formalized federal funding specifically earmarked for quantum hardware remains undocumented — the domain is exploratory and academically driven.
 
 ## 4. Biomedical Sciences / Biotechnology
-- **Plan:** Programa Nacional Estratégico de Salud (PRONACES-Salud)
-- **Body:** SECIHTI (formerly CONAHCYT / CONACYT)
-- **Year:** 2019–present
-- **URL:** https://sisnai.secihti.mx/
-- **Summary:** Biomedical strategy runs through the Programas Nacionales Estratégicos (PRONACES), now under the elevated SECIHTI, financing long-term transdisciplinary research on Mexico's pressing health challenges. Flagship initiatives: a **Pediatric Leukemia Macro-Project** (launched 2019/20; Mexico's incidence is high at 111 cases/million for ages 0–4; piloted in Puebla, Tlaxcala, Oaxaca, uniting 43 scientists, 16 clinical specialists, 20 institutions); an **Advanced Therapies / CAR-T** program (Project 303060) developing local/regional clinical-grade viral-vector manufacturing to cut treatment costs; and agricultural/ecological biotech PRONACES for food sovereignty (e.g., marine-protein artisanal aquaculture on the Pacific coast).
+- **Plan:** Programa Sectorial de Ciencia, Humanidades, Tecnología e Innovación (PSCHTI) 2025–2030 + Programa Nacional Estratégico de Salud (PRONACES-Salud)
+- **Body:** SECIHTI (Secretaría de Ciencia, Humanidades, Tecnología e Innovación; formerly CONAHCYT / CONACYT)
+- **Year:** 2025 (PSCHTI, DOF 17 Sep 2025); PRONACES-Salud ongoing since 2019
+- **URL:** https://www.dof.gob.mx/ ; https://secihti.mx/ ; https://sisnai.secihti.mx/
+- **Summary:** The binding sexenio framework is now the **Programa Sectorial CHTI 2025–2030** (DOF, 17 Sep 2025), the first sectoral program of the newly cabinet-ranked SECIHTI; it is obligatory across the Federal Public Administration and sets six objectives — specialized human-capital formation, support for researchers, mission-oriented research on national priorities, technological maturation/scaling for "independencia tecnológica," knowledge transfer, and unifying the national CHTI system. Within this umbrella, biomedical strategy continues to run through the **Programas Nacionales Estratégicos (PRONACES)**, financing long-term transdisciplinary research on Mexico's pressing health challenges. Flagship initiatives: a **Pediatric Leukemia Macro-Project** (launched 2019/20; Mexico's incidence is high at 111 cases/million for ages 0–4; piloted in Puebla, Tlaxcala, Oaxaca, uniting 43 scientists, 16 clinical specialists, 20 institutions); an **Advanced Therapies / CAR-T** program (Project 303060) developing local/regional clinical-grade viral-vector manufacturing to cut treatment costs; and agricultural/ecological biotech PRONACES for food sovereignty (e.g., marine-protein artisanal aquaculture on the Pacific coast).
 
 ## 5. Materials Science / Critical Raw Materials (Lithium)
 - **Plan:** Decreto de Creación de Litio para México (LitioMx)
@@ -55,18 +55,18 @@ Under President Claudia Sheinbaum, Mexico has pivoted from reliance on foreign t
 - **Summary:** In April 2022 Congress reformed the Mining Law to make lithium extraction and commercialization a **state monopoly**, barring new private concessions. The LitioMx decree (DOF, 23 Aug 2022) created a decentralized public agency under SENER — with its own legal personality — mandated to explore, exploit, beneficiate and administer lithium value chains. Its board comprises five cabinet secretaries (Energy as chair, Finance, Economy, Interior, Environment). LitioMx is integrated with Plan Sonora: headquartered in Sonora to link extraction with electromobility and battery manufacturing. Its May 2025 Organic Statute emphasizes strategic alliances (state retaining a majority stake) to industrialize lithium and produce batteries domestically.
 
 ## 6. Semiconductors / Microelectronics
-- **Plan:** Plan Sonora de Energías Sostenibles + Centro Nacional de Diseño de Semiconductores "Kutsari"
-- **Body:** Government of Sonora / CODESO; SECIHTI / InnovaBienestar
-- **Year:** Plan Sonora 2023 (expanded 2024/25); Kutsari 2025–2026
-- **URL:** https://codeso.mx/ ; https://kutsari.innovabienestar.mx/
-- **Summary:** Mexico positions itself as a nearshoring semiconductor hub under USMCA/T-MEC, targeting 58% of nearshoring FDI by 2026 (leveraging ~$4/hr manufacturing wages vs ~$27/hr in the US). **Plan Sonora** (four axes: clean energy, advanced infrastructure, strategic minerals, human talent) aims to begin semiconductor production by late 2026, initially lower-complexity automotive/appliance components. To move up the value chain from assembly-test-packaging (ATP) to IP generation, SECIHTI/InnovaBienestar launched **Centro "Kutsari"** (*kutsari* = "sand"/silicon in Purépecha) — a network with hubs in Sonora (Universidad de Sonora), Jalisco, and Puebla, designing analog, mixed-mode, RF and digital ICs ("legacy chips" for automotive/medical/appliance). A second phase contemplates MXN 50M for a 4,600 m² design park; the human-capital target is 3,000 specialized semiconductor engineers by 2030. Kutsari is negotiating with European firms (Infineon, Elmos) to raise Mexican content for USMCA tariff benefits.
+- **Plan:** Centro Nacional de Diseño de Semiconductores "Kutsari" + Programa Institucional InnovaBienestar de México 2026–2030 (within Plan Sonora)
+- **Body:** SECIHTI / InnovaBienestar de México (state-owned tech enterprise); Government of Sonora / CODESO
+- **Year:** Kutsari presented Feb 2025; Programa Institucional InnovaBienestar 2026–2030 (DOF 26 May 2026)
+- **URL:** https://kutsari.innovabienestar.mx/ ; https://innovabienestar.mx/ ; https://www.dof.gob.mx/ ; https://codeso.mx/
+- **Summary:** Mexico positions itself as a nearshoring semiconductor hub under USMCA/T-MEC, targeting 58% of nearshoring FDI by 2026 (leveraging ~$4/hr manufacturing wages vs ~$27/hr in the US). **Plan Sonora** (four axes: clean energy, advanced infrastructure, strategic minerals, human talent) aims to begin semiconductor production by late 2026, initially lower-complexity automotive/appliance components. To move up the value chain from assembly-test-packaging (ATP) to IP generation, SECIHTI launched **Centro "Kutsari"** (*kutsari* = "sand"/silicon in Purépecha; presented Feb 2025) — the Centro Nacional de Diseño de Semiconductores, operating from three hubs in Puebla (Cholula), Jalisco (Guadalajara) and Sonora (Hermosillo) and uniting institutes such as INAOE, Cinvestav, UNAM and IPN to design analog, mixed-mode, RF and digital ICs ("legacy chips" for automotive/medical/appliance). The effort is now anchored legally and budgetarily by the **Programa Institucional InnovaBienestar de México 2026–2030** (DOF, 26 May 2026) — InnovaBienestar being the state-owned tech enterprise sectorized to SECIHTI that coordinates the national Kutsari push toward financial self-sustainability and a commercial-scale design fab in a second phase. The human-capital target is roughly 3,000 specialized semiconductor engineers by 2030, with negotiations underway with European firms (Infineon, Elmos) to raise Mexican content for USMCA tariff benefits.
 
 ## 7. Digital Technology / Digital Infrastructure
-- **Plan:** Estrategia Digital Nacional 2021–2024 + Plan Nacional de Infraestructura Digital 2025–2030
-- **Body:** Presidencia (Coordinación de EDN); Agencia de Transformación Digital y Telecomunicaciones (ATDT)
-- **Year:** 2021 (EDN); 2025 (Infraestructura Digital)
-- **URL:** https://www.gob.mx/atdt/sobre-la-agencia
-- **Summary:** The 2021–2024 Estrategia Digital Nacional (AMLO era) established technological sovereignty, open-source prioritization, austerity and anti-corruption, heavily promoting "Internet para Todos" (free internet via CFE infrastructure in rural/marginalized public spaces). The Sheinbaum administration centralized digital policy under the ATDT, shifting toward **state-owned digital architectures**: **Nube MX** (a sovereign government cloud as a public alternative to AWS — modernizing the Aguascalientes data center, planning another in Tulancingo, hosting federal data for sovereignty), and **Llave MX** (a unified digital identity for remote government procedures). The ATDT's sectoral program measures success by the share of Federal Public Administration entities migrating hosting to Nube MX.
+- **Plan:** Programa Sectorial de la Agencia de Transformación Digital y Telecomunicaciones (ATDT) 2025–2030 (Nube MX) — succeeding the Estrategia Digital Nacional 2021–2024
+- **Body:** Agencia de Transformación Digital y Telecomunicaciones (ATDT); Presidencia
+- **Year:** 2025 (ATDT sectoral program, DOF 19 Sep 2025; ATDT Reglamento Interior, DOF 24 Jan 2025)
+- **URL:** https://www.gob.mx/atdt ; https://www.dof.gob.mx/
+- **Summary:** The 2021–2024 Estrategia Digital Nacional (AMLO era) established technological sovereignty, open-source prioritization, austerity and anti-corruption, heavily promoting "Internet para Todos" (free internet via CFE infrastructure in rural/marginalized public spaces). The Sheinbaum administration centralized digital policy under the ATDT, whose binding **Programa Sectorial 2025–2030** (DOF, 19 Sep 2025) now anchors the domain, shifting toward **state-owned digital architectures**: **Nube MX** / "Nube de Gobierno" (a sovereign government cloud as a public alternative to AWS — modernizing the Aguascalientes data center, planning another in Tulancingo, hosting federal data for sovereignty), and **Llave MX** (a unified digital identity for remote government procedures). The ATDT's legal mandate to "design, operate and administer a shared compute cloud" for the whole Federal Public Administration was set by its Reglamento Interior (DOF, 24 Jan 2025), and the sectoral program measures success by the share of FPA entities migrating hosting to Nube MX.
 
 ## 8. Autonomous Systems
 - **Plan:** Norma Oficial Mexicana NOM-107-SCT3-2019 (drone/RPAS regulation)

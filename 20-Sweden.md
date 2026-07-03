@@ -8,11 +8,11 @@ Sweden relies on collaborative "triple-helix" (academia–industry–government)
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | Roadmap for New Nuclear Power | Govt / Ministry of Climate & Enterprise | 2023 |
-| Artificial Intelligence | AI Commission Roadmap (SOU 2025:12) | Swedish AI Commission | 2024 |
+| Nuclear Energy | Roadmap for New Nuclear Power + State Financing Model & Permitting Reform | Govt / Ministry of Climate & Enterprise | 2023 / 2026 |
+| Artificial Intelligence | Sweden's AI Strategy (Sveriges AI-strategi) | Govt (Ministry of Finance) | 2026 |
 | Quantum | WACQT + forthcoming National Quantum Strategy | Wallenberg Foundation / Vetenskapsrådet | 2018 / 2025 |
 | Biotechnology | National Strategy for Life Science (updated) | Govt (cross-ministerial Life Science Office) | 2024 |
-| Materials / Minerals | Minerals Strategy + KRRR critical-materials mapping | Ministry of Enterprise / SGU / Naturvårdsverket | 2013 / 2024 |
+| Materials / Minerals | Minerals Strategy + KRRR mapping + EU CRMA Strategic Projects (LKAB) | Ministry of Enterprise / SGU / EU Commission | 2013 / 2026 |
 | Semiconductors | National Semiconductor Strategy 2035 | Semiconductor Sweden (Vinnova, RISE, FMV) | 2024 |
 | Digital Tech | Digitalisation Strategy 2025–2030 | Ministry of Finance | 2025 |
 | Autonomous Systems | Drive Sweden (CCAM) Strategic Innovation Program | Drive Sweden / Vinnova | 2015+ |
@@ -20,18 +20,18 @@ Sweden relies on collaborative "triple-helix" (academia–industry–government)
 ---
 
 ## 1. Nuclear Energy
-- **Plan:** Roadmap for New Nuclear Power in Sweden (Färdplan för ny kärnkraft)
-- **Body:** Government of Sweden (Ministry of Climate and Enterprise) + National Nuclear New-build Coordinator
-- **Year:** 2023 (launch); 2024–25 updates
-- **URL:** https://www.regeringen.se/pressmeddelanden/2023/11/regeringen-lanserar-en-fardplan-for-ny-karnkraft-i-sverige/
-- **Summary:** A historic shift — the national target changed from "100% renewable" to "100% fossil-free" (Tidö Agreement), removing the cap on reactor numbers and existing-site restriction. Targets 2,500 MW (~2 large reactors) by 2035 and up to 10,000 MW (~10 reactors) by 2045, anticipating electricity demand doubling to ~300 TWh. State risk-sharing via government loans and two-way Contracts for Difference (CfDs) for up to 5,000 MW; a coordinator is compressing the ~10-year permitting timeline.
+- **Plan:** Roadmap for New Nuclear Power (Färdplan för ny kärnkraft), now operationalised via the 2026 State Financing Model and a permitting-reform bill (Prop. 2025/26:171)
+- **Body:** Government of Sweden (Ministry of Climate and Enterprise / Ministry of Finance) + National Nuclear New-build Coordinator
+- **Year:** 2023 (roadmap launch); 2025–2026 (financing model & permitting reform)
+- **URL:** https://www.government.se/government-policy/nuclear-financing/
+- **Summary:** A historic shift — the national target changed from "100% renewable" to "100% fossil-free" (Tidö Agreement), removing the cap on reactor numbers and existing-site restriction, anticipating electricity demand doubling to ~300 TWh by 2045. In 2025–26 the roadmap moved from ambition to a concrete state risk-sharing model: state lending of roughly SEK 220B over 12 years plus two-way Contracts for Difference (averaging SEK 1–3B/yr for 40 years) covering up to ~5,000 MW (~4 large reactors). The 2026 Spring Amending Budget seeks Riksdag authorisation for the state to take a 60% majority stake in the new-build vehicle Videberg Kraft AB (alongside Vattenfall and the Industrikraft consortium), with capital injections of up to SEK 34.3B during construction, and for the state to absorb early-stage radioactive-waste financing risk. A parallel bill (Prop. 2025/26:171, May 2026) streamlines the licensing of nuclear facilities to expand and accelerate coastal reactor permitting.
 
 ## 2. Artificial Intelligence
-- **Plan:** The AI Commission's Roadmap for Sweden (SOU 2025:12), informing the National AI Strategy
-- **Body:** Swedish AI Commission (appointed by the Government / Ministry of Finance)
-- **Year:** November 2024
-- **URL:** https://www.sou.gov.se/globalassets/the-ai-commissions-roadmap-for-sweden.pdf
-- **Summary:** 75 proposals to push Sweden into the global AI top 10 (it had slipped to ~25th). Recommends SEK 12.5B (~$1.14B) over five years for research, an EU-co-funded "AI Factory" for SMEs (using the Arrhenius supercomputer), and an "AI-verkstad" for public-sector collaboration. Notably calls for reforming Sweden's overly strict GDPR interpretation to enable secure data sharing, plus a Data Steward role at Statistics Sweden. Integrated into the Digitalisation Strategy 2025–2030.
+- **Plan:** Sweden's AI Strategy (Sveriges AI-strategi) — the country's first comprehensive national AI strategy, building on the AI Commission's Roadmap (SOU 2025:12)
+- **Body:** Government of Sweden (Ministry of Finance, civil-rights & digitalisation portfolio)
+- **Year:** February 2026 (government decision); SOU 2025:12 roadmap February 2025
+- **URL:** https://www.regeringen.se/regeringens-politik/sveriges-ai-strategi/
+- **Summary:** Adopted in February 2026, this is Sweden's first holistic government AI strategy, succeeding the AI Commission's 75-proposal roadmap and targeting a global AI top-10 position (Sweden had slipped to ~25th). It carries the largest single Swedish AI investment to date — SEK 479M — and prioritises making Sweden the world's best at using AI to raise efficiency and quality in public administration. Flagship measures include a national "AI-verkstad" (AI workshop) for the public sector (build from 2026, complete by 2030 with shared infrastructure and guidance), investment in Swedish-language AI models trained on digitised national archives (Riksarkivet, the Royal Library), and a forthcoming bill to ease secure data sharing between agencies — addressing Sweden's restrictive GDPR interpretation. Integrated with the Digitalisation Strategy 2025–2030.
 
 ## 3. Quantum Information Science
 - **Plan:** Wallenberg Centre for Quantum Technology (WACQT) + forthcoming National Quantum Strategy 2025–2030
@@ -48,11 +48,11 @@ Sweden relies on collaborative "triple-helix" (academia–industry–government)
 - **Summary:** Positions Sweden as a leading life-sciences nation across eight priority areas, with three core outcomes: excellence, competitiveness, patient benefit. Prioritizes clinical trials (a national partnership to reverse declining European trials), precision medicine, and Advanced Therapy Medicinal Products (cell/gene therapies). Backed by SEK 1.75B into research infrastructure (SciLifeLab, biobanks, registries, HALRIC); coordinated by the Life Science Office linking regions (Skåne, Västra Götaland) with AstraZeneca, Getinge. (~40,000 employees, 1,000+ companies.)
 
 ## 5. Materials Science / Critical Minerals
-- **Plan:** Sweden's Minerals Strategy + National Mapping System for Critical Raw Materials (KRRR)
-- **Body:** Ministry of Enterprise; SGU (Geological Survey), Naturvårdsverket, IVL
-- **Year:** 2013 (Minerals Strategy); 2024–25 (KRRR / EU CRM Act adaptation)
-- **URL:** https://rmis.jrc.ec.europa.eu/uploads/legislation/Sweden_MineralsStrategy_ENGLISH.pdf
-- **Summary:** Sweden produces 93% of EU iron ore and holds major REE, vanadium, and graphite deposits. The 2013 strategy promotes sustainable extraction and low mineral taxation; the new KRRR project maps secondary flows/circularity of materials locked in products and waste. LKAB's 2023 Kiruna find — Europe's largest known REE deposit (neodymium, praseodymium for magnets) — triggered permitting modernization. Vinnova coordinates the EU "RAMP" raw-materials partnership (~$470M, 32 countries).
+- **Plan:** Sweden's Minerals Strategy + KRRR critical-materials mapping, now anchored by EU CRMA Strategic Project status for LKAB
+- **Body:** Ministry of Enterprise; SGU (Geological Survey), Naturvårdsverket, IVL; EU Commission (Critical Raw Materials Act)
+- **Year:** 2013 (Minerals Strategy); 2024–25 (KRRR / EU CRM Act adaptation); 2026 (CRMA Strategic Projects)
+- **URL:** https://lkab.com/en/press/lkabs-future-initiatives-designated-as-strategic-projects-by-the-eu/
+- **Summary:** Sweden produces 93% of EU iron ore and holds major REE, vanadium, and graphite deposits. The 2013 strategy promotes sustainable extraction and low mineral taxation; the KRRR project maps secondary flows/circularity of materials locked in products and waste. In March 2026 the European Commission designated three LKAB initiatives — the Per Geijer deposit in Kiruna (Europe's largest known REE deposit: ~1.2Bt of resources holding ~2.2Mt of REE oxides), the Gällivare mine, and the Luleå critical-minerals industrial park — as Strategic Projects under the EU Critical Raw Materials Act, unlocking faster permitting and financing to cut import dependence on China. A demonstration plant in Luleå (extracting REEs and phosphorus from iron-ore mine streams previously treated as waste) is due online by end-2026. Vinnova coordinates the EU "RAMP" raw-materials partnership (~$470M, 32 countries).
 
 ## 6. Semiconductors / Microelectronics
 - **Plan:** Sweden's National Semiconductor Strategy 2035 (Sveriges nationella halvledarstrategi 2035)

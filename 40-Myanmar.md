@@ -8,23 +8,23 @@ Myanmar's technology governance cannot be read through a normal state-centric le
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | Intergovernmental Agreement + Roadmap (Peaceful Use of Atomic Energy) | MoST / Min. Electric Power + Rosatom | 2022/2023 |
+| Nuclear Energy | Intergovernmental Agreement + Roadmap (Peaceful Use of Atomic Energy); SMR Construction Agreement | MoST / Min. Electric Power + Rosatom | 2022/2023; 2025 |
 | Artificial Intelligence | Draft National AI Strategy & Policy 2025–2030 | Ministry of Science and Technology | 2025 (draft) |
 | Quantum | *Explicitly absent* | — | — |
 | Biotechnology | DMR Ethics/Clinical-Trial Guidelines (legacy) | Dept of Medical Research, Ministry of Health | 2016 (stalled) |
 | Materials / Rare Earths | *De facto* KIA taxation/export directives | Kachin Independence Army (KIA/KIO) | 2024/25 |
 | Semiconductors | *Explicitly absent* | — | — |
-| Digital Tech | Cybersecurity Law No. 1/2025; Digital Economy Roadmap 2018–2025 | SAC / Ministry of Transport & Communications | 2025 |
+| Digital Tech | Cybersecurity Law No. 1/2025 (in force 30 Jul 2025); Digital Economy Roadmap 2030 | SAC→SSPC / Ministry of Transport & Communications | 2025 |
 | Autonomous Systems | Advisory Circular DCA-AC-AIR-01(R1) (bypassed by war) | Dept of Civil Aviation (MOTC) | 2019 |
 
 ---
 
 ## 1. Nuclear Energy
-- **Plan:** Intergovernmental Agreement on Cooperation in the Use of Nuclear Energy; Roadmap on Cooperation in the Peaceful Use of Atomic Energy (2022–2023)
+- **Plan:** Intergovernmental Agreement on Cooperation in the Use of Nuclear Energy; Roadmap on Cooperation in the Peaceful Use of Atomic Energy (2022–2023); Intergovernmental Agreement on Construction of a Small Modular Reactor (2025)
 - **Body:** Ministry of Science and Technology (MoST) & Ministry of Electric Power; Russia's Rosatom & Rostekhnadzor
-- **Year:** Roadmap Sept 2022; Intergovernmental Agreement Feb 2023
-- **URL:** Global New Light of Myanmar (state media); Rosatom press releases
-- **Summary:** Despite economic crisis, the SAC aggressively pursues nuclear tech, exclusively via Rosatom. The Feb 6, 2023 Intergovernmental Agreement (signed in Yangon before junta chief Min Aung Hlaing) targets: (1) a **Small Modular Reactor** using Russian pressurized-water tech — initial ≥110 MWe, expandable to 330 MWe (Rosatom did a 2022 land survey); (2) a regulatory framework via a MoST–Rostekhnadzor MOU; (3) human capital — Myanmar's first Nuclear Technology Information Centre opened Feb 2023 at Yangon University's Hlaing campus; and (4) a 15-member implementation committee chaired by Min Aung Hlaing (Defense Minister as vice-chair). Official texts span 14 application areas (agriculture, health, electricity), but financing is opaque — observers doubt the cash-strapped, sanctioned SAC can fund a multi-billion-dollar SMR.
+- **Year:** Roadmap Sept 2022; cooperation IGA Feb 2023; SMR construction IGA 4 Mar 2025
+- **URL:** Global New Light of Myanmar (state media); Rosatom press releases; World Nuclear News
+- **Summary:** Despite economic crisis, the SAC aggressively pursues nuclear tech, exclusively via Rosatom. The Feb 6, 2023 Intergovernmental Agreement (signed in Yangon before junta chief Min Aung Hlaing) targets: (1) a **Small Modular Reactor** using Russian pressurized-water tech — initial ≥110 MWe, expandable to 330 MWe (Rosatom did a 2022 land survey); (2) a regulatory framework via a MoST–Rostekhnadzor MOU; (3) human capital — Myanmar's first Nuclear Technology Information Centre opened Feb 2023 at Yangon University's Hlaing campus; and (4) a 15-member implementation committee chaired by Min Aung Hlaing (Defense Minister as vice-chair). On **March 4, 2025**, during Min Aung Hlaing's state visit to Moscow, the two governments signed a more concrete Intergovernmental Agreement on the **construction** of an onshore SMR using Rosatom's RITM reactor technology — a 110 MWe unit expandable to 330 MWe — explicitly framed as a remedy for Myanmar's severe power shortages and a cement of Russia's energy footprint in Southeast Asia. Official texts span 14 application areas (agriculture, health, electricity), but financing remains opaque — observers doubt the cash-strapped, sanctioned regime can fund a multi-billion-dollar SMR.
 
 ## 2. Artificial Intelligence
 - **Plan:** Draft National AI Strategy (2025–2030) & Draft National AI Policy
@@ -62,11 +62,11 @@ Myanmar's technology governance cannot be read through a normal state-centric le
 - **Summary:** Semiconductors/microelectronics are entirely absent from Myanmar's strategies. While Malaysia, Thailand, and Vietnam build assembly/testing/packaging and fab hubs, Myanmar is excluded. Barriers: a human-capital deficit (one engineer per 5,000–7,000 citizens vs. ~1 per 2,000 in Malaysia/Singapore) and geopolitical instability — even India has avoided tech ventures given border insurgencies and political risk. The SAC has no published semiconductor policy, funding, or projects.
 
 ## 7. Digital Technology / Digital Infrastructure
-- **Plan:** Cybersecurity Law No. 1/2025; Myanmar Digital Economy Roadmap 2018–2025; Myanmar e-Governance Master Plan 2030 (draft, legacy)
-- **Body:** State Administration Council (SAC); Ministry of Transport and Communications (MOTC)
-- **Year:** Cybersecurity Law 1 Jan 2025; legacy roadmaps 2018/2019
-- **URL:** State-run newspapers; MOTC
-- **Summary:** Under civilian rule, digital strategy aimed at e-governance and integration (the Digital Economy Roadmap 2018–2025 and e-Government Master Plan targeted 80% internet penetration, 68,000 km of fiber). Post-coup these are eclipsed by the **Cybersecurity Law No. 1/2025** (enacted Jan 1, 2025) to protect "state sovereignty" and suppress opposition: it criminalizes unauthorized VPNs (up to 6 months prison, 5M MMK ~$2,700 fine), mandates ISPs/platforms retain user data (names, IP logs) for up to 3 years, and underpins rolling internet blackouts (Sagaing, Rakhine) and a "whitelist" model permitting only ~1,500 state-approved sites while blocking Facebook/Twitter. The result is a closed, intranet-style ecosystem that has decimated online commerce and the digital economy.
+- **Plan:** Cybersecurity Law No. 1/2025 (in force 30 Jul 2025 via Notification No. 113/2025); Myanmar Digital Economy Roadmap 2030; Myanmar e-Governance Master Plan 2030 (draft, legacy)
+- **Body:** State Administration Council (SAC) → State Security and Prosperity Commission (SSPC, from Aug 2025); National-Level Digital Economy Development Committee (DEDC); Ministry of Transport and Communications (MOTC)
+- **Year:** Cybersecurity Law enacted 1 Jan 2025, in force 30 Jul 2025; Digital Economy Roadmap 2030 advanced 2025
+- **URL:** State-run newspapers; MOTC; SAC/SSPC Office (sacoffice.gov.mm)
+- **Summary:** Under civilian rule, digital strategy aimed at e-governance and integration (the Digital Economy Roadmap 2018–2025 and e-Government Master Plan targeted 80% internet penetration, 68,000 km of fiber). Post-coup these are eclipsed by the **Cybersecurity Law No. 1/2025** (enacted Jan 1, 2025; officially **entering into force July 30, 2025** via SAC Notification No. 113/2025) to protect "state sovereignty" and suppress opposition: it criminalizes unauthorized VPNs (up to 6 months prison, 5M MMK ~$2,700 fine), requires digital platforms with over 100,000 users to obtain operating licenses, mandates ISPs/platforms retain user data (names, IP logs) for up to 3 years, asserts extraterritorial jurisdiction over Myanmar citizens abroad, and underpins rolling internet blackouts (Sagaing, Rakhine) and a "whitelist" model permitting only ~1,500 state-approved sites while blocking Facebook/Twitter. In mid-2025 the regime's DEDC advanced a successor **Myanmar Digital Economy Roadmap 2030** (1 vision, 6 objectives, 9 priority sectors, 77 action plans) that, in practice, prioritizes digital IDs, biometrics, and the nationwide "Person Scrutinization and Monitoring System" (PSMS) built largely on imported Chinese surveillance tech. Governance also shifted: on **August 1, 2025** the military dissolved the SAC and replaced it with the **State Security and Prosperity Commission (SSPC)**, which oversaw staged elections held December 2025–January 2026. The net result is a closed, intranet-style ecosystem that has decimated online commerce and the digital economy.
 
 ## 8. Autonomous Systems
 - **Plan:** Advisory Circular DCA-AC-AIR-01(R1): Restriction of Drone Operations *(statutory framework bypassed by civil war)*

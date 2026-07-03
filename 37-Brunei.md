@@ -2,19 +2,19 @@
 
 *Source: Gemini deep research, 2026. Entity 37 (Batch 8). ASEAN.*
 
-A small, wealthy rentier state (~450,000 people) whose tech posture is highly selective and anchored in **Wawasan Brunei 2035** (economic diversification away from oil/gas) and the **Digital Economy Masterplan 2025**. The state pours capital where infrastructure is existential — telecoms (the Unified National Networks monopoly) and downstream petrochemicals — while explicitly acting only as a *consumer* in capital-intensive races it cannot win (semiconductors absent; robotics nascent). AI and drones get cautious, principles-based / safety-first governance rather than hard industrial mandates. Nuclear is a long-horizon "keep in view" option via the IAEA Milestones Approach.
+A small, wealthy rentier state (~450,000 people) whose tech posture is highly selective and anchored in **Wawasan Brunei 2035** (economic diversification away from oil/gas) and — from June 2026 — the **Digital Brunei 2030 (DB2030)** masterplan, the successor to the Digital Economy Masterplan 2025. The state pours capital where infrastructure is existential — telecoms (the Unified National Networks monopoly) and downstream petrochemicals — while explicitly acting only as a *consumer* in capital-intensive races it cannot win (semiconductors absent; robotics nascent). AI and drones get cautious, principles-based / safety-first governance rather than hard industrial mandates. Nuclear is a long-horizon "keep in view" option via the IAEA Milestones Approach.
 
 ## Summary Table
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
 | Nuclear Energy | Radiation Protection Act (Ch. 228) + IAEA Milestones Approach | SHENA / PMO Energy Dept | 2021 |
-| Artificial Intelligence | Guide on AI Governance and Ethics | AITI | 2024 |
+| Artificial Intelligence | Guide on AI Governance and Ethics + Data and AI Strategy (under DB2030) | AITI / Digital Brunei Council | 2024 / 2026 |
 | Quantum | Post-Quantum Cryptography Migration Framework (consultation) | Cyber Security Brunei (CSB) | 2025/26 |
 | Biotechnology | NBSAP + Biomedical Research & Ethics Unit (BREU) | Forestry Dept / Ministry of Health | 2015 / 2023 |
 | Materials / Minerals | Midstream & Downstream Regulatory Framework | Petroleum Authority (PABD) | 2019 |
 | Semiconductors | *Explicitly absent* | — | — |
-| Digital Tech | Digital Economy Masterplan 2025 (DE2025) | Digital Economy Council / MTIC / AITI | 2020 |
+| Digital Tech | Digital Brunei 2030 (DB2030) — succeeds DE2025 | Digital Brunei Council / MTIC / AITI | 2026 |
 | Autonomous Systems | Civil Aviation Order 2006 (drones); robotics absent | Dept of Civil Aviation (DCA) | 2006 |
 
 ---
@@ -27,11 +27,11 @@ A small, wealthy rentier state (~450,000 people) whose tech posture is highly se
 - **Summary:** Brunei has no civilian nuclear power or SMRs, relying on abundant domestic natural gas (with a 30% renewable-capacity target by 2035). But it has shifted from passive observation to active preparation: at the 68th/69th IAEA General Conferences, SHENA announced formal adoption of the IAEA Milestones Approach to consider deploying nuclear power in the late 2030s/early 2040s, committing to the IAEA Technical Cooperation Fund for 2026. The Radiation Protection Act (2021) is the domestic legal backbone (strengthened via a Jan 2024 IAEA legislative mission). Brunei is a strict non-proliferation actor — party to the NPT, CTBT, TPNW and SEANWFZ — and joined the Asia-Pacific Safeguards Network (Oct 2024), working toward an IAEA Additional Protocol. Small geographic size complicates reactor siting away from population centers.
 
 ## 2. Artificial Intelligence
-- **Plan:** Guide on Artificial Intelligence Governance and Ethics for Brunei Darussalam
-- **Body:** Authority for Info-communications Technology Industry (AITI), with the AI Governance and Ethics Working Group
-- **Year:** April 2024 (1st Edition); 2nd Edition (Generative AI) in consultation
-- **URL:** https://aiti.gov.bn/AIGuideGE
-- **Summary:** Brunei has no enforceable AI-specific law; it relies on a **voluntary, principles-based guide** built on seven principles (transparency/explainability, data protection, security/safety, robustness/reliability, fairness/equity, human centricity, accountability/integrity). The framework is risk-based, technology- and sector-agnostic, and explicitly aligned with the ASEAN Guide on AI Governance and Ethics for regional interoperability — but advisory, with no penalties or dedicated AI enforcement body. The Personal Data Protection Order (early 2025, one-year grace period) indirectly regulates AI training data. AITI is drafting a dedicated **Data and AI Strategy** for the successor to DE2025. AI is framed for digital government, smart-city, and community development rather than foundational model training or hardware.
+- **Plan:** Guide on Artificial Intelligence Governance and Ethics for Brunei Darussalam; **Data and Artificial Intelligence Strategy** (cross-cutting pillar of Digital Brunei 2030)
+- **Body:** Authority for Info-communications Technology Industry (AITI), with the AI Governance and Ethics Working Group; Digital Brunei Council
+- **Year:** April 2024 (Guide, 1st Edition); Data and AI Strategy launched June 2026 under DB2030
+- **URL:** https://aiti.gov.bn/AIGuideGE / https://www.digitalbrunei.bn
+- **Summary:** Brunei has no enforceable AI-specific law; governance rests on a **voluntary, principles-based guide** built on seven principles (transparency/explainability, data protection, security/safety, robustness/reliability, fairness/equity, human centricity, accountability/integrity) — risk-based, technology- and sector-agnostic, and aligned with the ASEAN Guide on AI Governance and Ethics, but advisory, with no penalties or dedicated enforcement body. The Personal Data Protection Order (early 2025, one-year grace period) indirectly regulates AI training data. The previously-drafted **Data and AI Strategy** is now a launched, cross-cutting pillar of the Digital Brunei 2030 masterplan (2 June 2026), elevating AI from pure governance guidance to actionable national projects: an **AI-capable data centre**, a **National Sovereign Cloud** with AI compute, and a localized **National Large Language Model** for the Brunei context. AI remains framed for digital government, smart-city, and community development rather than foundational frontier-model training or domestic hardware.
 
 ## 3. Quantum Information Science
 - **Plan:** Brunei Post-Quantum Cryptography (PQC) Migration Framework (in consultation)
@@ -62,11 +62,11 @@ A small, wealthy rentier state (~450,000 people) whose tech posture is highly se
 - **Summary:** Brunei has no domestic semiconductor manufacturing and does not feature in the global supply chain — unlike neighbors Malaysia (Penang) and Singapore. It is purely an importer of microelectronics for its digital infrastructure. The absence isn't for lack of past interest: in 2003 the government explored a chip-manufacturing JV with South Korean firms (a "Dubai Silicon Oasis"-style model near Bandar Seri Begawan), but it never materialized. Structural barriers — tiny population (<500,000), no specialized human-capital ecosystem, no integrated regional supply chain, and "brain drain" of engineers to Malaysia/Singapore — led Brunei to pragmatically focus state capital on digital infrastructure (telecoms, software) rather than capital-intensive hardware fabrication.
 
 ## 7. Digital Technology / Digital Infrastructure
-- **Plan:** Digital Economy Masterplan 2025 (DE2025); AITI Strategic Plan 2020–2025
-- **Body:** Digital Economy Council; Ministry of Transport and Infocommunications (MTIC); AITI
-- **Year:** 2020
-- **URL:** https://www.mtic.gov.bn/DE2025/documents/Digital%20Economy%20Masterplan%202025.pdf
-- **Summary:** The most heavily funded and best-organized domain — the engine for turning Wawasan 2035 into a "Smart Nation." DE2025 has four strategic thrusts: Industry Digitalisation (KPI: digitalize 1,200 MSMEs by 2025), Government Digitalisation (e-government, civil-service e-HRM/SSM), a Thriving Digital Industry (data centers, technopreneurship), and Manpower/Talent Development. The boldest move was consolidating all fixed, mobile and submarine telecom assets (2018/19) into the state-owned wholesale monopoly **Unified National Networks (UNN)**, turning former competitors (DST, imagine, Progresif) into retail providers on a shared network. By 2024/25 UNN deployed nationwide 5G, reaching 98.7% mobile and 96% fixed-broadband coverage in populated areas. Cybersecurity/data governance is anchored by Cyber Security Brunei (CSB) and the 2025 Personal Data Protection Order.
+- **Plan:** Digital Brunei 2030 (DB2030) — successor to the Digital Economy Masterplan 2025 (DE2025)
+- **Body:** Digital Brunei Council (formerly Digital Economy Council); Ministry of Transport and Infocommunications (MTIC); AITI
+- **Year:** 2026 (DB2030 launched 2 June 2026); DE2025 from 2020
+- **URL:** https://www.digitalbrunei.bn / https://www.mtic.gov.bn
+- **Summary:** The most heavily funded and best-organized domain — the engine for turning Wawasan 2035 into a "Smart Nation." The decade's flagship is now **Digital Brunei 2030 (DB2030)**, launched 2 June 2026 by the renamed and strengthened **Digital Brunei Council** (with the Sultan's consent), with national implementation kicked off via the "Together Towards a Digital Brunei" dialogue on 4 June 2026. DB2030 integrates four strategies under one framework — Digital Government, Digital Society, Digital Business, and a cross-cutting Data and AI Strategy — pivoting from DE2025's foundation-building toward emerging tech and measurable, citizen-centric outcomes (AI-capable data centre, National Sovereign Cloud, national LLM). The predecessor DE2025 had four thrusts (Industry/Government Digitalisation, a Thriving Digital Industry, Manpower/Talent) and delivered the foundational layer: consolidating all fixed, mobile and submarine telecom assets (2018/19) into the state-owned wholesale monopoly **Unified National Networks (UNN)** — turning DST, imagine and Progresif into retail providers — plus nationwide 5G reaching 98.7% mobile and 96% fixed-broadband coverage by 2024/25 and a national digital identity. Cybersecurity/data governance is anchored by Cyber Security Brunei (CSB) and the 2025 Personal Data Protection Order.
 
 ## 8. Autonomous Systems
 - **Plan:** Civil Aviation Order 2006 (Sections 21 & 51) + DCA Unmanned Aircraft Guidelines *(robotics strategy absent/nascent)*

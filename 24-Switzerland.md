@@ -8,7 +8,7 @@ Switzerland favors decentralized innovation, strong state funding for research (
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | Nuclear Energy Act amendment (lift new-build ban) | Federal Council / DETEC / SFOE | 2024–2026 |
+| Nuclear Energy | Nuclear Energy Act amendment (lift new-build ban) | Federal Council / DETEC / SFOE | Dispatch 2025; passed both chambers June 2026 |
 | Artificial Intelligence | AI Guidelines + Council of Europe AI Convention | Federal Council / OFCOM / CNAI | 2020 / 2024–25 |
 | Quantum | Swiss Quantum Initiative (SQI) | SERI / Swiss Quantum Commission (SCNAT) | 2022 / 2025–28 |
 | Biotechnology | Swiss Personalized Health Network (SPHN) | SERI / FOPH / SAMS / SIB | 2017 / 2025–28 |
@@ -22,16 +22,16 @@ Switzerland favors decentralized innovation, strong state funding for research (
 ## 1. Nuclear Energy
 - **Plan:** Amendment to the Nuclear Energy Act (Kernenergiegesetz) — indirect counter-proposal to the "Stop the Blackout" initiative
 - **Body:** Federal Council, DETEC, Swiss Federal Office of Energy (SFOE)
-- **Year:** Draft Aug/Sep 2024; Council of States approval March 2026
-- **URL:** admin.ch (DETEC/SFOE)
-- **Summary:** A major reversal of the 2017 ban (Energy Strategy 2050) on building new nuclear plants, restoring "technological openness" for energy security and 2050 net-zero. Current plants (Beznau I/II, Gösgen, Leibstadt; ~30–33% of electricity) have unlimited licenses. The Council of States passed the counter-proposal (27–13) in March 2026; the National Council debates next (decision by Aug 2026), with a likely 2027 referendum as Greens/Social Democrats oppose.
+- **Year:** Consultation draft 2024; Federal Council dispatch 13 Aug 2025; Council of States March 2026; National Council 18 June 2026
+- **URL:** https://www.fedlex.admin.ch/eli/fga/2025/2563/de ; admin.ch (DETEC/SFOE)
+- **Summary:** A major reversal of the 2017 ban (Energy Strategy 2050) on building new nuclear plants, restoring "technological openness" for energy security and 2050 net-zero. Current plants (Beznau I/II, Gösgen, Leibstadt; ~30–33% of electricity) have unlimited licenses. The Federal Council adopted its formal dispatch (Botschaft) on 13 August 2025; the Council of States passed the counter-proposal in March 2026, and the National Council approved it on 18 June 2026 in a razor-thin 100–98 main vote, with the parliamentary final vote (Schlussabstimmung) on 19 June 2026. This clears the path toward a likely 2027 popular referendum, as Greens and Social Democrats oppose lifting the ban.
 
 ## 2. Artificial Intelligence
 - **Plan:** Guidelines on Artificial Intelligence for the Confederation + adoption of the Council of Europe Framework Convention on AI
 - **Body:** Federal Council, Federal Office of Communications (OFCOM), Competence Network for AI (CNAI)
-- **Year:** Guidelines 2020 (reviewed 2022/2024-25); CoE Convention signed 2024/25
+- **Year:** Guidelines 2020 (reviewed 2022/2024-25); CoE Convention signed 27 March 2025; implementation bill consultation targeted end-2026
 - **URL:** https://www.bakom.admin.ch/en/ai-guidelines
-- **Summary:** Deliberately avoids an EU-style omnibus AI act, using sector-specific regulation guided by seven 2020 principles (human-centric, transparent, accountable, secure). Signed the legally binding Council of Europe AI Convention (the first international AI treaty), to be ratified and implemented primarily for public-sector actors. In Feb 2025 the Federal Council confirmed a technology-neutral, sector-specific approach to preserve Switzerland's competitiveness.
+- **Summary:** Deliberately avoids an EU-style omnibus AI act, using sector-specific regulation guided by seven 2020 principles (human-centric, transparent, accountable, secure). On 12 February 2025 the Federal Council confirmed a technology-neutral, sector-specific approach to preserve Switzerland's competitiveness, and on 27 March 2025 Switzerland signed the legally binding Council of Europe Framework Convention on AI (the first international AI treaty). The Federal Department of Justice and Police (FDJP), with OFCOM, is now drafting the domestic implementation bill — establishing binding standards on AI transparency, non-discrimination, and data protection, primarily for public-sector actors — which is due to go to public consultation by the end of 2026.
 
 ## 3. Quantum Information Science
 - **Plan:** Swiss Quantum Initiative (SQI)

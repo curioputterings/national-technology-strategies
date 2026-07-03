@@ -22,9 +22,9 @@ Finland pursues technological sovereignty in highly specialized niches (6G, full
 ## 1. Nuclear Energy
 - **Plan:** Comprehensive Reform of the Nuclear Energy Act (Ydinenergialain kokonaisuudistus)
 - **Body:** Ministry of Economic Affairs and Employment (TEM) / Finnish Government; STUK (safety authority)
-- **Year:** 2026 (proposal submitted March 12, 2026; intended in force Jan 1, 2027)
+- **Year:** 2026 (proposal submitted March 12, 2026; approved by Parliament June 17, 2026; enters into force Jan 1, 2027)
 - **URL:** https://valtioneuvosto.fi/en/-/1410877/reform-of-nuclear-energy-act-to-modernise-nuclear-plant-regulation-and-ease-new-nuclear-energy-investments
-- **Summary:** A 550-page reform of the 1987 Act, moving to a risk-informed, technology-neutral framework to streamline SMR licensing — building on the successful Olkiluoto 3 EPR. Allows reactors closer to consumption (industry, urban district heating). Flagship pilot: Steady Energy's SMR in the turbine hall of Helen's Salmisaari coal plant (decarbonizing Helsinki district heating). Business Finland backs spin-offs to make Finland a nuclear-heating export hub.
+- **Summary:** A 550-page reform of the 1987 Act, moving to a risk-informed, technology-neutral framework to streamline SMR licensing — building on the successful Olkiluoto 3 EPR. Parliament passed the reform on June 17, 2026 (vote 125–61), with the law slated to enter into force January 1, 2027 pending the President's signature. The package also amended the Criminal Code to repeal Cold-War-era bans on the import, transit, and possession of nuclear devices, removing legal barriers to Finland's integration into NATO collective defence. Allows reactors closer to consumption (industry, urban district heating); flagship pilot is Steady Energy's SMR in the turbine hall of Helen's Salmisaari coal plant (decarbonizing Helsinki district heating), with Business Finland backing spin-offs to make Finland a nuclear-heating export hub.
 
 ## 2. Artificial Intelligence
 - **Plan:** Artificial Intelligence 4.0 Programme + AuroraAI National AI Programme

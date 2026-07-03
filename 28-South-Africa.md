@@ -8,7 +8,7 @@ South Africa frames tech around the Fourth Industrial Revolution and the Just En
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | Integrated Resource Plan (IRP 2019 / Draft IRP 2023) | DMRE / Ministry of Electricity & Energy | 2019 / 2024 |
+| Nuclear Energy | Integrated Resource Plan 2025 (IRP 2025, gazetted) | Department of Electricity and Energy | 2025 |
 | Artificial Intelligence | National AI Policy Framework (2024) | DCDT | 2024 |
 | Quantum | South African Quantum Technology Initiative (SA QuTI) | DSI | 2021 |
 | Biotechnology | Bio-economy Strategy | DSI | 2013 |
@@ -20,11 +20,11 @@ South Africa frames tech around the Fourth Industrial Revolution and the Just En
 ---
 
 ## 1. Nuclear Energy
-- **Plan:** Integrated Resource Plan (IRP 2019) + Draft IRP 2023
-- **Body:** Department of Mineral Resources and Energy (DMRE) / Ministry of Electricity and Energy
-- **Year:** 2019 (official); January 2024 (draft)
-- **URL:** www.dmre.gov.za
-- **Summary:** Extends the Koeberg plant (1,860 MW — Africa's only commercial reactor) to ~2045 and sets a 2,500 MW new-build (NERSA-approved 2021; Duynefontein site, ~R60B; large reactors + SMRs). The Draft IRP 2023 sketches scenarios up to 14,500 MW of nuclear by 2050 for zero-carbon baseload (coal is ~80% of power). The 2,500 MW procurement was paused in Aug 2024 over public-consultation legal challenges; vendor geopolitics (e.g. Russia) add complexity.
+- **Plan:** Integrated Resource Plan 2025 (IRP 2025) — supersedes IRP 2019 / Draft IRP 2023
+- **Body:** Department of Electricity and Energy (Minister Dr. Kgosientsho Ramokgopa)
+- **Year:** October 2025 (Cabinet approved 15 Oct 2025; gazetted 28 Oct 2025, Gov. Gazette No. 53596 / Notice 6767)
+- **URL:** www.gov.za
+- **Summary:** The finalized IRP 2025 (~R2.23 trillion) commits to adding ~105,000 MW of new generation capacity by 2039, the first plan in which clean sources (nuclear, wind, solar, hydro) are set to overtake coal. For nuclear it firms up a **5,200 MW new-build commitment** — up from the contested 2,500 MW the Draft IRP 2023 envisaged and whose procurement had been paused in Aug 2024 over consultation legal challenges. The plan continues extension of the Koeberg plant (1,860 MW — Africa's only commercial reactor) to ~2045 and pairs the build with an accompanying **Nuclear Industrial Plan** aimed not just at electricity but at resuscitating domestic expertise and localizing manufacturing across the nuclear fuel cycle for jobs and industrialization. Vendor geopolitics (e.g. Russia) and affordability remain contested.
 
 ## 2. Artificial Intelligence
 - **Plan:** National AI Policy Framework (the comprehensive Draft National AI Policy 2026 was withdrawn)

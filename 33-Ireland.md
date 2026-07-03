@@ -9,12 +9,12 @@ A small, highly globalized economy that functions as a localized instantiation o
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
 | Nuclear Energy | Electricity Regulation Act 1999 (legal ban) | Oireachtas / Dept of Environment, Climate & Comms | 1999 |
-| Artificial Intelligence | "AI – Here for Good" + Refresh 2024 | Dept of Enterprise, Trade and Employment | 2021/2024 |
+| Artificial Intelligence | National Digital and AI Strategy — "Digital Ireland: Connecting our People, Securing our Future" (supersedes "AI – Here for Good") | Dept of the Taoiseach (whole-of-gov) / Dept of Enterprise, Tourism and Employment | 2026 |
 | Quantum | Quantum 2030 | Dept of Further & Higher Education (DFHERIS) | 2023 |
 | Biotechnology | Impact 2030 (via Taighde Éireann) | DFHERIS / Research Ireland | 2022/2024 |
 | Materials / Critical Minerals | EU CRMA implementation + CIRCLE project | Dept of Environment / EPA / GSI | 2024 |
 | Semiconductors | Silicon Island (National Semiconductor Strategy) | Dept of Enterprise, Trade and Employment | 2025 |
-| Digital Tech | Harnessing Digital – The Digital Ireland Framework | Department of the Taoiseach | 2022 |
+| Digital Tech | National Digital and AI Strategy — "Digital Ireland: Connecting our People, Securing our Future" (replaces Harnessing Digital) | Department of the Taoiseach | 2026 |
 | Autonomous Systems | National Policy Framework for UAS (drones) | Department of Transport | 2025 |
 
 ---
@@ -27,11 +27,11 @@ A small, highly globalized economy that functions as a localized instantiation o
 - **Summary:** Electricity generation via nuclear fission is strictly prohibited by law — no state funding, targets, or plans for domestic plants. Focus is renewables toward a net-zero electricity grid by 2050. Ireland does consume nuclear power imported via UK interconnectors, and debate on repealing the ban is active (polls ~33–43% support), but officials (Min. Dooley, 2026) say a "social licence" and legislative change would need a long national conversation — nuclear is absent from current decarbonization budgets.
 
 ## 2. Artificial Intelligence
-- **Plan:** National AI Strategy "AI – Here for Good" + Refresh 2024
-- **Body:** Department of Enterprise, Trade and Employment
-- **Year:** July 2021 (original); November 2024 (refresh)
-- **URL:** https://enterprise.gov.ie/en/publications/national-ai-strategy-refresh-2024.html
-- **Summary:** Aims for Ireland as a leader in ethical, people-centered AI for productivity and public services. The 2024 refresh pivots to generative AI and full EU AI Act alignment, including a national AI regulatory sandbox and an AI Ambassador. Funds upskilling (Skillnet, Springboard+) and Research Ireland centers; targets 75% enterprise take-up of cloud/AI/big data by 2030 (AI adoption already ~91%, potentially +€250B by 2035).
+- **Plan:** National Digital and AI Strategy — "Digital Ireland: Connecting our People, Securing our Future" (supersedes "AI – Here for Good", 2021, and its 2024 refresh)
+- **Body:** Department of the Taoiseach (whole-of-government) / Department of Enterprise, Tourism and Employment
+- **Year:** February 2026 (replaces the 2021/2024 National AI Strategy)
+- **URL:** https://www.gov.ie/en/department-of-the-taoiseach/campaigns/digital-ireland-connecting-our-people-securing-our-future/
+- **Summary:** This whole-of-government strategy merges Ireland's digital and AI ambitions into a single roadmap to 2030, replacing both the 2021 "AI – Here for Good" strategy (and its 2024 refresh) and the 2022 Harnessing Digital framework. It draws directly on the AI Advisory Council's advice papers (published February 2025) and sets out roughly 90 deliverables to keep Ireland a leading, ethical and people-centred AI nation. Centrepiece is a new AI Office of Ireland — the central national coordinating authority for the EU AI Act — alongside an AI Regulatory Sandbox and an Observatory for Business AI Readiness (OBAIR). It also builds public-service capacity via an AI Advisory Unit and a National AI Fellowship, and drives SME literacy through an "AI – Good for Business" campaign, retaining 2030 targets for enterprise AI/cloud take-up.
 
 ## 3. Quantum Information Science
 - **Plan:** Quantum 2030: A National Quantum Technologies Strategy for Ireland
@@ -44,7 +44,7 @@ A small, highly globalized economy that functions as a localized instantiation o
 - **Plan:** Impact 2030: Ireland's Research and Innovation Strategy (via Taighde Éireann – Research Ireland)
 - **Body:** DFHERIS / Taighde Éireann (Research Ireland)
 - **Year:** May 2022 (Research and Innovation Act 2024)
-- **URL:** https://www.gov.ie/en/publication/27c78-impact-2030-irelands-research-and-innovation-strategy/
+- **URL:** https://www.gov.ie/en/publication/27c78-impact-2030-irelands-new-research-and-innovation-strategy/
 - **Summary:** Governs biomedical/biopharma via the holistic Impact 2030 framework (no single biotech strategy). The Research and Innovation Act 2024 merged SFI and the Irish Research Council into Taighde Éireann – Research Ireland (€810M capital allocation) to streamline interdisciplinary health/tech funding. Supports 15 Research Ireland Centres, biopharma commercialization, and all-island clusters like the All-Island Cancer Research Institute (AICRI).
 
 ## 5. Materials Science / Critical Raw Materials
@@ -62,11 +62,11 @@ A small, highly globalized economy that functions as a localized instantiation o
 - **Summary:** Aligned with the EU Chips Act (Ireland hosts 15 of the top 30 global semiconductor firms; ~€13.5B chip exports/yr). Targets growing the workforce from 20,000 to 34,500 by 2040. Commits €70M+ for Tyndall's role in three EU Pilot Lines (plus IPCEI microelectronics) and explicitly seeks a leading-edge fab (regional), two trailing-edge foundries, and an advanced packaging facility. I-C3 is the national Chips Act competence center.
 
 ## 7. Digital Technology / Digital Infrastructure
-- **Plan:** Harnessing Digital – The Digital Ireland Framework
-- **Body:** Department of the Taoiseach
-- **Year:** February 2022 (progress reports to Jan 2024)
-- **URL:** https://www.gov.ie/en/department-of-the-taoiseach/publications/harnessing-digital-the-digital-ireland-framework/
-- **Summary:** Master framework mapped to the EU Digital Decade across four pillars (enterprise, infrastructure, skills, public services). Targets: gigabit coverage to all households/businesses by 2028, 5G to all populated areas by 2030, 90% of public services online and 90% SME basic digital intensity by 2030. Funded via the National Broadband Plan and an €85M Digital Transition Fund; regulatory role via Coimisiún na Meán (Online Safety, DSA).
+- **Plan:** National Digital and AI Strategy — "Digital Ireland: Connecting our People, Securing our Future" (replaces Harnessing Digital – The Digital Ireland Framework, 2022)
+- **Body:** Department of the Taoiseach (whole-of-government)
+- **Year:** February 2026 (succeeds the February 2022 framework)
+- **URL:** https://www.gov.ie/en/department-of-the-taoiseach/campaigns/digital-ireland-connecting-our-people-securing-our-future/
+- **Summary:** The refreshed flagship combines digital infrastructure and AI into one whole-of-government roadmap to 2030, mapped to the EU Digital Decade and superseding the 2022 Harnessing Digital framework. It carries forward and updates connectivity targets — gigabit broadband to every premises, 5G to all populated areas — while adding new emphasis on resilient international sub-sea cable infrastructure and advanced supercomputing. It commits to digitising 100% of key public services by 2030, delivered via the continuing National Broadband Plan and the Digital Transition Fund. Online-safety and DSA regulatory functions remain with Coimisiún na Meán, while the new AI Office of Ireland anchors the AI-governance side of the strategy.
 
 ## 8. Autonomous Systems
 - **Plan:** National Policy Framework for Unmanned Aircraft Systems (UAS)

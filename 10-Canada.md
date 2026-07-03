@@ -8,11 +8,11 @@ Canada aligns tech strategy with national security, climate, and supply-chain so
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | SMR Action Plan | NRCan | 2020 |
-| Artificial Intelligence | Pan-Canadian AI Strategy | ISED / CIFAR | 2017 / 2022 (Budget 2024) |
+| Nuclear Energy | SMR Action Plan | NRCan | 2020 (Darlington FID 2025) |
+| Artificial Intelligence | AI for All: Canada's National AI Strategy | Min. of AI & Digital Innovation / ISED | 2026 (succeeds Pan-Canadian AI Strategy 2017/2022) |
 | Quantum | National Quantum Strategy | ISED | 2023 |
 | Biotechnology | Biomanufacturing and Life Sciences Strategy | ISED / Health Canada | 2021 |
-| Materials / Critical Minerals | Canadian Critical Minerals Strategy | NRCan | 2022 |
+| Materials / Critical Minerals | Canadian Critical Minerals Strategy | NRCan | 2022 (Sovereign Fund, Budget 2025) |
 | Semiconductors | FABrIC | ISED / CMC Microsystems | 2024 |
 | Digital Tech | High-Speed Access for All: Connectivity Strategy | ISED | 2019 |
 | Autonomous Systems | Transport Canada's Drone Strategy to 2025 | Transport Canada | 2021 |
@@ -22,16 +22,16 @@ Canada aligns tech strategy with national security, climate, and supply-chain so
 ## 1. Nuclear Energy
 - **Plan:** Canada's Small Modular Reactor (SMR) Action Plan
 - **Body:** Natural Resources Canada (NRCan), with provinces and industry
-- **Year:** December 2020 (ongoing updates; 2022 SMR Leadership Table)
+- **Year:** December 2020 (ongoing updates; 2022 SMR Leadership Table; Darlington Final Investment Decision May 2025)
 - **URL:** https://smractionplan.ca/ ; https://natural-resources.canada.ca/energy-sources/nuclear-energy-uranium/canada-s-small-modular-reactor-action-plan
-- **Summary:** A pan-Canadian framework to develop, demonstrate, and deploy SMRs for a global market estimated at $150B/yr by 2040. Three applications: grid-scale to replace coal, off-grid heat/power for heavy industry/mining, and reliable power for remote/northern communities off diesel. Funded via the Enabling SMR Program (up to $5M/project); Ontario is building the G7's first SMR at Darlington (GE-Hitachi, 300 MW). Emphasizes supply chains, waste management, and Indigenous dialogue. (Ontario/NB/Saskatchewan/Alberta MOU.)
+- **Summary:** A pan-Canadian framework to develop, demonstrate, and deploy SMRs for a global market estimated at $150B/yr by 2040. Three applications: grid-scale to replace coal, off-grid heat/power for heavy industry/mining, and reliable power for remote/northern communities off diesel. Funded via the Enabling SMR Program (up to $5M/project). The flagship Darlington New Nuclear Project crossed decisive milestones in 2025: the Canadian Nuclear Safety Commission granted a construction licence (April 2025) and Ontario Power Generation, with the Province of Ontario, took a Final Investment Decision (May 2025) on the first GE Hitachi BWRX-300 (300 MW, ~CAD 7.7B), making it the G7's first commercial grid-scale SMR — now under active construction (Aecon) as of 2026, with four units planned by 2035 (~CAD 20.9B). De-risked by ~CAD 3B in public equity from the Canada Growth Fund and Building Ontario Fund (late 2025). Emphasizes supply chains, waste management, and Indigenous dialogue. (Ontario/NB/Saskatchewan/Alberta MOU.)
 
 ## 2. Artificial Intelligence
-- **Plan:** Pan-Canadian Artificial Intelligence Strategy
-- **Body:** Innovation, Science and Economic Development Canada (ISED) and CIFAR
-- **Year:** 2017 (Phase 1), 2022 (Phase 2), major expansion in Budget 2024
-- **URL:** https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy
-- **Summary:** The world's first national AI strategy, anchored by three institutes — Amii (Edmonton), Mila (Montreal), Vector (Toronto). Evolved from $125M to $443M+ (Phase 2) to a historic $2.4B in Budget 2024, including $2B for compute (AI Compute Access Fund / Sovereign Compute), $50M for the Canadian AI Safety Institute, and $50M worker retraining. Interlinked with the Artificial Intelligence and Data Act (AIDA, Bill C-27) and a Voluntary Code of Conduct for Generative AI.
+- **Plan:** AI for All: Canada's National Artificial Intelligence Strategy (successor to the Pan-Canadian AI Strategy)
+- **Body:** Ministry of Artificial Intelligence and Digital Innovation (Minister Evan Solomon) and ISED, with CIFAR
+- **Year:** June 4, 2026 (builds on the Pan-Canadian AI Strategy, 2017 Phase 1 / 2022 Phase 2 / Budget 2024)
+- **URL:** https://www.pm.gc.ca/en/news/news-releases/2026/06/04/prime-minister-carney-launches-ai-all-canadas-new-national-artificial ; https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy
+- **Summary:** Following the April 2025 election, the Carney government created Canada's first-ever Ministry of Artificial Intelligence and Digital Innovation (Minister Evan Solomon) and shelved the previous AI bill (AIDA, Bill C-27). A 28-member AI Strategy Task Force ran a 30-day "national sprint" (announced Sept 26, 2025), drawing 11,000+ submissions with findings released February 2026. On June 4, 2026, PM Carney and Minister Solomon launched "AI for All," a five-year national strategy built around opportunity, trust, and digital sovereignty — targeting up to 250,000 new AI jobs by 2031, ~$200B in GDP, and lifting business AI adoption from 12% to 60% by 2034. It is backed by a $700M Compute Access Fund for sovereign infrastructure and a $500M Canadian Tech Growth Fund, plus consumer protections, a National AI Literacy Initiative (free training for 1M post-secondary students), and the Protecting Victims Act on non-consensual deepfakes. The foundational research backbone remains the Pan-Canadian AI Strategy's three institutes — Amii (Edmonton), Mila (Montréal), Vector (Toronto) — and the prior $2.4B Budget 2024 commitment.
 
 ## 3. Quantum Information Science
 - **Plan:** Canada's National Quantum Strategy
@@ -50,9 +50,9 @@ Canada aligns tech strategy with national security, climate, and supply-chain so
 ## 5. Materials Science / Critical Minerals
 - **Plan:** The Canadian Critical Minerals Strategy
 - **Body:** Natural Resources Canada (NRCan)
-- **Year:** 2022 (adaptations/funding through 2026)
-- **URL:** https://www.canada.ca/en/campaign/critical-minerals-in-canada/canadian-critical-minerals-strategy.html
-- **Summary:** Positions Canada as a "supplier of choice" for critical minerals (lithium, cobalt, nickel, rare earths) for clean energy, manufacturing, and defense. Initial $3.8B (Budget 2022) across the value chain (exploration to recycling), incl. $1.5B for infrastructure to unlock remote deposits. Five objectives spanning economic growth, climate, and Indigenous reconciliation; aligns with G7/US to counter China's processing dominance. Recent emphasis on dual-use production and protecting against foreign state-owned control.
+- **Year:** 2022 (major Budget 2025 expansion; Sovereign Fund announced PDAC March 2026)
+- **URL:** https://www.canada.ca/en/campaign/critical-minerals-in-canada/canadian-critical-minerals-strategy.html ; https://budget.canada.ca/2025/report-rapport/chap1-en.html
+- **Summary:** Positions Canada as a "supplier of choice" for critical minerals (lithium, cobalt, nickel, rare earths) for clean energy, manufacturing, and defense. Initial $3.8B (Budget 2022) across the value chain (exploration to recycling). Budget 2025 sharply escalated the strategy toward equity-style intervention: a new $2B Critical Minerals Sovereign Fund (from 2026-27) makes direct equity investments, loan guarantees, and offtake agreements to push projects to their own Final Investment Decisions, while a $1.5B First and Last Mile Fund ($371.8M over four years from 2026-27) — which subsumes the former Critical Minerals Infrastructure Fund — funds enabling roads, transmission, and logistics for remote mines and processing. The Critical Mineral Exploration Tax Credit was expanded to 12 additional minerals (bismuth, cesium, chromium, etc.) alongside a Productivity Super-Deduction. Formally unveiled at the March 2026 PDAC Convention, framed around economic sovereignty, Indigenous participation, and reducing reliance on China's processing dominance.
 
 ## 6. Semiconductors / Microelectronics
 - **Plan:** FABrIC (Fabrication of Integrated Components for the Internet's Edge)

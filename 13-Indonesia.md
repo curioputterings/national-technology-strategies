@@ -8,30 +8,30 @@ Indonesia's tech trajectory is framed by *Indonesia Emas 2045* (Golden Indonesia
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | RUKN 2025–2060 (+ RUPTL 2025–2034) | ESDM / PLN | 2025 |
-| Artificial Intelligence | Stranas KA 2020–2045 | BRIN / Komdigi / Bappenas | 2020 |
+| Nuclear Energy | RUKN 2025–2060 + RUPTL 2025–2034; PP 40/2025 (KEN) + NEPIO/Satgas PLTN | ESDM / PLN / DEN / PANRB | 2025 |
+| Artificial Intelligence | RPerpres Peta Jalan KA Nasional 2026–2029 + RPerpres Etika AI (draft; supersedes Stranas KA 2020–2045) | Komdigi / BRIN / Bappenas | 2025–26 |
 | Quantum | Quantum-Security Roadmap 2025–2030 | Unhan RI / BRIN / BSSN / TNI | 2025 |
 | Biotechnology | BGSi Blueprint (Digital Health Transformation) | Ministry of Health | 2022 |
-| Materials / Critical Minerals | Hilirisasi Investasi Strategis Roadmap 2023–2040 | Ministry of Investment / BKPM | 2023 |
-| Semiconductors | Indonesia Semiconductor Ecosystem Roadmap | Kemenko Perekonomian / Kemenperin | 2024 |
+| Materials / Critical Minerals | Hilirisasi Investasi Strategis Roadmap 2023–2040 + Badan Industri Mineral (Perpres 76/2025) | Kementerian Investasi & Hilirisasi/BKPM + BIM | 2023 / 2025 |
+| Semiconductors | Grand Strategy Industri Semikonduktor Nasional (ICDeC) | Bappenas / Kemenperin / Kemdiktisaintek | 2026 |
 | Digital Tech | Visi Indonesia Digital 2045 | Komdigi (ex-Kominfo) | 2023/24 |
 | Autonomous Systems | Making Indonesia 4.0 + Aerospace/UAS Roadmap 2022–2045 | Kemenperin / Bappenas / Kemenhub | 2018 / 2022 |
 
 ---
 
 ## 1. Nuclear Energy
-- **Plan:** Rencana Umum Ketenagalistrikan Nasional (RUKN) 2025–2060 (National Electricity General Plan) + RUPTL 2025–2034
-- **Body:** Ministry of Energy and Mineral Resources (ESDM) & PT PLN
-- **Year:** 2025 (Kepmen ESDM No. 85.K/2025; RUPTL May 2025)
-- **URL:** https://finance.detik.com/energi/d-7948744/ri-mau-bangun-pembangkit-nuklir-35-gw-hingga-2060
-- **Summary:** Establishes nuclear as a clean baseload, targeting 35 GW by 2060 for net-zero. Near-term RUPTL builds Indonesia's first 500 MW: 250 MW on the Sumatra-Bangka grid (COD 2032) and 250 MW in West Kalimantan (2033). The broader transition needs ~USD 1.1 trillion by 2060, reliant on IPPs (e.g. PT Thorcon Power); a NEPIO ensures IAEA compliance. Considers SMRs and PWRs. Civil-society groups (Trend Asia) have filed legal challenges, arguing it's an expensive path that masks prolonged coal reliance.
+- **Plan:** RUKN 2025–2060 + RUPTL 2025–2034; PP No. 40/2025 (Kebijakan Energi Nasional, KEN); NEPIO via Satgas PLTN
+- **Body:** Ministry of Energy and Mineral Resources (ESDM), PT PLN, Dewan Energi Nasional (DEN), Kementerian PANRB
+- **Year:** 2025 (RUPTL May 2025; PP 40/2025 signed 15 Sep 2025; Satgas PLTN/NEPIO agreed 17 Dec 2025)
+- **URL:** https://www.menpan.go.id/site/berita-terkini/menteri-panrb-dukung-pembentukan-satgas-pltn
+- **Summary:** Nuclear has been formally upgraded in 2025 from a "last resort" (under the old PP 79/2014) to a strategic baseload on par with other new-and-renewable sources, codified in PP No. 40/2025 on National Energy Policy (KEN, signed 15 September 2025). RUKN/RUPTL still target 35 GW by 2060 and a near-term ~500 MW (2×250 MW) first reactor for the early 2030s on the Sumatra–Bangka grid and West Kalimantan. To accelerate delivery, ESDM and the Ministry of Administrative Reform (PANRB) agreed on 17 December 2025 to operationalize Indonesia's NEPIO not as a new standalone agency but as a non-permanent Satgas PLTN (Nuclear Power Plant Task Force) reinforcing existing mechanisms for regulation, supply chains, and public acceptance. The transition still needs ~USD 1.1 trillion by 2060 and leans on IPPs (e.g. PT Thorcon Power), considering SMRs and PWRs; civil-society groups (Trend Asia) have filed legal challenges arguing it masks prolonged coal reliance.
 
 ## 2. Artificial Intelligence
-- **Plan:** Strategi Nasional Kecerdasan Artifisial (Stranas KA) 2020–2045
-- **Body:** BPPT (now BRIN) with Kominfo/Komdigi and Bappenas
-- **Year:** August 2020
-- **URL:** https://korika.id/wp-content/uploads/2024/07/stranas-ka-2045.pdf
-- **Summary:** Targets five priority sectors: healthcare, bureaucratic reform, education/research, food security, and mobility/smart cities. Built on four pillars (ethics & governance, data & infrastructure, human resources, industrial innovation) via "Quad Helix" collaboration. Aligned with national data policies (SPBE, Satu Data Indonesia); 2025 supplementary roadmaps link AI to digital financial services. Hampered by the lack of AI-specific legislation (only fragmented Komdigi/OJK guidance), talent shortages, and data silos.
+- **Plan:** RPerpres Peta Jalan Kecerdasan Artifisial Nasional 2026–2029 + RPerpres Etika Kecerdasan Artifisial (draft; upgrading the soft-law Stranas KA 2020–2045)
+- **Body:** Kementerian Komunikasi dan Digital (Komdigi), with BRIN and Bappenas
+- **Year:** 2025–26 (drafting/public consultation through late 2025–mid 2026; supersedes Stranas KA, Aug 2020)
+- **URL:** https://jdih.komdigi.go.id
+- **Summary:** Under the Prabowo administration, Komdigi is elevating AI governance from the non-binding Stranas KA 2020–2045 into two binding Presidential Regulations: a Roadmap (Peta Jalan KA Nasional 2026–2029) and a parallel AI Ethics regulation (Etika AI). The roadmap focuses on AI for data-driven policymaking, national security, talent scaling, and regulating emerging threats such as deepfakes and generative AI through hard-law ethical parameters. As of mid-2026 both instruments remain in drafting/finalization following extended public consultation, not yet promulgated. The underlying Stranas KA priorities (healthcare, bureaucratic reform, education/research, food security, mobility) and its four pillars persist, but the shift addresses the long-standing gap of AI-specific legislation that previously left only fragmented Komdigi/OJK guidance.
 
 ## 3. Quantum Information Science
 - **Plan:** Quantum-Security Roadmap 2025–2030 (Peta Jalan Keamanan Kuantum)
@@ -48,18 +48,18 @@ Indonesia's tech trajectory is framed by *Indonesia Emas 2045* (Golden Indonesia
 - **Summary:** Foundational push into precision medicine via large-scale Whole Genome Sequencing (human and pathogen DNA). Builds a centralized biobank integrated with the national SATUSEHAT health platform, bolstered by the Health Law (Law 17/2023) recognizing genomics. Leverages Indonesia's "mega biodiversity" for a domestic red-biotech industry; tailors interventions for endemic conditions (thalassemia, TB) to reduce the BPJS insurance burden. Partnerships include East Ventures and Tsinghua University.
 
 ## 5. Materials Science / Critical Minerals Downstreaming
-- **Plan:** Peta Jalan Hilirisasi Investasi Strategis 2023–2040 (Strategic Investment Downstreaming Roadmap)
-- **Body:** Ministry of Investment / BKPM
-- **Year:** 2022/2023
+- **Plan:** Peta Jalan Hilirisasi Investasi Strategis 2023–2040 + Badan Industri Mineral (BIM), Perpres No. 76/2025
+- **Body:** Kementerian Investasi dan Hilirisasi / BKPM; new Badan Industri Mineral (BIM); ESDM
+- **Year:** 2022/2023 roadmap; BIM via Perpres 76/2025 (signed 19 Jun 2025; head inaugurated 25 Aug 2025)
 - **URL:** https://ppid.bkpm.go.id/storage/file/pdf/1768187569_i4HtoTN3yO.pdf
-- **Summary:** An aggressive resource-nationalist blueprint halting raw-commodity exports to force domestic processing of 28 strategic commodities across 8 sectors. Cites USD 618.1B investment potential, +USD 235.9B GDP, and 3M+ jobs — transforming nickel into EV batteries and stainless steel. The raw-nickel-ore export ban drew multibillion-dollar smelters/HPAL plants (IMIP Morowali, IWIP Weda Bay). A parallel Nickel Industry Decarbonization Roadmap 2025–2045 addresses the high carbon intensity (captive coal) to meet ESG/IRA standards; expands to copper, bauxite, tin, rare earths.
+- **Summary:** An aggressive resource-nationalist blueprint halting raw-commodity exports to force domestic processing of 28 strategic commodities across 8 sectors (cited USD 618.1B investment potential, +USD 235.9B GDP, 3M+ jobs), transforming nickel into EV batteries and stainless steel via smelters/HPAL plants (IMIP Morowali, IWIP Weda Bay). In 2025 the Prabowo government institutionalized downstreaming: the investment ministry was renamed Kementerian Investasi dan Hilirisasi, and a new Mineral Industry Agency (Badan Industri Mineral, BIM) was created by Perpres No. 76/2025 (signed 19 June 2025) with its first head, Brian Yuliarto, inaugurated 25 August 2025. BIM is a policy orchestrator integrating upstream mining directly with downstream high-tech manufacturing — pushing rare earths (LTJ), bauxite, and copper into EV-battery and semiconductor supply chains — heavily backed by the new sovereign wealth fund Danantara. A parallel Nickel Industry Decarbonization Roadmap 2025–2045 addresses captive-coal carbon intensity to meet ESG/IRA standards.
 
 ## 6. Semiconductors / Microelectronics
-- **Plan:** Indonesia Semiconductor Ecosystem Roadmap (Satgas Semikonduktor / Semiconductor Task Force)
-- **Body:** Coordinating Ministry for Economic Affairs (Kemenko Perekonomian) & Ministry of Industry (Kemenperin)
-- **Year:** Task Force established Jan 2024 (Kepmenko No. 16/2024); roadmap 2024–25
-- **URL:** https://kinerja.ekon.go.id/perencanaan/download/lakip-1688-2024-umoSz.pdf
-- **Summary:** Targets four pillars — Materials, Design, Front-End Fabrication, and Assembly/Testing/Packaging (ATP). Given the cost of front-end fabs, prioritizes the ATP back-end as the entry point (analyzing players like PT Celebit Circuit Technology) and explores downstreaming silica sand into wafers. Heavily reliant on international cooperation: the OECD Semiconductor Informal Exchange Network and the US ITSI Fund. Leverages "China Plus One" decoupling, but faces infrastructure, ultra-pure water, baseload power, and talent deficits.
+- **Plan:** Grand Strategy Pengembangan Industri Semikonduktor Nasional (via Indonesia Chip Design Collaborative Center, ICDeC); evolved from the 2024 Semiconductor Task Force roadmap
+- **Body:** Kementerian PPN/Bappenas, Kementerian Perindustrian (Kemenperin), Kemdiktisaintek (with ITB and ICDeC)
+- **Year:** 2026 (Indonesia Semiconductor Summit 29–30 Jan 2026; Bappenas Grand Strategy announced 12 Mar 2026)
+- **URL:** https://www.bappenas.go.id
+- **Summary:** In 2026 Indonesia pivoted from the 2024 Satgas Semikonduktor ecosystem roadmap to a "Grand Strategy" for the national semiconductor industry, treating 2026 as the execution year. Acknowledging that front-end fabrication is out of reach, the strategy prioritizes a realistic entry via chip design (fabless) and human capital, plus packaging and testing, leveraging domestic automotive/EV and consumer-electronics demand. It is spearheaded by the Indonesia Chip Design Collaborative Center (ICDeC) — a consortium of Kemenperin, ITB, and universities — which hosted the Indonesia Semiconductor Summit on 29–30 January 2026; Bappenas formally announced the shift to a Grand Strategy on 12 March 2026. Funding is partly channelled through Danantara and academic partnerships/hackathons. It still faces infrastructure, ultra-pure water, baseload power, and talent deficits, and continues to leverage "China Plus One" decoupling and the US ITSI Fund.
 
 ## 7. Digital Technology / Digital Infrastructure
 - **Plan:** Visi Indonesia Digital 2045 (VID 2045)

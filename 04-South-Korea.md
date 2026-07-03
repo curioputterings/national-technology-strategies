@@ -8,8 +8,8 @@ South Korea's strategies tie tech leadership to demographic decline, energy inde
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | 11th Basic Plan for Long-Term Electricity Supply & Demand | MOTIE | 2024/25 |
-| Artificial Intelligence | AI-Semiconductor Initiative + AI Basic Act | MSIT / National AI Committee | 2024 |
+| Nuclear Energy | 11th Basic Plan for Long-Term Electricity Supply & Demand (12th Plan in formulation) | MCEE (formerly MOTIE) | 2025 |
+| Artificial Intelligence | AI Basic Act (in force) + MSIT 2026 Work Plan / 100T-won AI Highway | MSIT / National AI Committee | 2026 |
 | Quantum | Quantum Science & Technology Strategy + Promotion Act | MSIT | 2023 |
 | Biotechnology | Advanced Bio Initiative | Cross-ministerial | 2024 |
 | Materials Science | Strategy for Securing Reliable Critical Minerals Supply | MOTIE | 2023 |
@@ -21,17 +21,17 @@ South Korea's strategies tie tech leadership to demographic decline, energy inde
 
 ## 1. Nuclear Energy
 - **Plan:** 11th Basic Plan for Long-Term Electricity Supply and Demand (제11차 전력수급기본계획)
-- **Body:** Ministry of Trade, Industry and Energy (MOTIE)
-- **Year:** Drafted 2024; confirmed February 2025
-- **URL:** MOTIE policy archives (announced via MOTIE; summaries via Shin & Kim legal updates)
-- **Summary:** Reverses the prior phase-out, raising nuclear to 35.2% of the energy mix by 2038 (from 31.7% in 2024). Authorizes two new APR-1400 reactors (1.4 GW each) and one domestic SMR (0.7 GW) for 2035–2038. Expressly designed to power AI data centers (4.4 GW demand by 2038) and semiconductor fabs (15.4 GW). Also decommissions 28 coal plants by 2036, targeting a 70.7% carbon-free grid; SMR demonstration intended to bolster nuclear exports (UAE Barakah, Czech Dukovany).
+- **Body:** Ministry of Climate, Energy and Environment (기후에너지환경부, MCEE) — energy functions transferred from MOTIE in the Lee administration's reorganization (MCEE launched 1 October 2025)
+- **Year:** 11th Plan confirmed February 2025; 12th Basic Plan (2026–2040) under formulation in 2026
+- **URL:** https://www.mcee.go.kr
+- **Summary:** The confirmed 11th Basic Plan reverses the prior phase-out, raising nuclear to 35.2% of the energy mix by 2038 (from 31.7% in 2024), authorizing two new APR-1400 reactors (1.4 GW each) and one domestic SMR (0.7 GW) for 2035–2038, and decommissioning 28 coal plants by 2036 toward a 70.7% carbon-free grid. It is expressly designed to power AI data centers (4.4 GW demand by 2038) and semiconductor fabs (15.4 GW), with SMR demonstration meant to bolster nuclear exports (UAE Barakah, Czech Dukovany). Following the mid-2025 government reorganization, electricity-supply planning moved from MOTIE to the new Ministry of Climate, Energy and Environment, which is now drafting the 12th Basic Plan (2026–2040); MCEE held a public briefing on its direction (26 January 2026) and unveiled preliminary demand forecasts (April 2026), with final confirmation targeted for the second half of 2026 amid surging AI-data-center power demand.
 
 ## 2. Artificial Intelligence
-- **Plan:** AI-Semiconductor Initiative + AI Basic Act (인공지능 기본법)
-- **Body:** MSIT / National Artificial Intelligence Committee
-- **Year:** April 2024 (initiative); Dec 2024 (Act passed, effective Jan 2026)
+- **Plan:** AI Basic Act (인공지능 기본법) + Enforcement Decree; MSIT 2026 Work Plan ("A Great Leap Forward for the Republic of Korea, Driven by Science, Technology and AI") with the 100-trillion-won AI Highway program
+- **Body:** MSIT / National Artificial Intelligence Committee / Office of the President
+- **Year:** Act in force 22 January 2026; MSIT 2026 Work Plan announced 12 December 2025
 - **URL:** https://www.msit.go.kr
-- **Summary:** Pledges 9.4 trillion won (~$6.7B) public investment by 2027 for next-gen AI models and low-power AI chips, plus a 1.4T won chipmaker fund; private sector adds 65T won (~$48.9B) for a national AI computing center. Aims for "G3" AI-superpower status and 10%+ of the global system-semiconductor market by 2030, fusing memory-chip dominance (HBM/NPU) with AI software. The AI Basic Act balances promotion with safety: high-impact-AI governance, transparency/labeling of AI outputs, and an AI Safety Institute (deepfake detection).
+- **Summary:** The AI Basic Act and its Enforcement Decree took effect 22 January 2026, giving Korea one of the world's first comprehensive AI statutes — less prescriptive than the EU AI Act. It defines "high-impact AI" (systems in sensitive sectors such as healthcare), mandating risk-management frameworks and human oversight, plus transparency rules (advance notice of AI use, watermarking/labeling of deepfakes and generative output); MSIT granted a one-year penalty grace period with low maximum fines (up to 30M won), signaling "voluntary compliance first, ex-post supervision." In parallel, the new Lee Jae-myung administration's "AI G3" agenda — set out in the MSIT 2026 Work Plan (Dec 2025) — backs a ~100-trillion-won (~$72B) National Growth Fund (anchored by a 50T-won KDB fund) targeting AI, semiconductors and energy. The flagship "AI Highway" builds a National AI Computing Center, aiming to secure 15,000+ GPUs by 2028 and 200,000 by 2030 (a June 2026 ~2T-won deal with NAVER Cloud and Samsung SDS deploys ~10,000 next-gen GPUs), alongside a "World Best LLM Project" pursuing sovereign Korean-language foundation models. The agenda still targets 10%+ of the global system-semiconductor market by 2030, fusing memory dominance (HBM/NPU) with AI software.
 
 ## 3. Quantum Information Science
 - **Plan:** Quantum Science and Technology Strategy + Quantum Technology Promotion Act

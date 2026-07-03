@@ -5,6 +5,8 @@ An open reference mapping the **official national strategies, plans, laws and po
 **🔗 Live interactive heatmap:** https://curioputterings.github.io/national-technology-strategies/
 **📚 Full catalogue (country index, flagship matrices, cross-cutting analysis):** [INDEX.md](INDEX.md)
 
+**🔄 Last refreshed: June 2026** — all 46 entities re-checked for new/updated plans, laws, and strategies published since the original build (e.g. the 2025–26 US executive-order wave, China's 15th Five-Year Plan + "AI Plus", national AI laws across Korea/Japan/Vietnam/Italy/Spain/Kazakhstan, and a near-universal critical-minerals push). The heatmap postures were re-scored accordingly.
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/curioputterings)
 
 ---
