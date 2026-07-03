@@ -2,3 +2,7 @@
 # Local archive of cited source documents (PDFs/HTML) — large binaries, not tracked by default.
 # Remove this line if you want to commit the source archive for provenance.
 sources/
+
+# Python caches
+__pycache__/
+*.pyc
