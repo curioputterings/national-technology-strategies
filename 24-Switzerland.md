@@ -8,7 +8,7 @@ Switzerland favors decentralized innovation, strong state funding for research (
 
 | Domain | Official Plan | Issuing Body | Year |
 |---|---|---|---|
-| Nuclear Energy | Nuclear Energy Act amendment (lift new-build ban) | Federal Council / DETEC / SFOE | Dispatch 2025; passed both chambers June 2026 |
+| Nuclear Energy | Nuclear Energy Act amendment (lift new-build ban) | Federal Council / DETEC / SFOE | Adopted June 2026 (BBl 2026 1772); initiative conditionally withdrawn |
 | Artificial Intelligence | AI Guidelines + Council of Europe AI Convention | Federal Council / OFCOM / CNAI | 2020 / 2024–25 |
 | Quantum | Swiss Quantum Initiative (SQI) | SERI / Swiss Quantum Commission (SCNAT) | 2022 / 2025–28 |
 | Biotechnology | Swiss Personalized Health Network (SPHN) | SERI / FOPH / SAMS / SIB | 2017 / 2025–28 |
@@ -24,7 +24,7 @@ Switzerland favors decentralized innovation, strong state funding for research (
 - **Body:** Federal Council, DETEC, Swiss Federal Office of Energy (SFOE)
 - **Year:** Consultation draft 2024; Federal Council dispatch 13 Aug 2025; Council of States March 2026; National Council 18 June 2026
 - **URL:** https://www.fedlex.admin.ch/eli/fga/2025/2563/de ; admin.ch (DETEC/SFOE)
-- **Summary:** A major reversal of the 2017 ban (Energy Strategy 2050) on building new nuclear plants, restoring "technological openness" for energy security and 2050 net-zero. Current plants (Beznau I/II, Gösgen, Leibstadt; ~30–33% of electricity) have unlimited licenses. The Federal Council adopted its formal dispatch (Botschaft) on 13 August 2025; the Council of States passed the counter-proposal in March 2026, and the National Council approved it on 18 June 2026 in a razor-thin 100–98 main vote, with the parliamentary final vote (Schlussabstimmung) on 19 June 2026. This clears the path toward a likely 2027 popular referendum, as Greens and Social Democrats oppose lifting the ban.
+- **Summary:** A major reversal of the 2017 ban (Energy Strategy 2050) on building new nuclear plants, restoring "technological openness" for energy security and 2050 net-zero. Current plants (Beznau I/II, Gösgen, Leibstadt; ~30–33% of electricity) have unlimited licenses. The Federal Council adopted its formal dispatch (Botschaft) on 13 August 2025; the Council of States passed the counter-proposal in March 2026, and the National Council approved it on 18 June 2026 in a razor-thin 100–98 main vote, with the parliamentary final vote (Schlussabstimmung) on 19 June 2026. The revised Kernenergiegesetz was published in the Bundesblatt on **29 June 2026** (BBl 2026 1772) and, on the same day, the "Jederzeit Strom für alle (Blackout stoppen)" popular initiative was **conditionally withdrawn** by its committee (BBl 2026 1830) — removing the initiative vote while leaving an optional referendum on the counter-proposal as the remaining hurdle, since Greens and Social Democrats oppose lifting the ban.
 
 ## 2. Artificial Intelligence
 - **Plan:** Guidelines on Artificial Intelligence for the Confederation + adoption of the Council of Europe Framework Convention on AI

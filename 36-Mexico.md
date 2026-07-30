@@ -12,7 +12,7 @@ Under President Claudia Sheinbaum, Mexico has pivoted from reliance on foreign t
 | Artificial Intelligence | Plan Nacional de IA (ATDT) + iniciativa Ley Federal de IA / Consejo Nacional de IA | ATDT (exec) / Congreso | 2024–2026 |
 | Quantum | Iniciativa Mexicana en Tecnología Cuántica (IMTC) | DICU / Sociedad Mexicana de Física | 2023 |
 | Biotechnology | Programa Sectorial CHTI 2025–2030 + PRONACES-Salud | SECIHTI (ex-CONAHCYT) | 2025 |
-| Materials / Critical Minerals | Decreto de Creación de LitioMx | Federal Executive / SENER | 2022 |
+| Materials / Critical Minerals | Decreto de Creación de LitioMx + Programa Institucional de Litio 2026–2030 | Federal Executive / SENER / LitioMx | 2022 / 2026 |
 | Semiconductors | Centro "Kutsari" + Programa Institucional InnovaBienestar 2026–2030 | SECIHTI / InnovaBienestar / Sonora | 2026 |
 | Digital Tech | Programa Sectorial de la ATDT 2025–2030 (Nube MX) | ATDT / Presidencia | 2025 |
 | Autonomous Systems | NOM-107-SCT3-2019 (drones) | SCT / AFAC | 2019 |
@@ -52,7 +52,7 @@ Under President Claudia Sheinbaum, Mexico has pivoted from reliance on foreign t
 - **Body:** Federal Executive Branch / SENER
 - **Year:** Decree published August 2022 (Organic Statute May 2025; mining-law reform April 2022)
 - **URL:** https://www.gob.mx/litiomx/documentos/decreto-de-creacion-de-litio-para-mexico
-- **Summary:** In April 2022 Congress reformed the Mining Law to make lithium extraction and commercialization a **state monopoly**, barring new private concessions. The LitioMx decree (DOF, 23 Aug 2022) created a decentralized public agency under SENER — with its own legal personality — mandated to explore, exploit, beneficiate and administer lithium value chains. Its board comprises five cabinet secretaries (Energy as chair, Finance, Economy, Interior, Environment). LitioMx is integrated with Plan Sonora: headquartered in Sonora to link extraction with electromobility and battery manufacturing. Its May 2025 Organic Statute emphasizes strategic alliances (state retaining a majority stake) to industrialize lithium and produce batteries domestically.
+- **Summary:** In April 2022 Congress reformed the Mining Law to make lithium extraction and commercialization a **state monopoly**, barring new private concessions. The LitioMx decree (DOF, 23 Aug 2022) created a decentralized public agency under SENER — with its own legal personality — mandated to explore, exploit, beneficiate and administer lithium value chains. Its board comprises five cabinet secretaries (Energy as chair, Finance, Economy, Interior, Environment). LitioMx is integrated with Plan Sonora: headquartered in Sonora to link extraction with electromobility and battery manufacturing. Its May 2025 Organic Statute emphasizes strategic alliances (state retaining a majority stake) to industrialize lithium and produce batteries domestically. LitioMx acquired a formal plan on **24 July 2026**, when the *Programa Institucional de Litio para México 2026–2030* was published in the Diario Oficial de la Federación — moving the state company from mandate to a costed five-year programme.
 
 ## 6. Semiconductors / Microelectronics
 - **Plan:** Centro Nacional de Diseño de Semiconductores "Kutsari" + Programa Institucional InnovaBienestar de México 2026–2030 (within Plan Sonora)

@@ -14,9 +14,9 @@
       },
       "Artificial intelligence": {
         "has_plan": true,
-        "plan": "America's AI Action Plan (\"Winning the AI Race\")",
+        "plan": "America's AI Action Plan (\"Winning the AI Race\") + Genesis Mission (AI for science)",
         "issuing_body": "White House / OSTP",
-        "year": 2025,
+        "year": 2026,
         "posture": 4,
         "posture_label": "frontier",
         "domain_raw": "Artificial Intelligence"
@@ -83,9 +83,9 @@
     "domains": {
       "Nuclear energy": {
         "has_plan": true,
-        "plan": "SMR Action Plan",
+        "plan": "Nuclear Energy Strategy for Canada (SMR Action Plan now a pillar)",
         "issuing_body": "NRCan",
-        "year": 2025,
+        "year": 2026,
         "posture": 3,
         "posture_label": "mature",
         "domain_raw": "Nuclear Energy"
@@ -197,9 +197,9 @@
       },
       "Materials & critical minerals": {
         "has_plan": true,
-        "plan": "Decreto de Creación de LitioMx",
-        "issuing_body": "Federal Executive / SENER",
-        "year": 2022,
+        "plan": "Decreto de Creación de LitioMx + Programa Institucional de Litio 2026–2030",
+        "issuing_body": "Federal Executive / SENER / LitioMx",
+        "year": 2026,
         "posture": 3,
         "posture_label": "mature",
         "domain_raw": "Materials / Critical Minerals"
@@ -326,9 +326,9 @@
       },
       "Artificial intelligence": {
         "has_plan": true,
-        "plan": "AI Promotion Act + AI Basic Plan (over Integrated Innovation Strategy 2025)",
+        "plan": "AI Promotion Act + AI Basic Plan Phase II (under the 7th S&T Basic Plan / Integrated Innovation Strategy 2026)",
         "issuing_body": "Cabinet Office (AI Strategy HQ) / METI / MIC",
-        "year": 2025,
+        "year": 2026,
         "posture": 4,
         "posture_label": "frontier",
         "domain_raw": "Artificial Intelligence"
@@ -440,9 +440,9 @@
       },
       "Semiconductors": {
         "has_plan": true,
-        "plan": "Semiconductor Mega Cluster Plan + K-Chips Act",
-        "issuing_body": "MOTIE / MSIT",
-        "year": 2024,
+        "plan": "Semiconductor Mega Cluster Plan + K-Chips Act + Semiconductor Special Act",
+        "issuing_body": "MOTIE (MCEE) / MSIT",
+        "year": 2026,
         "posture": 4,
         "posture_label": "frontier",
         "domain_raw": "Semiconductors"
@@ -839,9 +839,9 @@
       },
       "Digital infrastructure": {
         "has_plan": true,
-        "plan": "Malaysia Digital Economy Blueprint (MyDIGITAL)",
-        "issuing_body": "EPU / Ministry of Economy",
-        "year": 2021,
+        "plan": "Malaysia Digital 2030 Action Plan (MD2030), \"Towards an AI Nation\" — successor to MyDIGITAL",
+        "issuing_body": "Ministry of Digital / MyDIGITAL Corporation",
+        "year": 2026,
         "posture": 3,
         "posture_label": "mature",
         "domain_raw": "Digital Tech"
@@ -1151,8 +1151,8 @@
       },
       "Digital infrastructure": {
         "has_plan": true,
-        "plan": "National Digital Connectivity Plan (NDCP) 2024–2028 + E-Governance Act (RA 12254)",
-        "issuing_body": "DICT",
+        "plan": "NDCP 2024–2028 + E-Governance Act (RA 12254) + EO 119 (data residency)",
+        "issuing_body": "DICT / Office of the President",
         "year": 2026,
         "posture": 3,
         "posture_label": "mature",
@@ -1496,9 +1496,9 @@
       },
       "Artificial intelligence": {
         "has_plan": true,
-        "plan": "National AI Plan (supersedes 2024 Safe and Responsible AI Interim Response)",
-        "issuing_body": "DISR / National AI Centre",
-        "year": 2025,
+        "plan": "National AI Plan + Office of AI and Australian Standards for AI",
+        "issuing_body": "PM&C (Office of AI) / DISR / National AI Centre",
+        "year": 2026,
         "posture": 3,
         "posture_label": "mature",
         "domain_raw": "Artificial Intelligence"
@@ -1913,9 +1913,9 @@
       },
       "Materials & critical minerals": {
         "has_plan": true,
-        "plan": "Nat. Exploration Programme Critical Raw Materials + NTS 2024",
+        "plan": "Nederlandse Kritieke Grondstoffenlijst + Nat. Exploration Programme Critical Raw Materials",
         "issuing_body": "EZ",
-        "year": 2025,
+        "year": 2026,
         "posture": 2,
         "posture_label": "active",
         "domain_raw": "Materials Science"
@@ -2120,7 +2120,7 @@
       },
       "Artificial intelligence": {
         "has_plan": true,
-        "plan": "National Digital and AI Strategy — \"Digital Ireland: Connecting our People, Securing our Future\" (supersedes \"AI – Here for Good\")",
+        "plan": "National Digital and AI Strategy — \"Digital Ireland\" + Regulation of Artificial Intelligence Act 2026 (EU AI Act implementation)",
         "issuing_body": "Dept of the Taoiseach (whole-of-gov) / Dept of Enterprise, Tourism and Employment",
         "year": 2026,
         "posture": 3,
@@ -2192,8 +2192,8 @@
         "plan": "Nuclear Energy Act amendment (lift new-build ban)",
         "issuing_body": "Federal Council / DETEC / SFOE",
         "year": 2026,
-        "posture": 2,
-        "posture_label": "active",
+        "posture": 3,
+        "posture_label": "mature",
         "domain_raw": "Nuclear Energy"
       },
       "Artificial intelligence": {
@@ -2510,9 +2510,9 @@
       },
       "Artificial intelligence": {
         "has_plan": true,
-        "plan": "Policy for AI Development in Poland from 2020 (+ AI Fund, PL-Guard)",
+        "plan": "Policy for AI Development in Poland from 2020 + Act on AI Systems (EU AI Act implementation)",
         "issuing_body": "Council of Ministers / Ministry of Digital Affairs",
-        "year": 2025,
+        "year": 2026,
         "posture": 3,
         "posture_label": "mature",
         "domain_raw": "Artificial Intelligence"
@@ -2891,9 +2891,9 @@
     "domains": {
       "Nuclear energy": {
         "has_plan": true,
-        "plan": "SNAEP + US–Saudi Civil Nuclear (123) Joint Declaration",
-        "issuing_body": "K.A.CARE / Min. of Energy / US",
-        "year": 2025,
+        "plan": "SNAEP + US–Saudi Civil Nuclear (123) Agreement (signed 22 Jul 2026)",
+        "issuing_body": "K.A.CARE / Min. of Energy / US DOE",
+        "year": 2026,
         "posture": 2,
         "posture_label": "active",
         "domain_raw": "Nuclear Energy"

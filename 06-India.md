@@ -13,7 +13,7 @@ India's strategy is framed by "Aatmanirbhar Bharat" (Self-Reliant India) and "Vi
 | Quantum | National Quantum Mission (NQM) | DST | 2023 | ₹6,003.65 cr |
 | Biotechnology | BioE3 Policy | DBT | 2024 | — |
 | Materials / Critical Minerals | National Critical Mineral Mission (NCMM) | Ministry of Mines | 2025 | ₹34,300 cr |
-| Semiconductors | India Semiconductor Mission (ISM 2.0) | MeitY | 2021 / 2026 | ₹76,000 cr (+ISM 2.0) |
+| Semiconductors | India Semiconductor Mission (ISM 2.0) | MeitY | 2021 / 2026 (Cabinet approval Jul 2026) | ₹76,000 cr + ₹1,27,500 cr (ISM 2.0) |
 | Digital Tech | Digital India Programme + DPDP Rules 2025 | MeitY | 2015 / 2025 | ₹14,903 cr |
 | Autonomous Systems | Draft National Strategy on Robotics + Drone PLI | MeitY / MoCA | 2023 / 2021 | ₹120 cr (drones) |
 
@@ -57,9 +57,9 @@ India's strategy is framed by "Aatmanirbhar Bharat" (Self-Reliant India) and "Vi
 ## 6. Semiconductors / Microelectronics
 - **Plan:** India Semiconductor Mission (ISM) / Program for Development of Semiconductor and Display Ecosystem
 - **Body:** MeitY / Digital India Corporation
-- **Year:** Launched Dec 2021 (ISM 1.0); ISM 2.0 formally launched in the Union Budget 2026–27 (Feb 1, 2026)
+- **Year:** Launched Dec 2021 (ISM 1.0); ISM 2.0 announced in the Union Budget 2026–27 (Feb 1, 2026) and approved by the Union Cabinet on 15 July 2026
 - **URL:** https://ism.gov.in/
-- **Summary:** ₹76,000 cr (~$10B) to make India a chip/display manufacturing hub, offering up to 50% of capex for fabs, display fabs, compound semiconductors, and ATMP/OSAT. ISM 1.0 catalyzed Tata Electronics' ~$10B fab (Gujarat, ~80,000 wafers/month), Micron's $2.75B ATMP, and plants in Assam/UP. ISM 2.0 was formally launched in the Union Budget 2026–27 (₹1,000 cr initial FY2026–27 allocation, with a total outlay reported at ~₹1.2 lakh cr), pivoting from ecosystem creation to deep supply-chain consolidation: subsidizing domestic semiconductor equipment and raw materials, advanced packaging, and full-stack indigenous Design IP (Indian microprocessors), alongside the Design Linked Incentive (DLI) scheme. In May 2026 the Union Cabinet approved two further units (~₹3,936 cr), including India's first commercial GaN-based Mini/Micro-LED display facility.
+- **Summary:** ₹76,000 cr (~$10B) to make India a chip/display manufacturing hub, offering up to 50% of capex for fabs, display fabs, compound semiconductors, and ATMP/OSAT. ISM 1.0 catalyzed Tata Electronics' ~$10B fab (Gujarat, ~80,000 wafers/month), Micron's $2.75B ATMP, and plants in Assam/UP. ISM 2.0 was announced in the Union Budget 2026–27 (₹1,000 cr initial FY2026–27 allocation) and given full Cabinet approval on **15 July 2026 with a ₹1,27,500 cr (~₹1.27 lakh cr) outlay across six pillars** — the single largest technology-programme approval of the year — pivoting from ecosystem creation to deep supply-chain consolidation: subsidizing domestic semiconductor equipment and raw materials, advanced packaging, and full-stack indigenous Design IP (Indian microprocessors), alongside the Design Linked Incentive (DLI) scheme. In May 2026 the Union Cabinet approved two further units (~₹3,936 cr), including India's first commercial GaN-based Mini/Micro-LED display facility.
 
 ## 7. Digital Technology / Digital Infrastructure
 - **Plan:** Digital India Programme (Expanded) + Digital Personal Data Protection (DPDP) Rules, 2025

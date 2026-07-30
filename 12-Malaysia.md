@@ -14,7 +14,7 @@ Malaysia coordinates STI via the 10-10 MySTIE Framework and New Industrial Maste
 | Biotechnology | National Biotechnology Policy 2.0 (NBP 2.0) + National Biotechnology Ethics Guidelines | MOSTI / Bioeconomy Corp | 2022 / 2025 |
 | Materials Science | National Advanced Materials Roadmap 2021–2030 + REE raw-export ban / critical-minerals policy | MOSTI / MIGHT / MITI | 2021 / 2025 |
 | Semiconductors | National Semiconductor Strategy (NSS) | MITI | 2024 |
-| Digital Tech | Malaysia Digital Economy Blueprint (MyDIGITAL) | EPU / Ministry of Economy | 2021 |
+| Digital Tech | Malaysia Digital 2030 Action Plan (MD2030), "Towards an AI Nation" — successor to MyDIGITAL | Ministry of Digital / MyDIGITAL Corporation | 2026 (MyDIGITAL 2021) |
 | Autonomous Systems | National Robotics Roadmap + MDTAP30 + Low-Altitude Economy (LAE) Roadmap | MOSTI / MRANTI / MOT–CAAM | 2021 / 2022 / 2026 |
 
 ---
@@ -31,7 +31,7 @@ Malaysia coordinates STI via the 10-10 MySTIE Framework and New Industrial Maste
 - **Body:** National AI Office (NAIO) under the Ministry of Digital / MyDIGITAL Corporation; MOSTI
 - **Year:** AI-Rmap 2021–2025; NAIO Aug 2024; Action Plan 2030 and Sovereign AI Cloud endorsed by MED4IRN council 2 Oct 2025 (phased rollout 2026)
 - **URL:** https://naio.gov.my/
-- **Summary:** As the 2021–2025 Roadmap expires, NAIO is steering a successor AI Technology Action Plan 2026–2030 organised around three execution phases (Ignite, Scale, Transform) and seven core deliverables, including an AI adoption regulatory framework and AI Code of Ethics, to push Malaysia from AI consumer to "Made by Malaysia" AI producer. On 2 October 2025 the National Digital Economy and 4IR Council (MED4IRN) endorsed the build-out of a Sovereign AI Cloud to secure national data and government services. Targets include upskilling 700,000+ workers by 2030 and a 0.8–1.2% AI-driven GDP uplift, building on the earlier AIGE (seven UNESCO-anchored principles) and the Cybersecurity Act 2024.
+- **Summary:** As the 2021–2025 Roadmap expires, NAIO is steering a successor AI Technology Action Plan 2026–2030 organised around three execution phases (Ignite, Scale, Transform) and seven core deliverables, including an AI adoption regulatory framework and AI Code of Ethics, to push Malaysia from AI consumer to "Made by Malaysia" AI producer. On 2 October 2025 the National Digital Economy and 4IR Council (MED4IRN) endorsed the build-out of a Sovereign AI Cloud to secure national data and government services. Targets include upskilling 700,000+ workers by 2030 and a 0.8–1.2% AI-driven GDP uplift, building on the earlier AIGE (seven UNESCO-anchored principles) and the Cybersecurity Act 2024. Malaysia moved toward hard law on 10 July 2026, when NAIO released a public-consultation paper on a proposed **AI Governance Bill** — the first step from guidelines toward statutory AI regulation — days after the 29 June launch of MD2030 set "AI Nation" as the national digital frame.
 
 ## 3. Quantum Information Science
 - **Plan:** National Quantum Policy 2026–2035
@@ -59,14 +59,14 @@ Malaysia coordinates STI via the 10-10 MySTIE Framework and New Industrial Maste
 - **Body:** Ministry of Investment, Trade and Industry (MITI)
 - **Year:** 2024
 - **URL:** https://www.miti.gov.my/miti/resources/NSS_141024.pdf
-- **Summary:** A pivot from back-end assembly (Malaysia holds ~13% of global OSAT) to front-end IC design, advanced packaging, and wafer fab, backed by RM25B (~US$5.3B). Three phases (build foundations → move to frontier → innovate at frontier) aiming for RM500B total investment, 60,000 upskilled engineers, 10 local champions (RM5B revenue), and 100 companies (RM1B). Leverages neutral "middle-power" positioning for "Plus One" diversification; IC Design Park in Puchong.
+- **Summary:** A pivot from back-end assembly (Malaysia holds ~13% of global OSAT) to front-end IC design, advanced packaging, and wafer fab, backed by RM25B (~US$5.3B). Three phases (build foundations → move to frontier → innovate at frontier) aiming for RM500B total investment, 60,000 upskilled engineers, 10 local champions (RM5B revenue), and 100 companies (RM1B). Leverages neutral "middle-power" positioning for "Plus One" diversification; IC Design Park in Puchong. **SemiconStart Malaysia** (MOF with MOSTI, 1 July 2026) adds an ecosystem and commercialisation funding channel to move NSS from targets to firm-level support.
 
 ## 7. Digital Technology / Digital Infrastructure
-- **Plan:** Malaysia Digital Economy Blueprint (MyDIGITAL)
-- **Body:** Economic Planning Unit (PMO) / Ministry of Economy / MyDIGITAL Corporation
-- **Year:** 2021 (executing to 2030)
-- **URL:** https://ekonomi.gov.my/sites/default/files/2021-02/malaysia-digital-economy-blueprint.pdf
-- **Summary:** A whole-of-nation framework with six thrusts to make Malaysia a high-income digital leader by 2030. By 2025 targets: digital economy at 22.6% of GDP, 500,000 new digital jobs, 100% household internet, 100% civil-servant digital literacy, and 875,000 MSMEs in e-commerce. Includes public-sector digitalization (Chief Digital Officers, sovereign cloud) and connectivity via the parallel JENDELA network plan (broadband, 5G); cybersecurity is a core backbone.
+- **Plan:** Malaysia Digital 2030 Action Plan (MD2030), "Towards an AI Nation" — successor to the Malaysia Digital Economy Blueprint (MyDIGITAL)
+- **Body:** Ministry of Digital / MyDIGITAL Corporation (MyDIGITAL originally Economic Planning Unit, PMO)
+- **Year:** MD2030 launched 29 June 2026; MyDIGITAL 2021 (executing to 2030)
+- **URL:** https://www.digital.gov.my/ ; https://ekonomi.gov.my/sites/default/files/2021-02/malaysia-digital-economy-blueprint.pdf
+- **Summary:** A whole-of-nation framework with six thrusts to make Malaysia a high-income digital leader by 2030. By 2025 targets: digital economy at 22.6% of GDP, 500,000 new digital jobs, 100% household internet, 100% civil-servant digital literacy, and 875,000 MSMEs in e-commerce. Includes public-sector digitalization (Chief Digital Officers, sovereign cloud) and connectivity via the parallel JENDELA network plan (broadband, 5G); cybersecurity is a core backbone. On **29 June 2026** the Prime Minister launched the successor framework, the **Malaysia Digital 2030 Action Plan (MD2030)** under the banner "Towards an AI Nation," which folds the digital-economy agenda into the AI agenda and makes the Ministry of Digital the lead agency — moving Malaysia's digital policy centre of gravity from the Economy Ministry's blueprint to an AI-first delivery plan.
 
 ## 8. Autonomous Systems
 - **Plan:** National Robotics Roadmap (NRR) 2021–2030 + Malaysia Drone Technology Action Plan 2022–2030 (MDTAP30) + Low-Altitude Economy (LAE) Roadmap (2026)

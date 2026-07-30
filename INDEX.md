@@ -18,6 +18,56 @@ Summaries of official **national strategies, plans, missions, and policies** acr
 - **One notable reversal:** Saudi Arabia's **Alat abandoned sovereign chip fabrication** (Apr 2026), downgrading the kingdom's semiconductor posture.
 - **Heatmap re-scored:** ~23 entities had posture changes (mostly +1 on AI, Nuclear, Quantum, Materials, and Autonomous).
 
+## July 2026 delta refresh
+
+*All 46 entities were swept for official documents issued **20 June – 30 July 2026** (a delta pass over the June baseline, not a re-scrape). 29 profiles gained material updates; the remainder had no national-level change in the window. Claims below were cross-checked against a second search pass — four initially reported items were dropped or corrected as false (see caveats).*
+
+**Structural changes (new or superseding flagship documents):**
+
+| Entity | Domain | What changed | Date |
+|---|---|---|---|
+| Japan | cross-cutting / AI | **7th S&T Basic Plan** (Cabinet Decision, replacing the 6th) + **Integrated Innovation Strategy 2026** and a **second-phase AI Basic Plan** | 27 Mar 2026; 14 Jul 2026 |
+| India | Semiconductors | Union Cabinet approval of **ISM 2.0, ₹1,27,500 cr across six pillars** | 15 Jul 2026 |
+| Canada | Nuclear | First **Nuclear Energy Strategy for Canada** (4 pillars); SMR Action Plan becomes a pillar | 22 Jun 2026 |
+| Canada | Materials | **Canada Critical Minerals Accelerator** + first strategic investment agreement | 7 Jul 2026 |
+| United States | AI / semis / autonomous / quantum | OSTP report **"Science: A New Golden Age"**; **>$5B for the Genesis Mission**; DOE Nuclear Lifecycle Innovation Campuses | 21–28 Jul 2026 |
+| Ireland | AI | **Regulation of Artificial Intelligence Act 2026** signed; **AI Office of Ireland** established | 21 & 30 Jul 2026 |
+| Poland | AI | **Ustawa o systemach sztucznej inteligencji** signed (promulgated 27 Jul) | 24 Jul 2026 |
+| Germany | AI | **Gesetz zur Durchführung der europäischen KI-Verordnung** (Bundesrat; partly in force 29 Jul) | 10 Jul 2026 |
+| European Union | AI | Cybersecurity-and-AI action plan; transparency guidelines; **AI Omnibus** simplification in force | 7, 20, 27 Jul 2026 |
+| Switzerland | Nuclear | Revised **Kernenergiegesetz** published (BBl 2026 1772); "Blackout stoppen" initiative **conditionally withdrawn** | 29 Jun 2026 |
+| Saudi Arabia | Nuclear | **US–Saudi Section 123 agreement signed** | 22 Jul 2026 |
+| Malaysia | Digital / AI | **Malaysia Digital 2030 Action Plan (MD2030), "Towards an AI Nation"** supersedes MyDIGITAL; NAIO **AI Governance Bill** consultation | 29 Jun & 10 Jul 2026 |
+| South Korea | Semiconductors | **Semiconductor Special Act** enforcement-decree notice (Act effective Aug 2026); "Three Mega Projects for AI and Semiconductors" | 25 & 28 Jun 2026 |
+| Sweden | Nuclear | State takes **60% of Videberg Kraft** to build Ringhals SMRs — first use of the financing model | 25 Jun 2026 |
+| Netherlands | Materials | First **Nederlandse Kritieke Grondstoffenlijst** (17 materials) | 7 Jul 2026 |
+| Singapore | Digital | Draft **Digital Infrastructure Bill** out for consultation | 1 Jul 2026 |
+| Australia | AI / digital | **Office of AI** (PM&C) + **Australian Standards for AI**; data-centre power/water obligations | 15 Jul 2026 |
+| China | AI / materials | Two WAIC action plans (**International AI Ethical Governance**; **AI Cooperative Development**); **helium export ban** (MOFCOM/GAC No. 29) | 17 & 10 Jul 2026 |
+| Philippines | Digital | **Executive Order 119** — data classification + **data-residency framework** | 13 Jul 2026 |
+| Vietnam | AI | **Decision 33/2026/QĐ-TTg** — official list of high-risk AI systems | 30 Jun 2026 |
+| Indonesia | Digital | Bappenas/Komdigi **Digital Infrastructure Roadmap 2026–2030** | 29 Jul 2026 |
+| Mexico | Materials | **Programa Institucional de Litio para México 2026–2030** (DOF) | 24 Jul 2026 |
+| Taiwan | AI / nuclear | MODA **AI Risk Classification Framework**; NSC second-round review of the Maanshan restart | 7 & 3 Jul 2026 |
+| Israel | AI / quantum | National AI Programme industry consultation; **NIS 100M** national quantum-computing infrastructure call | 5 & 20 Jul 2026 |
+| Ukraine | Autonomous | "Brave International" framework; **Drone Deal** technology/weapons transfer procedure (30-day approvals) | 29 Jun & 1 Jul 2026 |
+| Kazakhstan | Digital / AI | Amending law on digitalisation, personal data and **advanced transport technologies**; accession to **Pax Silica** | 24 & 25 Jun 2026 |
+| Norway | Digital | Tightened **data-centre security requirements** | 30 Jun 2026 |
+| New Zealand | Materials | **Minerals Strategy Report Card and Delivery Roadmap 2026** | 14 Jul 2026 |
+| UK | Materials / autonomous | Critical Minerals **Magnet Hub** guidance; **Automated Vehicles (Marketing Restrictions) Regulations 2026** | 1 & 7 Jul 2026 |
+
+**Emerging cross-cutting themes in this window:**
+
+- **AI law is now implementation, not proposal.** Ireland, Poland and Germany all put EU-AI-Act implementation statutes on the books within three weeks of each other, while the EU itself began *loosening* its own timetable via the AI Omnibus — the first visible competitiveness-driven retreat from the 2024 settlement. Korea amended its Enforcement Decree, Taiwan issued risk-classification rules, Vietnam published its high-risk list, and Malaysia and Indonesia moved from guidelines toward binding instruments.
+- **"Pax Silica" appears as a bloc.** A US-led critical-minerals-and-AI alignment (Kazakhstan and Norway accede in this window; the Philippines joined in April 2026) is emerging as the counterpart to China's WAIC governance push of 17 July — two rival multilateral AI/minerals architectures now recruiting in parallel.
+- **Compute has become physical-infrastructure policy.** Australia now conditions data centres on underwriting their own power and meeting water limits; Norway tightened data-centre security; Singapore is legislating cloud/data-centre resilience; Thailand added an energy screen to data-centre investment incentives; the Philippines mandated data residency. The AI build-out is being regulated as utilities and land use, not as software.
+- **Export controls moved further up the process stack.** China's helium prohibition extends the rare-earth playbook to a semiconductor *process gas* — the input layer beneath materials.
+- **Nuclear kept converting policy into finance.** Sweden's 60% equity stake, Canada's national strategy, Switzerland's enacted repeal, and the US–Saudi 123 agreement all shift the frontier from "should we" to "who pays and who supplies."
+
+**Posture change:** one — **Switzerland nuclear 2 → 3**, on the enacted repeal of the new-build ban plus withdrawal of the competing initiative. Other new documents in the window were judged to consolidate existing postures rather than move them (e.g. India semiconductors stays 3: a much larger budget, but not leading-edge capability; Saudi nuclear stays 2: the 123 agreement enables, but no build has begun).
+
+**Verification caveats for this pass:** four claims surfaced by the search sweep were rejected or corrected — a purported METI revision of Japan's *Semiconductor and Digital Industry Strategy* on 23 Jun 2026 (does not exist; the real revision is 2023), a Swedish national AI strategy "of 20 July 2026" (actually 20 Feb 2026), Korea's Semiconductor Special Act "taking effect" 25 Jun 2026 (that was the enforcement-decree legislative notice; the Act takes effect Aug 2026), and an Indonesian AI Presidential Regulation described as finalised (still a draft awaiting signature). Deep-link URLs for several new documents could not be independently resolved (canada.ca and gov.pl block automated fetches), so profiles cite ministry landing pages, per the convention in `sources/_verification.md`.
+
 ## Country Files
 
 ### Batch 1 — OECD anchors + China + ASEAN + India

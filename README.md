@@ -5,7 +5,7 @@ An open reference mapping the **official national strategies, plans, laws and po
 **🔗 Live interactive heatmap:** https://curioputterings.github.io/national-technology-strategies/
 **📚 Full catalogue (country index, flagship matrices, cross-cutting analysis):** [INDEX.md](INDEX.md)
 
-**🔄 Last refreshed: June 2026** — all 46 entities re-checked for new/updated plans, laws, and strategies published since the original build (e.g. the 2025–26 US executive-order wave, China's 15th Five-Year Plan + "AI Plus", national AI laws across Korea/Japan/Vietnam/Italy/Spain/Kazakhstan, and a near-universal critical-minerals push). The heatmap postures were re-scored accordingly.
+**🔄 Last refreshed: July 2026** — all 46 entities swept for plans, laws and strategies issued 20 June – 30 July 2026. Headline changes: Japan's 7th S&T Basic Plan + Integrated Innovation Strategy 2026 and a second-phase AI Basic Plan; India's ₹1,27,500 cr Cabinet approval of ISM 2.0; Canada's first Nuclear Energy Strategy; the US "Science: A New Golden Age" report and >$5B Genesis Mission; national AI acts in Ireland and Poland and an EU AI-Act omnibus; Switzerland's nuclear new-build ban lifted; the US–Saudi 123 agreement; Malaysia's MD2030 "AI Nation" plan. See [INDEX.md](INDEX.md#july-2026-delta-refresh) for the full log. (Prior refresh: June 2026 — the 2025–26 US executive-order wave, China's 15th Five-Year Plan + "AI Plus", national AI laws across Korea/Japan/Vietnam/Italy/Spain/Kazakhstan, and a near-universal critical-minerals push.)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/curioputterings)
 
